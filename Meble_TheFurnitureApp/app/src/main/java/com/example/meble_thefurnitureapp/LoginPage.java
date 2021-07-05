@@ -21,4 +21,7 @@ public class LoginPage extends AppCompatActivity {
 
     public void login(View view) {
     }
+
+    public void forgetpass(View view) {
+    }
 }

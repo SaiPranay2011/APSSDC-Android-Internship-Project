@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589192760986",
+    "project_id": "meblefurniture-6221c",
+    "storage_bucket": "meblefurniture-6221c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589192760986:android:3bc84d8d2e7fc2f6e35923",
+        "android_client_info": {
+          "package_name": "com.example.meble_thefurnitureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589192760986-di2tcp1rnaouluaa75ug004hn5cu7iep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0M4aeQuexRt0DsmqhLPRAKPNOpGANHEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589192760986-di2tcp1rnaouluaa75ug004hn5cu7iep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
