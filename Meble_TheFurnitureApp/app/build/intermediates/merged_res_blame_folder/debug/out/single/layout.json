@@ -8,6 +8,10 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\app_bar_home_page.xml"
     },
     {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\resetpassword.xml",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\resetpassword.xml"
+    },
+    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_page.xml",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\activity_login_page.xml"
     },

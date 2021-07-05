@@ -1,13 +1,17 @@
 package com.example.meble_thefurnitureapp;
 
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingComponent;
 import androidx.databinding.DataBindingUtil;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.Toast;
 
 import com.example.meble_thefurnitureapp.databinding.ActivityLoginPageBinding;
@@ -105,5 +109,40 @@ public class LoginPage extends AppCompatActivity {
     }
 
     public void forgetpass(View view) {
+        AlertDialog.Builder b = new AlertDialog.Builder(this);
+        View v  = LayoutInflater.from(this).inflate(R.layout.resetpassword,null,false);
+        EditText m = v.findViewById(R.id.reemail);
+        b.setView(v);
+        b.setCancelable(false);
+        b.setPositiveButton("Reset", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                String s = m.getText().toString();
+                if (s.isEmpty()) {
+
+                    m.setError(("Cant be empty"));
+                }else{
+                    auth.sendPasswordResetEmail(s).addOnCompleteListener(LoginPage.this, new OnCompleteListener<Void>() {
+                        @Override
+                        public void onComplete(@NonNull  Task<Void> task) {
+                            if (task.isSuccessful()){
+                                Toast.makeText(LoginPage.this, "Reset Mail sent",
+                                        Toast.LENGTH_SHORT).show();
+                            }else{
+                                Toast.makeText(LoginPage.this, "failed",
+                                        Toast.LENGTH_SHORT).show();
+                            }
+                        }
+                    });
+                }
+            }
+        });
+        b.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.dismiss();
+            }
+        });
+        b.show();
     }
 }

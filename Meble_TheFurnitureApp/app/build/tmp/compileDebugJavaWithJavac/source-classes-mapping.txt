@@ -6,6 +6,8 @@ com/example/meble_thefurnitureapp/databinding/NavHeaderHomePageBinding.java
 com/example/meble_thefurnitureapp/HomePage.java
  com.example.meble_thefurnitureapp.HomePage
  com.example.meble_thefurnitureapp.HomePage$1
+com/example/meble_thefurnitureapp/databinding/ResetpasswordBinding.java
+ com.example.meble_thefurnitureapp.databinding.ResetpasswordBinding
 com/example/meble_thefurnitureapp/databinding/FragmentHomeBinding.java
  com.example.meble_thefurnitureapp.databinding.FragmentHomeBinding
 com/example/meble_thefurnitureapp/databinding/FragmentGalleryBinding.java
@@ -22,6 +24,9 @@ com/example/meble_thefurnitureapp/LoginPage.java
  com.example.meble_thefurnitureapp.LoginPage
  com.example.meble_thefurnitureapp.LoginPage$1
  com.example.meble_thefurnitureapp.LoginPage$2
+ com.example.meble_thefurnitureapp.LoginPage$3
+ com.example.meble_thefurnitureapp.LoginPage$3$1
+ com.example.meble_thefurnitureapp.LoginPage$4
 com/example/meble_thefurnitureapp/ui/home/HomeFragment.java
  com.example.meble_thefurnitureapp.ui.home.HomeFragment
  com.example.meble_thefurnitureapp.ui.home.HomeFragment$1
