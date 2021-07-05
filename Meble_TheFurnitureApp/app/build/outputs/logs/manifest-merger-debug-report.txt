@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.databinding:databinding-adapters:4.2.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d238628a05657d6b2b78ffba67456b29\databinding-adapters-4.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:databinding-runtime:4.2.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d58992530bb3c56287629520c9d5f6fb\databinding-runtime-4.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\1410e63ec9f9c520afa7e40b4c689ca9\viewbinding-4.2.1\AndroidManifest.xml:17:1-22:12
@@ -87,20 +87,20 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\chebi\.gradle\caches\transform
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\ff17e7f655b4f093b03e9d1751445ef0\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\a8627e6dbfc94fd3ad374eb7e717c49e\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\34e5784f87f4ddcffc2d67c11744cf38\grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
-INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:3:5-48
 		INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
 		INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:2:11-69
@@ -139,7 +139,7 @@ ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_Th
 	android:name
 		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:7:22-79
 application
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:9:5-29:19
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:9:5-26:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\0675e88808741d93b025a32e3489a01e\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\0675e88808741d93b025a32e3489a01e\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\c34194c7874fb0dd94a9f4890f92ffe5\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -210,36 +210,32 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ch
 		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:15:9-59
-activity#com.example.meble_thefurnitureapp.RegisterPage
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:16:9-59
-	android:name
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:16:19-47
 activity#com.example.meble_thefurnitureapp.HomePage
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:17:9-20:78
-	android:label
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:19:13-61
-	android:theme
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:20:13-75
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:16:9-55
 	android:name
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:18:13-37
+		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:16:19-43
+activity#com.example.meble_thefurnitureapp.RegisterPage
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:17:9-50
+	android:name
+		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:17:19-47
 activity#com.example.meble_thefurnitureapp.LoginPage
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:21:9-47
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:18:9-47
 	android:name
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:21:19-44
+		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:18:19-44
 activity#com.example.meble_thefurnitureapp.MainActivity
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:22:9-28:20
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:22:19-47
+		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:19:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml

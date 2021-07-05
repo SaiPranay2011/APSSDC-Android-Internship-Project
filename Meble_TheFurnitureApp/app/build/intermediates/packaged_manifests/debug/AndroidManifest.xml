@@ -25,11 +25,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp" >
+        <activity android:name="com.example.meble_thefurnitureapp.HomePage" />
         <activity android:name="com.example.meble_thefurnitureapp.RegisterPage" />
-        <activity
-            android:name="com.example.meble_thefurnitureapp.HomePage"
-            android:label="@string/title_activity_home_page"
-            android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar" />
         <activity android:name="com.example.meble_thefurnitureapp.LoginPage" />
         <activity android:name="com.example.meble_thefurnitureapp.MainActivity" >
             <intent-filter>

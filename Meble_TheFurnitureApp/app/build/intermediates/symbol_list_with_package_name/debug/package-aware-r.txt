@@ -1780,9 +1780,6 @@ drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_lock
-drawable ic_menu_camera
-drawable ic_menu_gallery
-drawable ic_menu_slideshow
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -1822,7 +1819,6 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable shape
-drawable side_nav_bar
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1903,7 +1899,6 @@ id all
 id always
 id animateToEnd
 id animateToStart
-id app_bar_home_page
 id arc
 id asConfigured
 id async
@@ -1984,7 +1979,6 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
-id drawer_layout
 id dropdown_menu
 id easeIn
 id easeInOut
@@ -1999,7 +1993,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fade
 id fill
 id fill_horizontal
@@ -2032,7 +2025,6 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView
 id info
 id invisible
 id inward
@@ -2109,9 +2101,7 @@ id nav_controller_view_tag
 id nav_gallery
 id nav_home
 id nav_host_fragment_container
-id nav_host_fragment_content_home_page
 id nav_slideshow
-id nav_view
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2186,7 +2176,6 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
-id signout
 id sin
 id skipCollapsed
 id slide
@@ -2240,13 +2229,10 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id textWatcher
-id text_gallery
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
-id text_slideshow
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -2258,7 +2244,6 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
-id toolbar
 id top
 id topPanel
 id touch_outside
@@ -2360,10 +2345,8 @@ layout activity_home_page
 layout activity_login_page
 layout activity_main
 layout activity_register_page
-layout app_bar_home_page
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
-layout content_home_page
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2380,9 +2363,6 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout fragment_gallery
-layout fragment_home
-layout fragment_slideshow
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2426,7 +2406,6 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
-layout nav_header_home_page
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -2452,7 +2431,6 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-menu activity_main_drawer
 menu home_page
 mipmap ic_launcher
 mipmap ic_launcher_round
