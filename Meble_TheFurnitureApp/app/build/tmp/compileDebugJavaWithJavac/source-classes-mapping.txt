@@ -1,0 +1,6 @@
+com/example/meble_thefurnitureapp/LoginPage.java
+ com.example.meble_thefurnitureapp.LoginPage
+com/example/meble_thefurnitureapp/BuildConfig.java
+ com.example.meble_thefurnitureapp.BuildConfig
+com/example/meble_thefurnitureapp/MainActivity.java
+ com.example.meble_thefurnitureapp.MainActivity
