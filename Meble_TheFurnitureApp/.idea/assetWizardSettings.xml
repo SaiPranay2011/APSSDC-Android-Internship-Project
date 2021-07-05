@@ -23,7 +23,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/D:/Android%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/local_phone/baseline_local_phone_24.xml" />
+                                      <entry key="url" value="jar:file:/D:/Android%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/power_settings_new/baseline_power_settings_new_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -33,7 +33,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_phone" />
+                            <entry key="outputName" value="ic_signout" />
                             <entry key="sourceFile" value="D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp" />
                           </map>
                         </option>

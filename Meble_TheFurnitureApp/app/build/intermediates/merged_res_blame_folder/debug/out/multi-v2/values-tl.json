@@ -4,23 +4,6 @@
             "outputFile": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chebi\\.gradle\\caches\\transforms-2\\files-2.1\\d32a5eb88fac3215c5bba72e44f1d368\\play-services-basement-17.1.0\\res\\values-tl\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "203",
-                        "endOffsets": "450"
-                    },
-                    "to": {
-                        "startLines": "45",
-                        "startColumns": "4",
-                        "startOffsets": "4654",
-                        "endColumns": "203",
-                        "endOffsets": "4853"
-                    }
-                },
-                {
                     "source": "C:\\Users\\chebi\\.gradle\\caches\\transforms-2\\files-2.1\\1da791ceba9feec321027b07634bdb60\\core-1.5.0\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2",
@@ -54,6 +37,23 @@
                         "endLines": "5,33,34,35,36,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,106",
                         "endColumns": "12,85,104,135,84,64,98,67,58,88,66,62,74,67,53,119,57,61,53,74,141,89,84,114,83,82,95,66,65,73,77,90,73,78,72,71,103,72,98,99,73,74,106,51,66,90,93,61,63,62,118,101,108,102,84",
                         "endOffsets": "280,3106,3211,3347,3432,6348,6447,6515,6574,6663,6730,6793,6868,6936,6990,7110,7168,7230,7284,7359,7501,7591,7676,7791,7875,7958,8054,8121,8187,8261,8339,8430,8504,8583,8656,8728,8832,8905,9004,9104,9178,9253,9360,9412,9479,9570,9664,9726,9790,9853,9972,10074,10183,10286,10608"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\chebi\\.gradle\\caches\\transforms-2\\files-2.1\\71bf667b776a9b98b2b8d14491090bc5\\play-services-basement-17.1.1\\res\\values-tl\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "203",
+                        "endOffsets": "450"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "4654",
+                        "endColumns": "203",
+                        "endOffsets": "4853"
                     }
                 },
                 {

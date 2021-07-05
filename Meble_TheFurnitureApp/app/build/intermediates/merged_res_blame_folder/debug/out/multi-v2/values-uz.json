@@ -4,6 +4,23 @@
             "outputFile": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\chebi\\.gradle\\caches\\transforms-2\\files-2.1\\71bf667b776a9b98b2b8d14491090bc5\\play-services-basement-17.1.1\\res\\values-uz\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "208",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "4503",
+                        "endColumns": "208",
+                        "endOffsets": "4707"
+                    }
+                },
+                {
                     "source": "C:\\Users\\chebi\\.gradle\\caches\\transforms-2\\files-2.1\\817e3d36b8dc22e327127c196628c118\\navigation-ui-2.3.5\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2,3",
@@ -35,23 +52,6 @@
                         "startOffsets": "288,393,488,588,670,770,887,972,1050,1141,1234,1329,1423,1517,1610,1705,1800,1891,1983,2067,2177,2283,2383,2491,2597,2699,2860,10276",
                         "endColumns": "104,94,99,81,99,116,84,77,90,92,94,93,93,92,94,94,90,91,83,109,105,99,107,105,101,160,98,83",
                         "endOffsets": "388,483,583,665,765,882,967,1045,1136,1229,1324,1418,1512,1605,1700,1795,1886,1978,2062,2172,2278,2378,2486,2592,2694,2855,2954,10355"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\chebi\\.gradle\\caches\\transforms-2\\files-2.1\\d32a5eb88fac3215c5bba72e44f1d368\\play-services-basement-17.1.0\\res\\values-uz\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "208",
-                        "endOffsets": "455"
-                    },
-                    "to": {
-                        "startLines": "45",
-                        "startColumns": "4",
-                        "startOffsets": "4503",
-                        "endColumns": "208",
-                        "endOffsets": "4707"
                     }
                 },
                 {
