@@ -2,7 +2,7 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/mobile_navigation"
+    android:id="@+id/mobile_navigation2"
     app:startDestination="@+id/nav_home">
 
     <fragment
@@ -22,4 +22,9 @@
         android:name="com.example.meble_thefurnitureapp.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_bar_furniture"
+        android:name="com.example.meble_thefurnitureapp.BarFurniture"
+        android:label="fragment_bar_furniture"
+        tools:layout="@layout/fragment_bar_furniture" />
 </navigation>

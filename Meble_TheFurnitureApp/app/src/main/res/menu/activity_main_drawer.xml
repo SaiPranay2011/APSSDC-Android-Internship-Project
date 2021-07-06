@@ -8,14 +8,56 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/menu_home" />
+
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:title="Categories">
+            <menu>
+                <item
+                    android:id="@+id/nav_bar_furniture"
+                    android:icon="@drawable/ic_bar_furniture"
+                    android:title="Bar Furniture"/>
+
+                <item
+                    android:id="@+id/nav_gallery"
+                    android:icon="@drawable/ic_bed"
+                    android:title="Beds"/>
+
+                <item
+                    android:id="@+id/nav_slideshow"
+                    android:icon="@drawable/ic_book_cases"
+                    android:title="Bookcases and Shelving Units" />
+                <item
+                    android:id="@+id/nav_chairs"
+                    android:icon="@drawable/ic_chair"
+                    android:title="Chairs" />
+                <item
+                    android:id="@+id/nav_children_funiture"
+                    android:icon="@drawable/ic_child"
+                    android:title="Children's Furniture" />
+                <item
+                    android:id="@+id/nav_furniture_sets"
+                    android:icon="@drawable/ic_deck"
+                    android:title="Furniture Sets" />
+                <item
+                    android:id="@+id/nav_sofa"
+                    android:icon="@drawable/ic_book_cases"
+                    android:title="Sofas and Arm chairs" />
+                <item
+                    android:id="@+id/nav_tables"
+                    android:icon="@drawable/ic_book_cases"
+                    android:title="Tables and Desks" />
+                <item
+                    android:id="@+id/nav_media"
+                    android:icon="@drawable/ic_book_cases"
+                    android:title="TV and Media Furniture" />
+                <item
+                    android:id="@+id/nav_wardrobe"
+                    android:icon="@drawable/ic_book_cases"
+                    android:title="Wardrobe Furniture" />
+            </menu>
+        </item>
+
+
 
         <item
             android:id="@+id/nav_signout"
@@ -24,4 +66,5 @@
             android:onClick="signout"/>
 
     </group>
+
 </menu>
