@@ -11,20 +11,58 @@
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home" />
 
-    <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.meble_thefurnitureapp.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
 
-    <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.meble_thefurnitureapp.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
     <fragment
         android:id="@+id/nav_bar_furniture"
         android:name="com.example.meble_thefurnitureapp.BarFurniture"
         android:label="fragment_bar_furniture"
         tools:layout="@layout/fragment_bar_furniture" />
+
+    <fragment
+        android:id="@+id/nav_beds"
+        android:name="com.example.meble_thefurnitureapp.Beds"
+        android:label="fragment_beds"
+        tools:layout="@layout/fragment_beds" />
+
+    <fragment
+        android:id="@+id/nav_bookcases_shelves"
+        android:name="com.example.meble_thefurnitureapp.Bookcases_shelves"
+        android:label="fragment_bookcases_shelves"
+        tools:layout="@layout/fragment_bookcases_shelves" />
+    <fragment
+        android:id="@+id/nav_chairs"
+        android:name="com.example.meble_thefurnitureapp.Chairs"
+        android:label="fragment_chairs"
+        tools:layout="@layout/fragment_chairs" />
+    <fragment
+        android:id="@+id/nav_children_furniture"
+        android:name="com.example.meble_thefurnitureapp.ChildrensFurniture"
+        android:label="fragment_childrens_furniture"
+        tools:layout="@layout/fragment_childrens_furniture" />
+    <fragment
+        android:id="@+id/nav_furniture_sets"
+        android:name="com.example.meble_thefurnitureapp.FurnitureSets"
+        android:label="fragment_furniture_sets"
+        tools:layout="@layout/fragment_furniture_sets" />
+    <fragment
+        android:id="@+id/nav_sofa"
+        android:name="com.example.meble_thefurnitureapp.Sofas_Armchairs"
+        android:label="fragment_sofas__armchairs"
+        tools:layout="@layout/fragment_sofas__armchairs" />
+    <fragment
+        android:id="@+id/nav_tables"
+        android:name="com.example.meble_thefurnitureapp.Tables_desks"
+        android:label="fragment_tables_desks"
+        tools:layout="@layout/fragment_tables_desks" />
+    <fragment
+        android:id="@+id/nav_media"
+        android:name="com.example.meble_thefurnitureapp.Tv_media_furniture"
+        android:label="fragment_tv_media_furniture"
+        tools:layout="@layout/fragment_tv_media_furniture" />
+    <fragment
+        android:id="@+id/nav_wardrobe"
+        android:name="com.example.meble_thefurnitureapp.Wardrobefurniture"
+        android:label="fragment_wardrobefurniture"
+        tools:layout="@layout/fragment_wardrobefurniture" />
+
 </navigation>

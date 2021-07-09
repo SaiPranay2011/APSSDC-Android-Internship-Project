@@ -18,12 +18,12 @@
                     android:title="Bar Furniture"/>
 
                 <item
-                    android:id="@+id/nav_gallery"
+                    android:id="@+id/nav_beds"
                     android:icon="@drawable/ic_bed"
                     android:title="Beds"/>
 
                 <item
-                    android:id="@+id/nav_slideshow"
+                    android:id="@+id/nav_bookcases_shelves"
                     android:icon="@drawable/ic_book_cases"
                     android:title="Bookcases and Shelving Units" />
                 <item
