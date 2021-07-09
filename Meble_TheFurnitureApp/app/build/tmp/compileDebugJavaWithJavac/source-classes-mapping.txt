@@ -2,7 +2,6 @@ com/example/meble_thefurnitureapp/databinding/FragmentSofasArmchairsBinding.java
  com.example.meble_thefurnitureapp.databinding.FragmentSofasArmchairsBinding
 com/example/meble_thefurnitureapp/HomePage.java
  com.example.meble_thefurnitureapp.HomePage
- com.example.meble_thefurnitureapp.HomePage$1
 com/example/meble_thefurnitureapp/databinding/ResetpasswordBinding.java
  com.example.meble_thefurnitureapp.databinding.ResetpasswordBinding
 com/example/meble_thefurnitureapp/databinding/FragmentFurnitureSetsBinding.java
