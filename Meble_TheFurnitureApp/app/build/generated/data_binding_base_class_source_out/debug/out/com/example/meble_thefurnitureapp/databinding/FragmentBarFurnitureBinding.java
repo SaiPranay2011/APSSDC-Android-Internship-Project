@@ -4,7 +4,7 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -14,15 +14,15 @@ import java.lang.Override;
 
 public final class FragmentBarFurnitureBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final ScrollView rootView;
 
-  private FragmentBarFurnitureBinding(@NonNull FrameLayout rootView) {
+  private FragmentBarFurnitureBinding(@NonNull ScrollView rootView) {
     this.rootView = rootView;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -47,6 +47,6 @@ public final class FragmentBarFurnitureBinding implements ViewBinding {
       throw new NullPointerException("rootView");
     }
 
-    return new FragmentBarFurnitureBinding((FrameLayout) rootView);
+    return new FragmentBarFurnitureBinding((ScrollView) rootView);
   }
 }

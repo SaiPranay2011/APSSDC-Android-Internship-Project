@@ -14,7 +14,6 @@ com/example/meble_thefurnitureapp/BarFurniture.java
  com.example.meble_thefurnitureapp.BarFurniture
 com/example/meble_thefurnitureapp/ui/home/HomeFragment.java
  com.example.meble_thefurnitureapp.ui.home.HomeFragment
- com.example.meble_thefurnitureapp.ui.home.HomeFragment$1
 com/example/meble_thefurnitureapp/Tables_desks.java
  com.example.meble_thefurnitureapp.Tables_desks
 com/example/meble_thefurnitureapp/databinding/FragmentChildrensFurnitureBinding.java

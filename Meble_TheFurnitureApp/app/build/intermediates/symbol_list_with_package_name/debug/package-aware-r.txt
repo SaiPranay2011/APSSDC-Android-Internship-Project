@@ -1745,6 +1745,14 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable ba
+drawable ba1
+drawable ba2
+drawable ba3
+drawable ba4
+drawable ba5
+drawable ba6
+drawable ba7
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2019,7 +2027,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fade
 id fill
 id fill_horizontal
@@ -2273,7 +2280,6 @@ id textStart
 id textTop
 id textView
 id textWatcher
-id text_home
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2572,7 +2578,6 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
-string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
