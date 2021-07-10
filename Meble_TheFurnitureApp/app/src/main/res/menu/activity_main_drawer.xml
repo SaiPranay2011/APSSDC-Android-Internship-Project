@@ -30,18 +30,12 @@
                     android:id="@+id/nav_chairs"
                     android:icon="@drawable/ic_chair"
                     android:title="Chairs" />
-                <item
-                    android:id="@+id/nav_children_furniture"
-                    android:icon="@drawable/ic_child"
-                    android:title="Children's Furniture" />
+
                 <item
                     android:id="@+id/nav_furniture_sets"
                     android:icon="@drawable/ic_deck"
                     android:title="Furniture Sets" />
-                <item
-                    android:id="@+id/nav_sofa"
-                    android:icon="@drawable/ic_sofas_and_armchairs"
-                    android:title="Sofas and Arm chairs" />
+
                 <item
                     android:id="@+id/nav_tables"
                     android:icon="@drawable/ic_tables_and_desks"
@@ -50,10 +44,7 @@
                     android:id="@+id/nav_media"
                     android:icon="@drawable/ic_tv_and_mediafurniture"
                     android:title="TV and Media Furniture" />
-                <item
-                    android:id="@+id/nav_wardrobe"
-                    android:icon="@drawable/ic_wardrobe"
-                    android:title="Wardrobe Furniture" />
+
             </menu>
         </item>
 
