@@ -1,63 +1,113 @@
-com/example/meble_thefurnitureapp/databinding/FragmentSofasArmchairsBinding.java
- com.example.meble_thefurnitureapp.databinding.FragmentSofasArmchairsBinding
+com/example/meble_thefurnitureapp/Beds_BunkBeds.java
+ com.example.meble_thefurnitureapp.Beds_BunkBeds
+com/example/meble_thefurnitureapp/Chairs_DeskChairs.java
+ com.example.meble_thefurnitureapp.Chairs_DeskChairs
 com/example/meble_thefurnitureapp/HomePage.java
  com.example.meble_thefurnitureapp.HomePage
 com/example/meble_thefurnitureapp/databinding/ResetpasswordBinding.java
  com.example.meble_thefurnitureapp.databinding.ResetpasswordBinding
+com/example/meble_thefurnitureapp/BookcasesShelves_ShelvingUnits.java
+ com.example.meble_thefurnitureapp.BookcasesShelves_ShelvingUnits
 com/example/meble_thefurnitureapp/databinding/FragmentFurnitureSetsBinding.java
  com.example.meble_thefurnitureapp.databinding.FragmentFurnitureSetsBinding
+com/example/meble_thefurnitureapp/Chairs_DiningChairs.java
+ com.example.meble_thefurnitureapp.Chairs_DiningChairs
+com/example/meble_thefurnitureapp/ui/home/HomeFragment.java
+ com.example.meble_thefurnitureapp.ui.home.HomeFragment
+com/example/meble_thefurnitureapp/databinding/ActivityBedsBunkBedsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBedsBunkBedsBinding
+com/example/meble_thefurnitureapp/databinding/ActivityBookcasesShelvesStorageShelvesBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBookcasesShelvesStorageShelvesBinding
+com/example/meble_thefurnitureapp/databinding/ActivityRegisterPageBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityRegisterPageBinding
+com/example/meble_thefurnitureapp/Tv_media_furniture.java
+ com.example.meble_thefurnitureapp.Tv_media_furniture
+com/example/meble_thefurnitureapp/databinding/FragmentTvMediaFurnitureBinding.java
+ com.example.meble_thefurnitureapp.databinding.FragmentTvMediaFurnitureBinding
+com/example/meble_thefurnitureapp/ui/home/HomeViewModel.java
+ com.example.meble_thefurnitureapp.ui.home.HomeViewModel
+com/example/meble_thefurnitureapp/Beds.java
+ com.example.meble_thefurnitureapp.Beds
+ com.example.meble_thefurnitureapp.Beds$1
+ com.example.meble_thefurnitureapp.Beds$2
+ com.example.meble_thefurnitureapp.Beds$3
+ com.example.meble_thefurnitureapp.Beds$4
+ com.example.meble_thefurnitureapp.Beds$5
+ com.example.meble_thefurnitureapp.Beds$6
+ com.example.meble_thefurnitureapp.Beds$7
+com/example/meble_thefurnitureapp/Beds_SofaBeds.java
+ com.example.meble_thefurnitureapp.Beds_SofaBeds
+com/example/meble_thefurnitureapp/databinding/ActivityBedsDoubleBedsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBedsDoubleBedsBinding
+com/example/meble_thefurnitureapp/databinding/ActivityChairsDiningChairsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityChairsDiningChairsBinding
+com/example/meble_thefurnitureapp/databinding/ActivityBookcasesShelvesBookcasesBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBookcasesShelvesBookcasesBinding
+com/example/meble_thefurnitureapp/databinding/ActivityChairsBenchesBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityChairsBenchesBinding
+com/example/meble_thefurnitureapp/databinding/ActivityChairsDeskChairsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityChairsDeskChairsBinding
+com/example/meble_thefurnitureapp/databinding/NavHeaderHomePageBinding.java
+ com.example.meble_thefurnitureapp.databinding.NavHeaderHomePageBinding
+com/example/meble_thefurnitureapp/databinding/FragmentHomeBinding.java
+ com.example.meble_thefurnitureapp.databinding.FragmentHomeBinding
+com/example/meble_thefurnitureapp/BookcasesShelves_Bookcases.java
+ com.example.meble_thefurnitureapp.BookcasesShelves_Bookcases
+com/example/meble_thefurnitureapp/databinding/FragmentBarFurnitureBinding.java
+ com.example.meble_thefurnitureapp.databinding.FragmentBarFurnitureBinding
+com/example/meble_thefurnitureapp/databinding/ActivityBedsBabyCotsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBedsBabyCotsBinding
+com/example/meble_thefurnitureapp/RegisterPage.java
+ com.example.meble_thefurnitureapp.RegisterPage
+ com.example.meble_thefurnitureapp.RegisterPage$1
+com/example/meble_thefurnitureapp/databinding/FragmentBedsBinding.java
+ com.example.meble_thefurnitureapp.databinding.FragmentBedsBinding
+com/example/meble_thefurnitureapp/databinding/ActivityBedsChildrensBedsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBedsChildrensBedsBinding
+com/example/meble_thefurnitureapp/Beds_DoubleBeds.java
+ com.example.meble_thefurnitureapp.Beds_DoubleBeds
+com/example/meble_thefurnitureapp/MainActivity.java
+ com.example.meble_thefurnitureapp.MainActivity
+com/example/meble_thefurnitureapp/Beds_BedswithStorage.java
+ com.example.meble_thefurnitureapp.Beds_BedswithStorage
 com/example/meble_thefurnitureapp/databinding/ActivityMainBinding.java
  com.example.meble_thefurnitureapp.databinding.ActivityMainBinding
 com/example/meble_thefurnitureapp/databinding/ActivityHomePageBinding.java
  com.example.meble_thefurnitureapp.databinding.ActivityHomePageBinding
 com/example/meble_thefurnitureapp/BarFurniture.java
  com.example.meble_thefurnitureapp.BarFurniture
-com/example/meble_thefurnitureapp/ui/home/HomeFragment.java
- com.example.meble_thefurnitureapp.ui.home.HomeFragment
+com/example/meble_thefurnitureapp/BookcasesShelves_StorageShelves.java
+ com.example.meble_thefurnitureapp.BookcasesShelves_StorageShelves
 com/example/meble_thefurnitureapp/Tables_desks.java
  com.example.meble_thefurnitureapp.Tables_desks
-com/example/meble_thefurnitureapp/databinding/FragmentChildrensFurnitureBinding.java
- com.example.meble_thefurnitureapp.databinding.FragmentChildrensFurnitureBinding
-com/example/meble_thefurnitureapp/databinding/ActivityRegisterPageBinding.java
- com.example.meble_thefurnitureapp.databinding.ActivityRegisterPageBinding
-com/example/meble_thefurnitureapp/Tv_media_furniture.java
- com.example.meble_thefurnitureapp.Tv_media_furniture
-com/example/meble_thefurnitureapp/Wardrobefurniture.java
- com.example.meble_thefurnitureapp.Wardrobefurniture
+com/example/meble_thefurnitureapp/databinding/ActivityBookcasesShelvesPantryBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBookcasesShelvesPantryBinding
+com/example/meble_thefurnitureapp/Beds_SIngleBeds.java
+ com.example.meble_thefurnitureapp.Beds_SIngleBeds
 com/example/meble_thefurnitureapp/databinding/AppBarHomePageBinding.java
  com.example.meble_thefurnitureapp.databinding.AppBarHomePageBinding
 com/example/meble_thefurnitureapp/DataBindingTriggerClass.java
  com.example.meble_thefurnitureapp.DataBindingTriggerClass
 com/example/meble_thefurnitureapp/databinding/ContentHomePageBinding.java
  com.example.meble_thefurnitureapp.databinding.ContentHomePageBinding
-com/example/meble_thefurnitureapp/databinding/FragmentTvMediaFurnitureBinding.java
- com.example.meble_thefurnitureapp.databinding.FragmentTvMediaFurnitureBinding
+com/example/meble_thefurnitureapp/BookcasesShelves_Pantry.java
+ com.example.meble_thefurnitureapp.BookcasesShelves_Pantry
 com/example/meble_thefurnitureapp/FurnitureSets.java
  com.example.meble_thefurnitureapp.FurnitureSets
-com/example/meble_thefurnitureapp/databinding/FragmentWardrobefurnitureBinding.java
- com.example.meble_thefurnitureapp.databinding.FragmentWardrobefurnitureBinding
-com/example/meble_thefurnitureapp/ui/home/HomeViewModel.java
- com.example.meble_thefurnitureapp.ui.home.HomeViewModel
-com/example/meble_thefurnitureapp/Beds.java
- com.example.meble_thefurnitureapp.Beds
-com/example/meble_thefurnitureapp/Sofas_Armchairs.java
- com.example.meble_thefurnitureapp.Sofas_Armchairs
+com/example/meble_thefurnitureapp/databinding/ActivityChairsStoolsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityChairsStoolsBinding
+com/example/meble_thefurnitureapp/databinding/ActivityBedsSofaBedsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBedsSofaBedsBinding
 com/example/meble_thefurnitureapp/databinding/FragmentChairsBinding.java
  com.example.meble_thefurnitureapp.databinding.FragmentChairsBinding
-com/example/meble_thefurnitureapp/databinding/NavHeaderHomePageBinding.java
- com.example.meble_thefurnitureapp.databinding.NavHeaderHomePageBinding
-com/example/meble_thefurnitureapp/databinding/FragmentHomeBinding.java
- com.example.meble_thefurnitureapp.databinding.FragmentHomeBinding
+com/example/meble_thefurnitureapp/Beds_BabyCots.java
+ com.example.meble_thefurnitureapp.Beds_BabyCots
 com/example/meble_thefurnitureapp/databinding/FragmentBookcasesShelvesBinding.java
  com.example.meble_thefurnitureapp.databinding.FragmentBookcasesShelvesBinding
-com/example/meble_thefurnitureapp/Bookcases_shelves.java
- com.example.meble_thefurnitureapp.Bookcases_shelves
-com/example/meble_thefurnitureapp/Chairs.java
- com.example.meble_thefurnitureapp.Chairs
+com/example/meble_thefurnitureapp/databinding/ActivityBedsSingleBedsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBedsSingleBedsBinding
 com/example/meble_thefurnitureapp/databinding/ActivityLoginPageBinding.java
  com.example.meble_thefurnitureapp.databinding.ActivityLoginPageBinding
-com/example/meble_thefurnitureapp/databinding/FragmentBarFurnitureBinding.java
- com.example.meble_thefurnitureapp.databinding.FragmentBarFurnitureBinding
 com/example/meble_thefurnitureapp/databinding/FragmentTablesDesksBinding.java
  com.example.meble_thefurnitureapp.databinding.FragmentTablesDesksBinding
 com/example/meble_thefurnitureapp/LoginPage.java
@@ -67,14 +117,27 @@ com/example/meble_thefurnitureapp/LoginPage.java
  com.example.meble_thefurnitureapp.LoginPage$3
  com.example.meble_thefurnitureapp.LoginPage$3$1
  com.example.meble_thefurnitureapp.LoginPage$4
-com/example/meble_thefurnitureapp/RegisterPage.java
- com.example.meble_thefurnitureapp.RegisterPage
- com.example.meble_thefurnitureapp.RegisterPage$1
-com/example/meble_thefurnitureapp/databinding/FragmentBedsBinding.java
- com.example.meble_thefurnitureapp.databinding.FragmentBedsBinding
-com/example/meble_thefurnitureapp/ChildrensFurniture.java
- com.example.meble_thefurnitureapp.ChildrensFurniture
+com/example/meble_thefurnitureapp/databinding/ActivityBookcasesShelvesShelvingUnitsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBookcasesShelvesShelvingUnitsBinding
+com/example/meble_thefurnitureapp/databinding/ActivityBedsBedswithStorageBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBedsBedswithStorageBinding
+com/example/meble_thefurnitureapp/Chairs_Stools.java
+ com.example.meble_thefurnitureapp.Chairs_Stools
+com/example/meble_thefurnitureapp/Chairs_Benches.java
+ com.example.meble_thefurnitureapp.Chairs_Benches
+com/example/meble_thefurnitureapp/Beds_ChildrensBeds.java
+ com.example.meble_thefurnitureapp.Beds_ChildrensBeds
 com/example/meble_thefurnitureapp/BuildConfig.java
  com.example.meble_thefurnitureapp.BuildConfig
-com/example/meble_thefurnitureapp/MainActivity.java
- com.example.meble_thefurnitureapp.MainActivity
+com/example/meble_thefurnitureapp/Bookcases_shelves.java
+ com.example.meble_thefurnitureapp.Bookcases_shelves
+ com.example.meble_thefurnitureapp.Bookcases_shelves$1
+ com.example.meble_thefurnitureapp.Bookcases_shelves$2
+ com.example.meble_thefurnitureapp.Bookcases_shelves$3
+ com.example.meble_thefurnitureapp.Bookcases_shelves$4
+com/example/meble_thefurnitureapp/Chairs.java
+ com.example.meble_thefurnitureapp.Chairs
+ com.example.meble_thefurnitureapp.Chairs$1
+ com.example.meble_thefurnitureapp.Chairs$2
+ com.example.meble_thefurnitureapp.Chairs$3
+ com.example.meble_thefurnitureapp.Chairs$4

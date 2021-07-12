@@ -25,6 +25,21 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp" >
+        <activity android:name="com.example.meble_thefurnitureapp.Chairs_Stools" />
+        <activity android:name="com.example.meble_thefurnitureapp.Chairs_DiningChairs" />
+        <activity android:name="com.example.meble_thefurnitureapp.Chairs_DeskChairs" />
+        <activity android:name="com.example.meble_thefurnitureapp.Chairs_Benches" />
+        <activity android:name="com.example.meble_thefurnitureapp.BookcasesShelves_StorageShelves" />
+        <activity android:name="com.example.meble_thefurnitureapp.BookcasesShelves_ShelvingUnits" />
+        <activity android:name="com.example.meble_thefurnitureapp.BookcasesShelves_Pantry" />
+        <activity android:name="com.example.meble_thefurnitureapp.BookcasesShelves_Bookcases" />
+        <activity android:name="com.example.meble_thefurnitureapp.Beds_SofaBeds" />
+        <activity android:name="com.example.meble_thefurnitureapp.Beds_SIngleBeds" />
+        <activity android:name="com.example.meble_thefurnitureapp.Beds_DoubleBeds" />
+        <activity android:name="com.example.meble_thefurnitureapp.Beds_ChildrensBeds" />
+        <activity android:name="com.example.meble_thefurnitureapp.Beds_BunkBeds" />
+        <activity android:name="com.example.meble_thefurnitureapp.Beds_BedswithStorage" />
+        <activity android:name="com.example.meble_thefurnitureapp.Beds_BabyCots" />
         <activity
             android:name="com.example.meble_thefurnitureapp.HomePage"
             android:label="@string/title_activity_home_page"

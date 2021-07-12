@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Beds">
+<LinearLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Beds">
+   >
 
     <!-- TODO: Update blank fragment layout -->
 
@@ -28,12 +33,14 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:id="@+id/BabyCots"
             android:src="@drawable/ic_launcher_background" />
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:id="@+id/BedsWithStorage"
             android:src="@drawable/ic_launcher_background" />
 
     </LinearLayout>
@@ -44,6 +51,7 @@
         android:layout_gravity="center"
         android:layout_margin="10dp"
         android:padding="10dp"
+        android:id="@+id/BunkBeds"
         android:src="@drawable/ic_launcher_background" />
 
     <LinearLayout
@@ -56,16 +64,19 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/ChildrenBeds"
             android:src="@drawable/ic_launcher_background"
             android:layout_weight="1"/>
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:id="@+id/DoubleBeds"
             android:src="@drawable/ic_launcher_background"
             android:layout_weight="1"/>
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:id="@+id/SingleBeds"
             android:src="@drawable/ic_launcher_background"
             android:layout_weight="1"/>
 
@@ -77,8 +88,10 @@
         android:layout_gravity="center"
         android:src="@drawable/ic_launcher_background"
         android:layout_margin="10dp"
+        android:id="@+id/SofaBeds"
         android:padding="10dp"/>
 
 
 
 </LinearLayout>
+</ScrollView>

@@ -4,25 +4,45 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import com.example.meble_thefurnitureapp.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentBookcasesShelvesBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final ScrollView rootView;
 
-  private FragmentBookcasesShelvesBinding(@NonNull FrameLayout rootView) {
+  @NonNull
+  public final ImageView Bookcases;
+
+  @NonNull
+  public final ImageView Pantry;
+
+  @NonNull
+  public final ImageView ShelvingUnits;
+
+  @NonNull
+  public final ImageView StorageShelves;
+
+  private FragmentBookcasesShelvesBinding(@NonNull ScrollView rootView,
+      @NonNull ImageView Bookcases, @NonNull ImageView Pantry, @NonNull ImageView ShelvingUnits,
+      @NonNull ImageView StorageShelves) {
     this.rootView = rootView;
+    this.Bookcases = Bookcases;
+    this.Pantry = Pantry;
+    this.ShelvingUnits = ShelvingUnits;
+    this.StorageShelves = StorageShelves;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -43,10 +63,38 @@ public final class FragmentBookcasesShelvesBinding implements ViewBinding {
 
   @NonNull
   public static FragmentBookcasesShelvesBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.Bookcases;
+      ImageView Bookcases = rootView.findViewById(id);
+      if (Bookcases == null) {
+        break missingId;
+      }
 
-    return new FragmentBookcasesShelvesBinding((FrameLayout) rootView);
+      id = R.id.Pantry;
+      ImageView Pantry = rootView.findViewById(id);
+      if (Pantry == null) {
+        break missingId;
+      }
+
+      id = R.id.ShelvingUnits;
+      ImageView ShelvingUnits = rootView.findViewById(id);
+      if (ShelvingUnits == null) {
+        break missingId;
+      }
+
+      id = R.id.StorageShelves;
+      ImageView StorageShelves = rootView.findViewById(id);
+      if (StorageShelves == null) {
+        break missingId;
+      }
+
+      return new FragmentBookcasesShelvesBinding((ScrollView) rootView, Bookcases, Pantry,
+          ShelvingUnits, StorageShelves);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

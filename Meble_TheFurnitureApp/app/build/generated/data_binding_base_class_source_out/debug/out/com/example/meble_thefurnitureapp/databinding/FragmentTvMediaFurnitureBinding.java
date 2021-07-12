@@ -4,7 +4,7 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -14,15 +14,15 @@ import java.lang.Override;
 
 public final class FragmentTvMediaFurnitureBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final ScrollView rootView;
 
-  private FragmentTvMediaFurnitureBinding(@NonNull FrameLayout rootView) {
+  private FragmentTvMediaFurnitureBinding(@NonNull ScrollView rootView) {
     this.rootView = rootView;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -47,6 +47,6 @@ public final class FragmentTvMediaFurnitureBinding implements ViewBinding {
       throw new NullPointerException("rootView");
     }
 
-    return new FragmentTvMediaFurnitureBinding((FrameLayout) rootView);
+    return new FragmentTvMediaFurnitureBinding((ScrollView) rootView);
   }
 }

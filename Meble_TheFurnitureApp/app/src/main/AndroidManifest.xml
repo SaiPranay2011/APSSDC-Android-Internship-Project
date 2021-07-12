@@ -13,10 +13,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp">
+        <activity android:name=".Chairs_Stools"></activity>
+        <activity android:name=".Chairs_DiningChairs" />
+        <activity android:name=".Chairs_DeskChairs" />
+        <activity android:name=".Chairs_Benches" />
+        <activity android:name=".BookcasesShelves_StorageShelves" />
+        <activity android:name=".BookcasesShelves_ShelvingUnits" />
+        <activity android:name=".BookcasesShelves_Pantry" />
+        <activity android:name=".BookcasesShelves_Bookcases" />
+        <activity android:name=".Beds_SofaBeds" />
+        <activity android:name=".Beds_SIngleBeds" />
+        <activity android:name=".Beds_DoubleBeds" />
+        <activity android:name=".Beds_ChildrensBeds" />
+        <activity android:name=".Beds_BunkBeds" />
+        <activity android:name=".Beds_BedswithStorage" />
+        <activity android:name=".Beds_BabyCots" />
         <activity
             android:name=".HomePage"
             android:label="@string/title_activity_home_page"
-            android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar"></activity>
+            android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar" />
         <activity android:name=".RegisterPage" />
         <activity android:name=".LoginPage" />
         <activity android:name=".MainActivity">

@@ -4,25 +4,58 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import com.example.meble_thefurnitureapp.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentBedsBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final ScrollView rootView;
 
-  private FragmentBedsBinding(@NonNull FrameLayout rootView) {
+  @NonNull
+  public final ImageView BabyCots;
+
+  @NonNull
+  public final ImageView BedsWithStorage;
+
+  @NonNull
+  public final ImageView BunkBeds;
+
+  @NonNull
+  public final ImageView ChildrenBeds;
+
+  @NonNull
+  public final ImageView DoubleBeds;
+
+  @NonNull
+  public final ImageView SingleBeds;
+
+  @NonNull
+  public final ImageView SofaBeds;
+
+  private FragmentBedsBinding(@NonNull ScrollView rootView, @NonNull ImageView BabyCots,
+      @NonNull ImageView BedsWithStorage, @NonNull ImageView BunkBeds,
+      @NonNull ImageView ChildrenBeds, @NonNull ImageView DoubleBeds, @NonNull ImageView SingleBeds,
+      @NonNull ImageView SofaBeds) {
     this.rootView = rootView;
+    this.BabyCots = BabyCots;
+    this.BedsWithStorage = BedsWithStorage;
+    this.BunkBeds = BunkBeds;
+    this.ChildrenBeds = ChildrenBeds;
+    this.DoubleBeds = DoubleBeds;
+    this.SingleBeds = SingleBeds;
+    this.SofaBeds = SofaBeds;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -43,10 +76,56 @@ public final class FragmentBedsBinding implements ViewBinding {
 
   @NonNull
   public static FragmentBedsBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.BabyCots;
+      ImageView BabyCots = rootView.findViewById(id);
+      if (BabyCots == null) {
+        break missingId;
+      }
 
-    return new FragmentBedsBinding((FrameLayout) rootView);
+      id = R.id.BedsWithStorage;
+      ImageView BedsWithStorage = rootView.findViewById(id);
+      if (BedsWithStorage == null) {
+        break missingId;
+      }
+
+      id = R.id.BunkBeds;
+      ImageView BunkBeds = rootView.findViewById(id);
+      if (BunkBeds == null) {
+        break missingId;
+      }
+
+      id = R.id.ChildrenBeds;
+      ImageView ChildrenBeds = rootView.findViewById(id);
+      if (ChildrenBeds == null) {
+        break missingId;
+      }
+
+      id = R.id.DoubleBeds;
+      ImageView DoubleBeds = rootView.findViewById(id);
+      if (DoubleBeds == null) {
+        break missingId;
+      }
+
+      id = R.id.SingleBeds;
+      ImageView SingleBeds = rootView.findViewById(id);
+      if (SingleBeds == null) {
+        break missingId;
+      }
+
+      id = R.id.SofaBeds;
+      ImageView SofaBeds = rootView.findViewById(id);
+      if (SofaBeds == null) {
+        break missingId;
+      }
+
+      return new FragmentBedsBinding((ScrollView) rootView, BabyCots, BedsWithStorage, BunkBeds,
+          ChildrenBeds, DoubleBeds, SingleBeds, SofaBeds);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

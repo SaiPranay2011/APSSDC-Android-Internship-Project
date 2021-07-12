@@ -1,5 +1,6 @@
 package com.example.meble_thefurnitureapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,6 +8,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -59,6 +61,47 @@ public class Chairs extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_chairs, container, false);
+        View view = inflater.inflate(R.layout.fragment_chairs, container, false);
+
+        ImageView BenchesActivity = (ImageView) view.findViewById(R.id.Benches);
+
+        ImageView DeskChairsActivity = (ImageView) view.findViewById(R.id.DeskChairs);
+
+        ImageView DiningChairsActivity = (ImageView) view.findViewById(R.id.DiningChairs);
+
+        ImageView StoolsActivity = (ImageView) view.findViewById(R.id.Stools);
+
+        BenchesActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),Chairs_Benches.class);
+                startActivity(i);
+            }
+        });
+
+        DeskChairsActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),Chairs_DeskChairs.class);
+                startActivity(i);
+            }
+        });
+
+        DiningChairsActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),Chairs_DiningChairs.class);
+                startActivity(i);
+            }
+        });
+
+        StoolsActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),Chairs_Stools.class);
+                startActivity(i);
+            }
+        });
+        return view;
     }
 }

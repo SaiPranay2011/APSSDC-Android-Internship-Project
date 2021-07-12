@@ -1,5 +1,6 @@
 package com.example.meble_thefurnitureapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,6 +8,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -59,6 +61,47 @@ public class Bookcases_shelves extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_bookcases_shelves, container, false);
+        View view = inflater.inflate(R.layout.fragment_bookcases_shelves, container, false);
+
+        ImageView BookcasesActivity = (ImageView) view.findViewById(R.id.Bookcases);
+
+        ImageView PantryActivity = (ImageView) view.findViewById(R.id.Pantry);
+
+        ImageView ShelvingUnitsActivity = (ImageView) view.findViewById(R.id.ShelvingUnits);
+
+        ImageView StorageShelvesActivity = (ImageView) view.findViewById(R.id.StorageShelves);
+
+        BookcasesActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),BookcasesShelves_Bookcases.class);
+                startActivity(i);
+            }
+        });
+
+        PantryActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),BookcasesShelves_Pantry.class);
+                startActivity(i);
+            }
+        });
+
+        ShelvingUnitsActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),BookcasesShelves_ShelvingUnits.class);
+                startActivity(i);
+            }
+        });
+
+        StorageShelvesActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),BookcasesShelves_StorageShelves.class);
+                startActivity(i);
+            }
+        });
+        return view;
     }
 }

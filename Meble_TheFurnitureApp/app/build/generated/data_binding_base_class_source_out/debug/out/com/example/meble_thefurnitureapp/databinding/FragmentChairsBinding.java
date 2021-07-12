@@ -4,25 +4,44 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import com.example.meble_thefurnitureapp.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentChairsBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final LinearLayout rootView;
 
-  private FragmentChairsBinding(@NonNull FrameLayout rootView) {
+  @NonNull
+  public final ImageView Benches;
+
+  @NonNull
+  public final ImageView DeskChairs;
+
+  @NonNull
+  public final ImageView DiningChairs;
+
+  @NonNull
+  public final ImageView Stools;
+
+  private FragmentChairsBinding(@NonNull LinearLayout rootView, @NonNull ImageView Benches,
+      @NonNull ImageView DeskChairs, @NonNull ImageView DiningChairs, @NonNull ImageView Stools) {
     this.rootView = rootView;
+    this.Benches = Benches;
+    this.DeskChairs = DeskChairs;
+    this.DiningChairs = DiningChairs;
+    this.Stools = Stools;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -43,10 +62,38 @@ public final class FragmentChairsBinding implements ViewBinding {
 
   @NonNull
   public static FragmentChairsBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.Benches;
+      ImageView Benches = rootView.findViewById(id);
+      if (Benches == null) {
+        break missingId;
+      }
 
-    return new FragmentChairsBinding((FrameLayout) rootView);
+      id = R.id.DeskChairs;
+      ImageView DeskChairs = rootView.findViewById(id);
+      if (DeskChairs == null) {
+        break missingId;
+      }
+
+      id = R.id.DiningChairs;
+      ImageView DiningChairs = rootView.findViewById(id);
+      if (DiningChairs == null) {
+        break missingId;
+      }
+
+      id = R.id.Stools;
+      ImageView Stools = rootView.findViewById(id);
+      if (Stools == null) {
+        break missingId;
+      }
+
+      return new FragmentChairsBinding((LinearLayout) rootView, Benches, DeskChairs, DiningChairs,
+          Stools);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }
