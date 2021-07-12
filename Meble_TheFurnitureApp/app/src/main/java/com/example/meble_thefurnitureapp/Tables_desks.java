@@ -1,5 +1,6 @@
 package com.example.meble_thefurnitureapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,6 +8,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -59,6 +61,67 @@ public class Tables_desks extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_tables_desks, container, false);
+        View view = inflater.inflate(R.layout.fragment_tables_desks, container, false);
+
+        ImageView BedsideTableActivity = (ImageView) view.findViewById(R.id.BedsideTable);
+
+        ImageView CafeTableActivity = (ImageView) view.findViewById(R.id.CafeTable);
+
+        ImageView ChildrenTableActivity = (ImageView) view.findViewById(R.id.ChildrenTable);
+
+        ImageView CoffeeSideTableActivity = (ImageView) view.findViewById(R.id.CoffeeandSideTables);
+
+        ImageView ComputerDesksActivity = (ImageView) view.findViewById(R.id.ComputerDesks);
+
+        ImageView DressingTablesActivity = (ImageView) view.findViewById(R.id.DressingTables);
+
+        BedsideTableActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),TablesAndDesks_BedsideTable.class);
+                startActivity(i);
+            }
+        });
+
+        CafeTableActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),TablesAndDesks_CafeTable.class);
+                startActivity(i);
+            }
+        });
+
+        ChildrenTableActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),TablesAndDesks_ChildrenTable.class);
+                startActivity(i);
+            }
+        });
+
+        CoffeeSideTableActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),TablesAndDesks_CoffeeSideTables.class);
+                startActivity(i);
+            }
+        });
+
+        ComputerDesksActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),TablesAndDesks_ComputerDesks.class);
+                startActivity(i);
+            }
+        });
+
+        DressingTablesActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),TablesAndDesks_DressingTables.class);
+                startActivity(i);
+            }
+        });
+        return view;
     }
 }

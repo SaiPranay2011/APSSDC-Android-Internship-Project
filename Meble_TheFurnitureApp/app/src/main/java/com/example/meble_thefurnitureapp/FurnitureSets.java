@@ -1,5 +1,6 @@
 package com.example.meble_thefurnitureapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,6 +8,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -59,6 +61,47 @@ public class FurnitureSets extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_furniture_sets, container, false);
+        View view = inflater.inflate(R.layout.fragment_furniture_sets, container, false);
+
+        ImageView ArmChairsActivity = (ImageView) view.findViewById(R.id.ArmChairs);
+
+        ImageView BathroomFurnitureActivity = (ImageView) view.findViewById(R.id.BathroomFurnitureSets);
+
+        ImageView DiningSetsActivity = (ImageView) view.findViewById(R.id.DiningSets);
+
+        ImageView OscFurnitureActivity = (ImageView) view.findViewById(R.id.OscFurniture);
+
+        ArmChairsActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),FurnitureSets_Armchairs.class);
+                startActivity(i);
+            }
+        });
+
+        BathroomFurnitureActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),FurnitureSets_Bathroomfurniture.class);
+                startActivity(i);
+            }
+        });
+
+        DiningSetsActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),FurnitureSets_Diningsets.class);
+                startActivity(i);
+            }
+        });
+
+        OscFurnitureActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),FurnitureSets_Oscfurniture.class);
+                startActivity(i);
+            }
+        });
+        return view;
     }
 }

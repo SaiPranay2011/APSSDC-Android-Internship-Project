@@ -25,6 +25,18 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp" >
+        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_DressingTables" />
+        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ComputerDesks" />
+        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CoffeeSideTables" />
+        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ChildrenTable" />
+        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CafeTable" />
+        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_BedsideTable" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.FurnitureSets_Oscfurniture"
+            android:label="Osc Furniture" />
+        <activity android:name="com.example.meble_thefurnitureapp.FurnitureSets_Diningsets" />
+        <activity android:name="com.example.meble_thefurnitureapp.FurnitureSets_Bathroomfurniture" />
+        <activity android:name="com.example.meble_thefurnitureapp.FurnitureSets_Armchairs" />
         <activity android:name="com.example.meble_thefurnitureapp.Chairs_Stools" />
         <activity android:name="com.example.meble_thefurnitureapp.Chairs_DiningChairs" />
         <activity android:name="com.example.meble_thefurnitureapp.Chairs_DeskChairs" />
@@ -39,7 +51,9 @@
         <activity android:name="com.example.meble_thefurnitureapp.Beds_ChildrensBeds" />
         <activity android:name="com.example.meble_thefurnitureapp.Beds_BunkBeds" />
         <activity android:name="com.example.meble_thefurnitureapp.Beds_BedswithStorage" />
-        <activity android:name="com.example.meble_thefurnitureapp.Beds_BabyCots" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Beds_BabyCots"
+            android:label="Baby Cot" />
         <activity
             android:name="com.example.meble_thefurnitureapp.HomePage"
             android:label="@string/title_activity_home_page"

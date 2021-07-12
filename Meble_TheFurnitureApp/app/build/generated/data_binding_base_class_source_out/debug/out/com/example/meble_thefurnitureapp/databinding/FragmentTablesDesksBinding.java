@@ -4,6 +4,7 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -11,13 +12,41 @@ import androidx.viewbinding.ViewBinding;
 import com.example.meble_thefurnitureapp.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentTablesDesksBinding implements ViewBinding {
   @NonNull
   private final ScrollView rootView;
 
-  private FragmentTablesDesksBinding(@NonNull ScrollView rootView) {
+  @NonNull
+  public final ImageView BedsideTable;
+
+  @NonNull
+  public final ImageView CafeTable;
+
+  @NonNull
+  public final ImageView ChildrenTable;
+
+  @NonNull
+  public final ImageView CoffeeandSideTables;
+
+  @NonNull
+  public final ImageView ComputerDesks;
+
+  @NonNull
+  public final ImageView DressingTables;
+
+  private FragmentTablesDesksBinding(@NonNull ScrollView rootView, @NonNull ImageView BedsideTable,
+      @NonNull ImageView CafeTable, @NonNull ImageView ChildrenTable,
+      @NonNull ImageView CoffeeandSideTables, @NonNull ImageView ComputerDesks,
+      @NonNull ImageView DressingTables) {
     this.rootView = rootView;
+    this.BedsideTable = BedsideTable;
+    this.CafeTable = CafeTable;
+    this.ChildrenTable = ChildrenTable;
+    this.CoffeeandSideTables = CoffeeandSideTables;
+    this.ComputerDesks = ComputerDesks;
+    this.DressingTables = DressingTables;
   }
 
   @Override
@@ -43,10 +72,50 @@ public final class FragmentTablesDesksBinding implements ViewBinding {
 
   @NonNull
   public static FragmentTablesDesksBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.BedsideTable;
+      ImageView BedsideTable = rootView.findViewById(id);
+      if (BedsideTable == null) {
+        break missingId;
+      }
 
-    return new FragmentTablesDesksBinding((ScrollView) rootView);
+      id = R.id.CafeTable;
+      ImageView CafeTable = rootView.findViewById(id);
+      if (CafeTable == null) {
+        break missingId;
+      }
+
+      id = R.id.ChildrenTable;
+      ImageView ChildrenTable = rootView.findViewById(id);
+      if (ChildrenTable == null) {
+        break missingId;
+      }
+
+      id = R.id.CoffeeandSideTables;
+      ImageView CoffeeandSideTables = rootView.findViewById(id);
+      if (CoffeeandSideTables == null) {
+        break missingId;
+      }
+
+      id = R.id.ComputerDesks;
+      ImageView ComputerDesks = rootView.findViewById(id);
+      if (ComputerDesks == null) {
+        break missingId;
+      }
+
+      id = R.id.DressingTables;
+      ImageView DressingTables = rootView.findViewById(id);
+      if (DressingTables == null) {
+        break missingId;
+      }
+
+      return new FragmentTablesDesksBinding((ScrollView) rootView, BedsideTable, CafeTable,
+          ChildrenTable, CoffeeandSideTables, ComputerDesks, DressingTables);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

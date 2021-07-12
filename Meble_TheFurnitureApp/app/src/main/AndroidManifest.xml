@@ -13,7 +13,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp">
-        <activity android:name=".Chairs_Stools"></activity>
+        <activity android:name=".TablesAndDesks_DressingTables"></activity>
+        <activity android:name=".TablesAndDesks_ComputerDesks" />
+        <activity android:name=".TablesAndDesks_CoffeeSideTables" />
+        <activity android:name=".TablesAndDesks_ChildrenTable" />
+        <activity android:name=".TablesAndDesks_CafeTable" />
+        <activity android:name=".TablesAndDesks_BedsideTable" />
+        <activity
+            android:name=".FurnitureSets_Oscfurniture"
+            android:label="Osc Furniture" />
+        <activity android:name=".FurnitureSets_Diningsets" />
+        <activity android:name=".FurnitureSets_Bathroomfurniture" />
+        <activity android:name=".FurnitureSets_Armchairs" />
+        <activity android:name=".Chairs_Stools" />
         <activity android:name=".Chairs_DiningChairs" />
         <activity android:name=".Chairs_DeskChairs" />
         <activity android:name=".Chairs_Benches" />
@@ -27,7 +39,9 @@
         <activity android:name=".Beds_ChildrensBeds" />
         <activity android:name=".Beds_BunkBeds" />
         <activity android:name=".Beds_BedswithStorage" />
-        <activity android:name=".Beds_BabyCots" />
+        <activity
+            android:name=".Beds_BabyCots"
+            android:label="Baby Cot" />
         <activity
             android:name=".HomePage"
             android:label="@string/title_activity_home_page"
