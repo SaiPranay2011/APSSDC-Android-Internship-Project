@@ -4,10 +4,10 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import com.example.meble_thefurnitureapp.R;
 import java.lang.NullPointerException;
@@ -16,20 +16,19 @@ import java.lang.String;
 
 public final class ActivityBedsBabyCotsBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final ScrollView rootView;
 
   @NonNull
   public final Toolbar toolbar;
 
-  private ActivityBedsBabyCotsBinding(@NonNull ConstraintLayout rootView,
-      @NonNull Toolbar toolbar) {
+  private ActivityBedsBabyCotsBinding(@NonNull ScrollView rootView, @NonNull Toolbar toolbar) {
     this.rootView = rootView;
     this.toolbar = toolbar;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -60,7 +59,7 @@ public final class ActivityBedsBabyCotsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityBedsBabyCotsBinding((ConstraintLayout) rootView, toolbar);
+      return new ActivityBedsBabyCotsBinding((ScrollView) rootView, toolbar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

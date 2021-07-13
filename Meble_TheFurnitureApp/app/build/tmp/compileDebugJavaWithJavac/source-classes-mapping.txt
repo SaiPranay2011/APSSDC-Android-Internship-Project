@@ -149,7 +149,7 @@ com/example/meble_thefurnitureapp/databinding/ActivityBedsSofaBedsBinding.java
 com/example/meble_thefurnitureapp/databinding/FragmentChairsBinding.java
  com.example.meble_thefurnitureapp.databinding.FragmentChairsBinding
 com/example/meble_thefurnitureapp/Beds_BabyCots.java
- com.example.meble_thefurnitureapp.Beds_BabyCots
+ com.example.meble_thefurnitureapp.Beds_Categories.Beds_BabyCots
 com/example/meble_thefurnitureapp/FurnitureSets_Armchairs.java
  com.example.meble_thefurnitureapp.FurnitureSets_Armchairs
 com/example/meble_thefurnitureapp/databinding/FragmentBookcasesShelvesBinding.java

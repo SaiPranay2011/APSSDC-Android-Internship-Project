@@ -18,6 +18,7 @@
             android:background="#A18D67"
             app:popupTheme="@style/Theme.Meble_TheFurnitureApp.PopupOverlay" />
 
+
     </com.google.android.material.appbar.AppBarLayout>
 
     <include layout="@layout/content_home_page" />

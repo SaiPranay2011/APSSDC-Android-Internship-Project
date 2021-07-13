@@ -4,9 +4,9 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import com.example.meble_thefurnitureapp.R;
 import java.lang.NullPointerException;
@@ -14,15 +14,15 @@ import java.lang.Override;
 
 public final class ActivityBedsBunkBedsBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final ScrollView rootView;
 
-  private ActivityBedsBunkBedsBinding(@NonNull ConstraintLayout rootView) {
+  private ActivityBedsBunkBedsBinding(@NonNull ScrollView rootView) {
     this.rootView = rootView;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -47,6 +47,6 @@ public final class ActivityBedsBunkBedsBinding implements ViewBinding {
       throw new NullPointerException("rootView");
     }
 
-    return new ActivityBedsBunkBedsBinding((ConstraintLayout) rootView);
+    return new ActivityBedsBunkBedsBinding((ScrollView) rootView);
   }
 }

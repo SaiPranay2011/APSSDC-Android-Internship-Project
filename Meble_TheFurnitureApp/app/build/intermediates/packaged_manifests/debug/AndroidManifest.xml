@@ -52,8 +52,9 @@
         <activity android:name="com.example.meble_thefurnitureapp.Beds_BunkBeds" />
         <activity android:name="com.example.meble_thefurnitureapp.Beds_BedswithStorage" />
         <activity
-            android:name="com.example.meble_thefurnitureapp.Beds_BabyCots"
-            android:label="Baby Cot" />
+            android:name="com.example.meble_thefurnitureapp.Beds_Categories.Beds_BabyCots"
+            android:label="Baby Cots"
+            android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar" />
         <activity
             android:name="com.example.meble_thefurnitureapp.HomePage"
             android:label="@string/title_activity_home_page"

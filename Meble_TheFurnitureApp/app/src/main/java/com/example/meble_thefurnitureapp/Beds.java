@@ -10,6 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
+import com.example.meble_thefurnitureapp.Beds_Categories.Beds_BabyCots;
+
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link Beds#newInstance} factory method to
@@ -85,7 +87,7 @@ public class Beds extends Fragment{
            @Override
            public void onClick(View v) {
                Intent i;
-              i = new Intent(view.getContext(),Beds_BabyCots.class);
+              i = new Intent(view.getContext(), Beds_BabyCots.class);
                startActivity(i);
 
            }
