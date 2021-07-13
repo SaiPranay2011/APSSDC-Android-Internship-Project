@@ -39,10 +39,7 @@
         <activity android:name=".Beds_ChildrensBeds" />
         <activity android:name=".Beds_BunkBeds" />
         <activity android:name=".Beds_BedswithStorage" />
-        <activity
-            android:name=".Beds_BabyCots"
-            android:label="Baby Cots"
-            android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar"/>
+        <activity android:name=".Beds_BabyCots" />
         <activity
             android:name=".HomePage"
             android:label="@string/title_activity_home_page"
@@ -56,6 +53,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

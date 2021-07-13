@@ -9,8 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.Toast;
 
-import com.example.meble_thefurnitureapp.Beds_Categories.Beds_BabyCots;
+import com.example.meble_thefurnitureapp.Beds_BabyCots;
 
 /**
  * A simple {@link Fragment} subclass.

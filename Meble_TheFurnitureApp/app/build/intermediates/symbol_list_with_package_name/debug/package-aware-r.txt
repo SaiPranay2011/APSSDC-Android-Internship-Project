@@ -65,6 +65,10 @@ animator nav_default_enter_anim
 animator nav_default_exit_anim
 animator nav_default_pop_enter_anim
 animator nav_default_pop_exit_anim
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
 attr action
 attr actionBarDivider
 attr actionBarItemBackground
@@ -1990,6 +1994,8 @@ drawable tv_6
 drawable tv_7
 drawable tv_8
 drawable tv_9
+font amita
+font audiowide
 id ALT
 id ArmChairs
 id BOTTOM_END
@@ -2347,6 +2353,7 @@ id postLayout
 id progress_circular
 id progress_horizontal
 id radio
+id rate
 id ratio
 id rectangles
 id reemail

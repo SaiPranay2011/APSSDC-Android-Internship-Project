@@ -408,6 +408,10 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\b3.jpg"
     },
     {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\font_audiowide.xml.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\font\\audiowide.xml"
+    },
+    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bcs.jpg.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\bcs.jpg"
     },
@@ -422,6 +426,10 @@
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ba4.jpg.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ba4.jpg"
+    },
+    {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\font_amita.xml.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\font\\amita.xml"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bcs3.jpg.flat",
