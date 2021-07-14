@@ -9,17 +9,28 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-
-        <TextView
-            android:layout_width="wrap_content"
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="Baby Cots"
-            android:textStyle="bold|italic"
-            android:textSize="40dp"
-            android:padding="6dp"/>
+            android:theme="@style/Theme.Meble_TheFurnitureApp.AppBarOverlay">
 
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#A18D67"
+            app:popupTheme="@style/Theme.Meble_TheFurnitureApp.PopupOverlay">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/audiowide"
+                android:text="Beds With Storage"
+                android:textAllCaps="true"
+                android:textSize="30sp"
+                android:textStyle="bold|italic" />
+        </androidx.appcompat.widget.Toolbar>
+        </com.google.android.material.appbar.AppBarLayout>
         <!-- TODO: Update blank fragment layout -->
         <LinearLayout
             android:layout_width="match_parent"
@@ -41,12 +52,35 @@
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
-            <TextView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
-                android:text="about furniture"
-                android:textSize="10dp" />
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:text="Hauga \nStorage Bed(White) "
+                    android:textSize="20dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="25,000/- \n Save 5,000(20% off)"
+                    android:textStyle="italic"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
+            </LinearLayout>
 
         </LinearLayout>
         <LinearLayout
@@ -56,14 +90,38 @@
             android:layout_margin="10dp"
             android:weightSum="5">
 
-            <TextView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="about furniture"
-                android:layout_weight="4.99"
-                android:textSize="10sp"
-                android:layout_margin="20dp"
-                />
+                android:orientation="vertical"
+                android:layout_weight="4.99">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:text="Aspen \n Upholstered Storage Bed \n(Coffee Brown) "
+                    android:textSize="20dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="38,000/- \n Save 5,700(15% off)"
+                    android:textStyle="italic"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
+
+            </LinearLayout>
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -97,18 +155,42 @@
                 >
                 <ImageView
                     android:layout_width="250dp"
-                    android:layout_height="150dp"
+                    android:layout_height="200dp"
                     android:layout_margin="5dp"
                     android:src="@drawable/bs2"
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
-            <TextView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
-                android:text="about furniture"
-                android:textSize="10dp" />
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:text="Faroe \nStorage Bed(Frost White) "
+                    android:textSize="20dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="28,000/- \n Save 1,400(5% off)"
+                    android:textStyle="italic"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
+            </LinearLayout>
 
         </LinearLayout>
 
@@ -119,14 +201,38 @@
             android:layout_margin="10dp"
             android:weightSum="5">
 
-            <TextView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="about furniture"
-                android:layout_weight="4.99"
-                android:textSize="10sp"
-                android:layout_margin="20dp"
-                />
+                android:orientation="vertical"
+                android:layout_weight="4.99">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:text="terence \n Box Storage Bed \n(Grey) "
+                    android:textSize="20dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="42,000/- \n Save 4,200(10% off)"
+                    android:textStyle=""/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
+
+            </LinearLayout>
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -138,7 +244,7 @@
                 >
                 <ImageView
                     android:layout_width="200dp"
-                    android:layout_height="150dp"
+                    android:layout_height="180dp"
                     android:layout_margin="5dp"
                     android:src="@drawable/bs3"
 
@@ -166,12 +272,36 @@
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
-            <TextView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
-                android:text="about furniture"
-                android:textSize="10dp" />
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:text="Bornholm \nQueen Size Storage Bed(Baby Pink) "
+                    android:textSize="20dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rate"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="32,000/- \n Save 2,240(7% off)"
+                    android:textStyle="italic"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
+            </LinearLayout>
 
         </LinearLayout>
     </LinearLayout>

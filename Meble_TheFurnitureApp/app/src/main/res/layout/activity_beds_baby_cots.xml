@@ -82,7 +82,7 @@
                 android:layout_marginLeft="5dp"
                 android:layout_gravity="center"
                 android:text="11,000/- \n Save 2,200(20% off)"
-                android:textStyle=""/>
+                android:textStyle="italic"/>
 
             <Button
                 android:layout_width="wrap_content"
@@ -122,7 +122,7 @@
                    android:layout_marginLeft="5dp"
                    android:layout_gravity="center"
                    android:text="14,000/- \n Save 2,100(15% off)"
-                   android:textStyle=""/>
+                   android:textStyle="italic"/>
 
                <Button
                    android:layout_width="wrap_content"
@@ -191,7 +191,8 @@
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center"
                     android:text="8,000/- \n Save 400(5% off)"
-                    android:textStyle=""/>
+                    android:textStyle="italic"
+                   />
 
                 <Button
                     android:layout_width="wrap_content"
@@ -232,7 +233,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center"
                     android:text="7,000/- \n Save 700(10% off)"
-                    android:textStyle=""/>
+                    android:textStyle="italic"/>
 
                 <Button
                     android:layout_width="wrap_content"
@@ -301,7 +302,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center"
                     android:text="9,000/- \n Save 630(7% off)"
-                    android:textStyle=""/>
+                    android:textStyle="italic"/>
 
                 <Button
                     android:layout_width="wrap_content"

@@ -4,40 +4,35 @@
     android:layout_height="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context=".Beds_BabyCots">
-
-
+    tools:context=".Beds_BunkBeds">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-
 
         <com.google.android.material.appbar.AppBarLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:theme="@style/Theme.Meble_TheFurnitureApp.AppBarOverlay">
 
-        <androidx.appcompat.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="?attr/actionBarSize"
-            android:background="#A18D67"
-            app:popupTheme="@style/Theme.Meble_TheFurnitureApp.PopupOverlay">
-
-            <TextView
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/audiowide"
-                android:gravity="center"
-                android:text="Baby Cots"
-                android:textAllCaps="true"
-                android:textSize="30sp"
-                android:textStyle="bold|italic" />
-        </androidx.appcompat.widget.Toolbar>
+                android:layout_height="?attr/actionBarSize"
+                android:background="#A18D67"
+                app:popupTheme="@style/Theme.Meble_TheFurnitureApp.PopupOverlay">
 
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/audiowide"
+                    android:text="Bunk Beds"
+                    android:gravity="center"
+                    android:textAllCaps="true"
+                    android:textSize="30sp"
+                    android:textStyle="bold|italic" />
+            </androidx.appcompat.widget.Toolbar>
         </com.google.android.material.appbar.AppBarLayout>
-
 
 
         <!-- TODO: Update blank fragment layout -->
@@ -57,40 +52,39 @@
                     android:layout_width="200dp"
                     android:layout_height="150dp"
                     android:layout_margin="5dp"
-                    android:src="@drawable/bc"
+                    android:src="@drawable/bb"
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical">
-            <TextView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:textStyle="bold"
-                android:gravity="center"
-                android:text="Baby Teddy \nMultifunctional Cot(Blue) "
-                android:textSize="20dp"
-                />
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:text="Molly \nBunk Bed(Polish Wood) "
+                    android:textSize="20dp"
+                    />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rate"
-                android:layout_marginLeft="5dp"
-                android:layout_gravity="center"
-                android:text="11,000/- \n Save 2,200(20% off)"
-                android:textStyle=""/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="28,000/- \n Save 5,600(20% off)"
+                    android:textStyle="italic"/>
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:text="Buy Now"
-                android:backgroundTint="#A18D67"/>
-        </LinearLayout>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
+            </LinearLayout>
 
         </LinearLayout>
         <LinearLayout
@@ -100,38 +94,37 @@
             android:layout_margin="10dp"
             android:weightSum="5">
 
-           <LinearLayout
-               android:layout_width="match_parent"
-               android:layout_height="wrap_content"
-               android:orientation="vertical"
-               android:layout_weight="4.99">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="4.99">
 
-               <TextView
-                   android:layout_width="wrap_content"
-                   android:layout_height="wrap_content"
-                   android:layout_margin="5dp"
-                   android:textStyle="bold"
-                   android:gravity="center"
-                   android:text="McSilvie \n Convertable Cot \n(Satin White Finish) "
-                   android:textSize="20dp"
-                   />
+                <TextView
+                    android:layout_width="172dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="Stockton \nBunk Bed \n(Coffee Wood) "
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
 
-               <TextView
-                   android:layout_width="wrap_content"
-                   android:layout_height="wrap_content"
-                   android:layout_marginLeft="5dp"
-                   android:layout_gravity="center"
-                   android:text="14,000/- \n Save 2,100(15% off)"
-                   android:textStyle=""/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="45,000/- \n Save 9,000(15% off)"
+                    android:textStyle="italic"/>
 
-               <Button
-                   android:layout_width="wrap_content"
-                   android:layout_height="wrap_content"
-                   android:layout_gravity="center"
-                   android:text="Buy Now"
-                   android:backgroundTint="#A18D67"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
 
-           </LinearLayout>
+            </LinearLayout>
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -145,7 +138,7 @@
                     android:layout_width="200dp"
                     android:layout_height="200dp"
                     android:layout_margin="5dp"
-                    android:src="@drawable/bc1"
+                    android:src="@drawable/bb1"
 
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
@@ -165,9 +158,9 @@
                 >
                 <ImageView
                     android:layout_width="250dp"
-                    android:layout_height="240dp"
+                    android:layout_height="150dp"
                     android:layout_margin="5dp"
-                    android:src="@drawable/bc2"
+                    android:src="@drawable/bb2"
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
@@ -181,7 +174,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
-                    android:text="Florence Modular \n Multi functional Cot(Frosty Purple) "
+                    android:text="Avalon \nBunk Bed(White) "
                     android:textSize="20dp"
                     />
 
@@ -190,8 +183,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center"
-                    android:text="8,000/- \n Save 400(5% off)"
-                    android:textStyle=""/>
+                    android:text="38,000/- \n Save 1,900(5% off)"
+                    android:textStyle="italic"/>
 
                 <Button
                     android:layout_width="wrap_content"
@@ -217,22 +210,21 @@
                 android:layout_weight="4.99">
 
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="182dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:textStyle="bold"
                     android:gravity="center"
-                    android:text="PeaPod \n Traditional Wooden Cot "
+                    android:text="Celeste \n 3ft Bunk Bed \n(Coffee Brown) "
                     android:textSize="20dp"
-                    />
+                    android:textStyle="bold" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center"
-                    android:text="7,000/- \n Save 700(10% off)"
-                    android:textStyle=""/>
+                    android:text="39,000/- \n Save 3,900(10% off)"
+                    android:textStyle="italic"/>
 
                 <Button
                     android:layout_width="wrap_content"
@@ -255,7 +247,7 @@
                     android:layout_width="200dp"
                     android:layout_height="150dp"
                     android:layout_margin="5dp"
-                    android:src="@drawable/bc3"
+                    android:src="@drawable/bb3"
 
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
@@ -277,7 +269,7 @@
                     android:layout_width="250dp"
                     android:layout_height="200dp"
                     android:layout_margin="5dp"
-                    android:src="@drawable/bc4"
+                    android:src="@drawable/bb4"
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
@@ -285,23 +277,23 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:textStyle="bold"
                     android:gravity="center"
-                    android:text="Royal Rocking \n Grayish White Cot "
+                    android:text="Eldon \nBunk Bed(Dark Brown) "
                     android:textSize="20dp"
-                    />
+                    android:textStyle="bold" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center"
-                    android:text="9,000/- \n Save 630(7% off)"
-                    android:textStyle=""/>
+                    android:text="33,000/- \n Save 2,310(7% off)"
+                    android:textStyle="italic"/>
 
                 <Button
                     android:layout_width="wrap_content"
