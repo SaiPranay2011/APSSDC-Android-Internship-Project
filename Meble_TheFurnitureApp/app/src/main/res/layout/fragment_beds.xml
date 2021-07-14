@@ -13,14 +13,7 @@
 
     <!-- TODO: Update blank fragment layout -->
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="Beds"
-        android:textStyle="bold|italic"
-        android:textSize="40dp"
-        android:padding="6dp"/>
+    
 
     <LinearLayout
         android:layout_width="match_parent"

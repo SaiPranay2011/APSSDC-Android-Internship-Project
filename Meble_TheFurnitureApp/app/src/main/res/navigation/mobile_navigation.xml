@@ -15,39 +15,39 @@
     <fragment
         android:id="@+id/nav_bar_furniture"
         android:name="com.example.meble_thefurnitureapp.BarFurniture"
-        android:label="fragment_bar_furniture"
+        android:label="BAR FURNITURE"
         tools:layout="@layout/fragment_bar_furniture" />
 
     <fragment
         android:id="@+id/nav_beds"
         android:name="com.example.meble_thefurnitureapp.Beds"
-        android:label="fragment_beds"
+        android:label="BEDS"
         tools:layout="@layout/fragment_beds" />
 
     <fragment
         android:id="@+id/nav_bookcases_shelves"
         android:name="com.example.meble_thefurnitureapp.Bookcases_shelves"
-        android:label="fragment_bookcases_shelves"
+        android:label="BOOKCASES &amp; SHELVES"
         tools:layout="@layout/fragment_bookcases_shelves" />
     <fragment
         android:id="@+id/nav_chairs"
         android:name="com.example.meble_thefurnitureapp.Chairs"
-        android:label="fragment_chairs"
+        android:label="CHAIRS"
         tools:layout="@layout/fragment_chairs" />
     <fragment
         android:id="@+id/nav_furniture_sets"
         android:name="com.example.meble_thefurnitureapp.FurnitureSets"
-        android:label="fragment_furniture_sets"
+        android:label="FURNITURE SETS"
         tools:layout="@layout/fragment_furniture_sets" />
     <fragment
         android:id="@+id/nav_tables"
         android:name="com.example.meble_thefurnitureapp.Tables_desks"
-        android:label="fragment_tables_desks"
+        android:label="TABLES &amp; DESKS"
         tools:layout="@layout/fragment_tables_desks" />
     <fragment
         android:id="@+id/nav_media"
         android:name="com.example.meble_thefurnitureapp.Tv_media_furniture"
-        android:label="fragment_tv_media_furniture"
+        android:label="TV &amp; MEDIA FURNITURE"
         tools:layout="@layout/fragment_tv_media_furniture" />
 
 </navigation>
