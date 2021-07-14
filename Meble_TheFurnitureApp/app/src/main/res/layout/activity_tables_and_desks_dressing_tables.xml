@@ -10,15 +10,29 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <TextView
-            android:layout_width="wrap_content"
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="Dressing Table"
-            android:textStyle="bold|italic"
-            android:gravity="center"
-            android:textSize="40dp"
-            android:padding="6dp"/>
+            android:theme="@style/Theme.Meble_TheFurnitureApp.AppBarOverlay">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#A18D67"
+                app:popupTheme="@style/Theme.Meble_TheFurnitureApp.PopupOverlay">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/audiowide"
+                    android:text="Dressing Table"
+                    android:gravity="center"
+                    android:textAllCaps="true"
+                    android:textSize="30sp"
+                    android:textStyle="bold|italic" />
+            </androidx.appcompat.widget.Toolbar>
+        </com.google.android.material.appbar.AppBarLayout>
 
 
         <!-- TODO: Update blank fragment layout -->
@@ -42,12 +56,35 @@
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
-            <TextView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
-                android:text="about furniture"
-                android:textSize="10dp" />
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="181dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="Katsuro \nDressing Table\n(Mustard White) "
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="22,000/- \n Save 4,400(20% off)"
+                    android:textStyle="italic"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
+            </LinearLayout>
 
         </LinearLayout>
         <LinearLayout
@@ -57,14 +94,38 @@
             android:layout_margin="10dp"
             android:weightSum="5">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="about furniture"
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:layout_weight="4.99"
-                android:textSize="10sp"
-                android:layout_margin="20dp"
-                />
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="182dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="Serra \n Wooden Dressing \nTable "
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="16,000/- \n Save 2,400(15% off)"
+                    android:textStyle="italic" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:backgroundTint="#A18D67"
+                    android:text="Buy Now" />
+
+            </LinearLayout>
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -104,12 +165,35 @@
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
-            <TextView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
-                android:text="about furniture"
-                android:textSize="10dp" />
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="181dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="Gleam \nWooden Dressing Table\n(Frost White) "
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center"
+                    android:text="24,000/- \n Save 1,200(5% off)"
+                    android:textStyle="italic"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Buy Now"
+                    android:backgroundTint="#A18D67"/>
+            </LinearLayout>
 
         </LinearLayout>
 
@@ -120,14 +204,38 @@
             android:layout_margin="10dp"
             android:weightSum="5">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="about furniture"
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:layout_weight="4.99"
-                android:textSize="10sp"
-                android:layout_margin="20dp"
-                />
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="182dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="Yamato \nDressing Table \n(Teak Wood) "
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="27,000/- \n Save 2,700(10% off)"
+                    android:textStyle="italic" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:backgroundTint="#A18D67"
+                    android:text="Buy Now" />
+
+            </LinearLayout>
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -167,12 +275,35 @@
                     android:scaleType="centerCrop"/>
             </androidx.cardview.widget.CardView>
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="20dp"
-                android:text="about furniture"
-                android:textSize="10dp" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="181dp"
+                    android:layout_height="88dp"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="Crysler \nDressing Table\n(Polka Print) "
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="20,800/- \n Save 1,456(7% off)"
+                    android:textStyle="italic" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:backgroundTint="#A18D67"
+                    android:text="Buy Now" />
+            </LinearLayout>
 
         </LinearLayout>
     </LinearLayout>
