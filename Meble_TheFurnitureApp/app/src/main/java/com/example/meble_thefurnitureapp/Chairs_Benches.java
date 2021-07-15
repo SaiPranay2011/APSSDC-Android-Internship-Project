@@ -23,6 +23,9 @@ public class Chairs_Benches extends AppCompatActivity implements PaymentResultLi
         setContentView(R.layout.activity_chairs_benches);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

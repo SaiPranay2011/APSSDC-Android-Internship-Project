@@ -61,6 +61,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="Buy Now"
+                android:onClick="Buy_ba"
                 android:backgroundTint="#A18D67"/>
         </LinearLayout>
 
@@ -101,6 +102,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="Buy Now"
+                android:onClick="Buy_ba1"
                 android:backgroundTint="#A18D67"/>
 
         </LinearLayout>

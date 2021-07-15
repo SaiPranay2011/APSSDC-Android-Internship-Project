@@ -83,6 +83,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_bb"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -122,6 +123,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_bb1"
                     android:backgroundTint="#A18D67"/>
 
             </LinearLayout>
@@ -191,6 +193,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_bb2"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -231,6 +234,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_bb3"
                     android:backgroundTint="#A18D67"/>
 
             </LinearLayout>
@@ -300,6 +304,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_bb4"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 

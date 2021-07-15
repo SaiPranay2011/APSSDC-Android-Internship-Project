@@ -13,7 +13,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp">
-        <activity android:name=".TablesAndDesks_DressingTables"/>
+        <activity android:name=".TVMedia_TvMediaFurniture"></activity>
+        <activity android:name=".BarFurniture_barfurniture" />
+        <activity android:name=".TablesAndDesks_DressingTables" />
         <activity android:name=".TablesAndDesks_ComputerDesks" />
         <activity android:name=".TablesAndDesks_CoffeeSideTables" />
         <activity android:name=".TablesAndDesks_ChildrenTable" />
@@ -39,18 +41,16 @@
         <activity android:name=".Beds_ChildrensBeds" />
         <activity android:name=".Beds_BunkBeds" />
         <activity android:name=".Beds_BedswithStorage" />
-        <activity
-            android:name=".Beds_BabyCots"/>
+        <activity android:name=".Beds_BabyCots" />
         <activity
             android:name=".HomePage"
             android:label="@string/title_activity_home_page"
             android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar" />
-        <activity android:name=".RegisterPage"/>
-        <activity android:name=".LoginPage"
+        <activity android:name=".RegisterPage" />
+        <activity
+            android:name=".LoginPage"
             android:label="Login Page"
-            android:parentActivityName=".MainActivity">
-
-        </activity>
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

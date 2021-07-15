@@ -21,9 +21,12 @@ public class FurnitureSets_Oscfurniture extends AppCompatActivity implements Pay
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_furniture_sets_diningsets);
+        setContentView(R.layout.activity_furniture_sets_oscfurniture);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

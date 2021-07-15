@@ -23,6 +23,9 @@ public class Beds_ChildrensBeds extends AppCompatActivity implements PaymentResu
         setContentView(R.layout.activity_beds_childrens_beds);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

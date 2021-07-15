@@ -24,6 +24,8 @@ public class FurnitureSets_Diningsets extends AppCompatActivity implements Payme
         setContentView(R.layout.activity_furniture_sets_diningsets);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

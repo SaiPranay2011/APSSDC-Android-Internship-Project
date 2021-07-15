@@ -24,6 +24,9 @@ public class FurnitureSets_Armchairs extends AppCompatActivity implements Paymen
         setContentView(R.layout.activity_furniture_sets_armchairs);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

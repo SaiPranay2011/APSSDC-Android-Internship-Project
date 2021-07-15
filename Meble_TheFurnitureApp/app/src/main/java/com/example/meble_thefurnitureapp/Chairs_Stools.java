@@ -24,6 +24,9 @@ public class Chairs_Stools extends AppCompatActivity implements PaymentResultLis
         setContentView(R.layout.activity_chairs_stools);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

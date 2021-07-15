@@ -23,6 +23,9 @@ public class Beds_BunkBeds extends AppCompatActivity implements PaymentResultLis
         setContentView(R.layout.activity_beds_bunk_beds);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

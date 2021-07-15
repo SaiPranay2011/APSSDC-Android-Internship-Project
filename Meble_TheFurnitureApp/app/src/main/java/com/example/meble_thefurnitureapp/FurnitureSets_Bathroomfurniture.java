@@ -24,6 +24,9 @@ public class FurnitureSets_Bathroomfurniture extends AppCompatActivity implement
         setContentView(R.layout.activity_furniture_sets_bathroomfurniture);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

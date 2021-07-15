@@ -23,6 +23,9 @@ public class Beds_SIngleBeds extends AppCompatActivity implements PaymentResultL
         setContentView(R.layout.activity_beds_single_beds);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        /*For Payment*/
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

@@ -1,5 +1,6 @@
 package com.example.meble_thefurnitureapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,6 +8,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -59,6 +61,19 @@ public class Tv_media_furniture extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_tv_media_furniture, container, false);
+        View view = inflater.inflate(R.layout.fragment_tv_media_furniture, container, false);
+
+
+        ImageView TvMediaActivity = (ImageView) view.findViewById(R.id.TVMedia);
+
+
+        TvMediaActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(view.getContext(),TVMedia_TvMediaFurniture.class);
+                startActivity(i);
+            }
+        });
+        return view;
     }
 }
