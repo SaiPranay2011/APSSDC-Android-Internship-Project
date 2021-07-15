@@ -83,7 +83,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_cst"/>
             </LinearLayout>
 
         </LinearLayout>
@@ -106,7 +107,7 @@
                     android:layout_gravity="center"
                     android:layout_margin="5dp"
                     android:gravity="center"
-                    android:text="Takeba \nCoffe Side Table with Stools \n(Maple Wood) "
+                    android:text="Takeba \nCoffee Side Table with Stools \n(Maple Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
 
@@ -123,7 +124,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_cst1"/>
 
             </LinearLayout>
 
@@ -193,6 +195,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_cst2"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -234,7 +237,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_cst3"/>
 
             </LinearLayout>
 
@@ -303,6 +307,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_cst4"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -344,7 +349,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_cst5"/>
 
             </LinearLayout>
 
@@ -413,6 +419,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_cst6"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -454,7 +461,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_cst7"/>
 
             </LinearLayout>
 
@@ -523,6 +531,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_cst8"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -564,7 +573,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_cst9"/>
 
             </LinearLayout>
 
