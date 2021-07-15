@@ -83,6 +83,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_ds"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -123,7 +124,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_ds1"/>
 
             </LinearLayout>
 
@@ -176,7 +178,7 @@
                     android:layout_margin="5dp"
                     android:gravity="center"
                     android:layout_gravity="center"
-                    android:text="Proton \Dining \n(Teak Wood) "
+                    android:text="Proton \nDining Set\n(Teak Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
 
@@ -193,6 +195,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_ds2"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -233,7 +236,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_ds3"/>
 
             </LinearLayout>
 
@@ -285,7 +289,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
-                    android:text="Woltu \nStool\n(Floral) "
+                    android:text="Woltus \nDining Set\n(Floral) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
 
@@ -302,6 +306,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_ds4"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
