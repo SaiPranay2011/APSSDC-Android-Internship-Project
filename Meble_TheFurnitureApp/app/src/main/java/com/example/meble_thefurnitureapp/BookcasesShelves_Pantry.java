@@ -3,10 +3,20 @@ package com.example.meble_thefurnitureapp;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Toast;
 
-public class BookcasesShelves_Pantry extends AppCompatActivity {
+import com.razorpay.Checkout;
+import com.razorpay.PaymentResultListener;
+
+import org.json.JSONObject;
+
+public class BookcasesShelves_Pantry extends AppCompatActivity implements PaymentResultListener {
+    String API_KEY = "rzp_test_ug6aiUEmeZMscW";
+    Checkout checkout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,5 +36,162 @@ public class BookcasesShelves_Pantry extends AppCompatActivity {
         }
 
         return true;
+    }
+
+    public void Buy_pa(View view) {
+
+        checkout = new Checkout();
+        checkout.setKeyID(API_KEY);
+
+        final Activity activity = this;
+
+        try {
+            JSONObject object = new JSONObject();
+            object.put("Name","Hyllis Wall Mount Wooden Pantry");
+            object.put("amount","400000");
+            object.put("theme.color","#44BB04");
+            object.put("currency","INR");
+            JSONObject retryObj = new JSONObject();
+            retryObj.put("enabled", true);
+            retryObj.put("max_count", 4);
+            object.put("retry", retryObj);
+
+            checkout.open(activity,object);
+
+
+
+        }
+
+
+        catch(Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void Buy_pa1(View view) {
+
+        checkout = new Checkout();
+        checkout.setKeyID(API_KEY);
+
+        final Activity activity = this;
+
+        try {
+            JSONObject object = new JSONObject();
+            object.put("Name","Omar Floor Mount Pantry");
+            object.put("amount","250000");
+            object.put("theme.color","#44BB04");
+            object.put("currency","INR");
+            JSONObject retryObj = new JSONObject();
+            retryObj.put("enabled", true);
+            retryObj.put("max_count", 4);
+            object.put("retry", retryObj);
+
+            checkout.open(activity,object);
+
+
+
+        }
+
+
+        catch(Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void Buy_pa2(View view) {
+        checkout = new Checkout();
+        checkout.setKeyID(API_KEY);
+
+        final Activity activity = this;
+
+        try {
+            JSONObject object = new JSONObject();
+            object.put("Name","Bror Wooden Pantry");
+            object.put("amount","600000");
+            object.put("theme.color","#44BB04");
+            object.put("currency","INR");
+            JSONObject retryObj = new JSONObject();
+            retryObj.put("enabled", true);
+            retryObj.put("max_count", 4);
+            object.put("retry", retryObj);
+
+            checkout.open(activity,object);
+
+
+
+        }
+
+
+        catch(Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void Buy_pa3(View view) {
+        checkout = new Checkout();
+        checkout.setKeyID(API_KEY);
+
+        final Activity activity = this;
+
+        try {
+            JSONObject object = new JSONObject();
+            object.put("Name","Vooneen Pantry with Wheels");
+            object.put("amount","800000");
+            object.put("theme.color","#44BB04");
+            object.put("currency","INR");
+            JSONObject retryObj = new JSONObject();
+            retryObj.put("enabled", true);
+            retryObj.put("max_count", 4);
+            object.put("retry", retryObj);
+
+            checkout.open(activity,object);
+
+
+
+        }
+
+
+        catch(Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void Buy_pa4(View view) {
+        checkout = new Checkout();
+        checkout.setKeyID(API_KEY);
+
+        final Activity activity = this;
+
+        try {
+            JSONObject object = new JSONObject();
+            object.put("Name","Kosmo Wooden Bookcase");
+            object.put("amount","300000");
+            object.put("theme.color","#44BB04");
+            object.put("currency","INR");
+            JSONObject retryObj = new JSONObject();
+            retryObj.put("enabled", true);
+            retryObj.put("max_count", 4);
+            object.put("retry", retryObj);
+
+            checkout.open(activity,object);
+
+
+
+        }
+
+
+        catch(Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Override
+    public void onPaymentSuccess(String s) {
+        Toast.makeText(this, "Success", Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    public void onPaymentError(int i, String s) {
+        Toast.makeText(this, "Success", Toast.LENGTH_SHORT).show();
     }
 }
