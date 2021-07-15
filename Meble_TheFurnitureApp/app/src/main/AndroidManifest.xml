@@ -39,13 +39,18 @@
         <activity android:name=".Beds_ChildrensBeds" />
         <activity android:name=".Beds_BunkBeds" />
         <activity android:name=".Beds_BedswithStorage" />
-        <activity android:name=".Beds_BabyCots" />
+        <activity
+            android:name=".Beds_BabyCots"/>
         <activity
             android:name=".HomePage"
             android:label="@string/title_activity_home_page"
             android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar" />
-        <activity android:name=".RegisterPage" />
-        <activity android:name=".LoginPage" />
+        <activity android:name=".RegisterPage"/>
+        <activity android:name=".LoginPage"
+            android:label="Login Page"
+            android:parentActivityName=".MainActivity">
+
+        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

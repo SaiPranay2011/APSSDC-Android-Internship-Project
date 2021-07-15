@@ -57,7 +57,11 @@
             android:label="@string/title_activity_home_page"
             android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar" />
         <activity android:name="com.example.meble_thefurnitureapp.RegisterPage" />
-        <activity android:name="com.example.meble_thefurnitureapp.LoginPage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.LoginPage"
+            android:label="Login Page"
+            android:parentActivityName="com.example.meble_thefurnitureapp.MainActivity" >
+        </activity>
         <activity android:name="com.example.meble_thefurnitureapp.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -144,6 +148,24 @@
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
 
+        <receiver android:name="com.razorpay.RzpTokenReceiver" >
+            <intent-filter>
+                <action android:name="rzp.device_token.share" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.razorpay.CheckoutActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:theme="@style/CheckoutTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <data
+                    android:host="rzp.io"
+                    android:scheme="io.rzp" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"

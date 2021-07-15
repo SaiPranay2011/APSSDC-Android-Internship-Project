@@ -5,7 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
+import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -16,7 +16,7 @@ import java.lang.String;
 
 public final class FragmentFurnitureSetsBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final ScrollView rootView;
 
   @NonNull
   public final ImageView ArmChairs;
@@ -30,7 +30,7 @@ public final class FragmentFurnitureSetsBinding implements ViewBinding {
   @NonNull
   public final ImageView OscFurniture;
 
-  private FragmentFurnitureSetsBinding(@NonNull LinearLayout rootView, @NonNull ImageView ArmChairs,
+  private FragmentFurnitureSetsBinding(@NonNull ScrollView rootView, @NonNull ImageView ArmChairs,
       @NonNull ImageView BathroomFurnitureSets, @NonNull ImageView DiningSets,
       @NonNull ImageView OscFurniture) {
     this.rootView = rootView;
@@ -42,7 +42,7 @@ public final class FragmentFurnitureSetsBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -91,7 +91,7 @@ public final class FragmentFurnitureSetsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentFurnitureSetsBinding((LinearLayout) rootView, ArmChairs,
+      return new FragmentFurnitureSetsBinding((ScrollView) rootView, ArmChairs,
           BathroomFurnitureSets, DiningSets, OscFurniture);
     }
     String missingId = rootView.getResources().getResourceName(id);

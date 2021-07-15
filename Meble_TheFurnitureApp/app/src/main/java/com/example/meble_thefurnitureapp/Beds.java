@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.Toast;
+import android.widget.Toolbar;
 
 import com.example.meble_thefurnitureapp.Beds_BabyCots;
 
@@ -68,6 +69,7 @@ public class Beds extends Fragment{
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
        View view =  inflater.inflate(R.layout.fragment_beds, container, false);
+
 
        ImageView BabyCotsActivity = (ImageView) view.findViewById(R.id.BabyCots);
 

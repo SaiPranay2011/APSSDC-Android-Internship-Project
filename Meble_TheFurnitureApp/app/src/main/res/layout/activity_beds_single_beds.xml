@@ -83,6 +83,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_sb"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -122,7 +123,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_sb1"/>
 
             </LinearLayout>
             <androidx.cardview.widget.CardView
@@ -190,6 +192,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_sb2"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -230,7 +233,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_sb3"/>
 
             </LinearLayout>
 
@@ -299,6 +303,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_sb4"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
