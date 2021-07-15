@@ -83,6 +83,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_tv"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -123,7 +124,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_tv1"/>
 
             </LinearLayout>
 
@@ -192,7 +194,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_tv2"/>
             </LinearLayout>
 
         </LinearLayout>
@@ -233,7 +236,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_tv3"/>
 
             </LinearLayout>
 
@@ -302,6 +306,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_tv4"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -343,7 +348,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_tv5"/>
 
             </LinearLayout>
 
@@ -411,6 +417,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_tv6"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -452,7 +459,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_tv7"/>
 
             </LinearLayout>
 
@@ -520,6 +528,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
+                    android:onClick="Buy_tv9"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -561,7 +570,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
-                    android:text="Buy Now" />
+                    android:text="Buy Now"
+                    android:onClick="Buy_tv9"/>
 
             </LinearLayout>
 
