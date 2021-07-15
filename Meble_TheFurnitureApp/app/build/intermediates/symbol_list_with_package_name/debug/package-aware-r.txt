@@ -2011,6 +2011,7 @@ id ArmChairs
 id BOTTOM_END
 id BOTTOM_START
 id BabyCots
+id BarFurniture
 id BathroomFurnitureSets
 id BedsWithStorage
 id BedsideTable
@@ -2045,6 +2046,7 @@ id Stools
 id StorageShelves
 id TOP_END
 id TOP_START
+id TVMedia
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -2576,6 +2578,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_bar_furniture_barfurniture
 layout activity_beds_baby_cots
 layout activity_beds_bedswith_storage
 layout activity_beds_bunk_beds
@@ -2605,6 +2608,7 @@ layout activity_tables_and_desks_children_table
 layout activity_tables_and_desks_coffee_side_tables
 layout activity_tables_and_desks_computer_desks
 layout activity_tables_and_desks_dressing_tables
+layout activity_tvmedia_tv_media_furniture
 layout app_bar_home_page
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row

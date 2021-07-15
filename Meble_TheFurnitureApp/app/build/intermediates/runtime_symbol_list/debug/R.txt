@@ -2010,6 +2010,7 @@ int id ArmChairs 0x7f080001
 int id BOTTOM_END 0x7f080002
 int id BOTTOM_START 0x7f080003
 int id BabyCots 0x7f080004
+int id BarFurniture 0x7f0801f5
 int id BathroomFurnitureSets 0x7f080005
 int id BedsWithStorage 0x7f080006
 int id BedsideTable 0x7f080007
@@ -2044,6 +2045,7 @@ int id Stools 0x7f080023
 int id StorageShelves 0x7f080024
 int id TOP_END 0x7f080025
 int id TOP_START 0x7f080026
+int id TVMedia 0x7f0801f6
 int id accelerate 0x7f080027
 int id accessibility_action_clickable_span 0x7f080028
 int id accessibility_custom_action_0 0x7f080029
@@ -2575,6 +2577,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_bar_furniture_barfurniture 0x7f0b00a6
 int layout activity_beds_baby_cots 0x7f0b001c
 int layout activity_beds_bedswith_storage 0x7f0b001d
 int layout activity_beds_bunk_beds 0x7f0b001e
@@ -2604,6 +2607,7 @@ int layout activity_tables_and_desks_children_table 0x7f0b0035
 int layout activity_tables_and_desks_coffee_side_tables 0x7f0b0036
 int layout activity_tables_and_desks_computer_desks 0x7f0b0037
 int layout activity_tables_and_desks_dressing_tables 0x7f0b0038
+int layout activity_tvmedia_tv_media_furniture 0x7f0b00a7
 int layout app_bar_home_page 0x7f0b0039
 int layout browser_actions_context_menu_page 0x7f0b003a
 int layout browser_actions_context_menu_row 0x7f0b003b

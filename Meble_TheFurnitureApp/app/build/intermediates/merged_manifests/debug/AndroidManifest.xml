@@ -25,6 +25,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp" >
+        <activity android:name="com.example.meble_thefurnitureapp.TVMedia_TvMediaFurniture" />
+        <activity android:name="com.example.meble_thefurnitureapp.BarFurniture_barfurniture" />
         <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_DressingTables" />
         <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ComputerDesks" />
         <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CoffeeSideTables" />
@@ -60,8 +62,7 @@
         <activity
             android:name="com.example.meble_thefurnitureapp.LoginPage"
             android:label="Login Page"
-            android:parentActivityName="com.example.meble_thefurnitureapp.MainActivity" >
-        </activity>
+            android:parentActivityName="com.example.meble_thefurnitureapp.MainActivity" />
         <activity android:name="com.example.meble_thefurnitureapp.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
