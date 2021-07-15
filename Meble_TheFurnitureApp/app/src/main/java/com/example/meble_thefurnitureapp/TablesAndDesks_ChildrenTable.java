@@ -25,6 +25,7 @@ public class TablesAndDesks_ChildrenTable extends AppCompatActivity implements P
         setContentView(R.layout.activity_tables_and_desks_children_table);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

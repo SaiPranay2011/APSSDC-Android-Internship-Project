@@ -24,6 +24,7 @@ public class BookcasesShelves_Pantry extends AppCompatActivity implements Paymen
         setContentView(R.layout.activity_bookcases_shelves_pantry);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

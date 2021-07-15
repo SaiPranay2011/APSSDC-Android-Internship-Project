@@ -25,6 +25,7 @@ public class TablesAndDesks_DressingTables extends AppCompatActivity implements 
         setContentView(R.layout.activity_tables_and_desks_dressing_tables);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

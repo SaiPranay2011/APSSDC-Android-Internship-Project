@@ -24,6 +24,7 @@ public class BookcasesShelves_ShelvingUnits extends AppCompatActivity implements
         setContentView(R.layout.activity_bookcases_shelves_shelving_units);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

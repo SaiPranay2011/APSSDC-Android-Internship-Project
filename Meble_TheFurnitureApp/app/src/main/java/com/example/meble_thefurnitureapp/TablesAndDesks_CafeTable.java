@@ -25,6 +25,7 @@ public class TablesAndDesks_CafeTable extends AppCompatActivity implements Payme
         setContentView(R.layout.activity_tables_and_desks_cafe_table);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

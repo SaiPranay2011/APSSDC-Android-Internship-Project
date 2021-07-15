@@ -23,6 +23,7 @@ public class BookcasesShelves_Bookcases extends AppCompatActivity implements Pay
         setContentView(R.layout.activity_bookcases_shelves_bookcases);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

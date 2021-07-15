@@ -25,6 +25,7 @@ public class TablesAndDesks_BedsideTable extends AppCompatActivity implements Pa
         setContentView(R.layout.activity_tables_and_desks_bedside_table);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        Checkout.preload(getApplicationContext());
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {
