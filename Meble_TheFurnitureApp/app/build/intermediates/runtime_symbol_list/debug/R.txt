@@ -1884,6 +1884,10 @@ int drawable dt1 0x7f0800db
 int drawable dt2 0x7f0800dc
 int drawable dt3 0x7f0800dd
 int drawable dt4 0x7f0800de
+int drawable furniture_sets_arm_chairs 0x7f080158
+int drawable furniture_sets_dining_sets 0x7f080159
+int drawable furniture_sets_fathroom_furniture 0x7f080157
+int drawable furniture_sets_outside_furniture 0x7f08015a
 int drawable googleg_disabled_color_18 0x7f0800df
 int drawable googleg_standard_color_18 0x7f0800e0
 int drawable ic_bar_furniture 0x7f0800e1

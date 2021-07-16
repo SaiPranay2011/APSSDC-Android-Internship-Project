@@ -1885,6 +1885,10 @@ drawable dt1
 drawable dt2
 drawable dt3
 drawable dt4
+drawable furniture_sets_arm_chairs
+drawable furniture_sets_dining_sets
+drawable furniture_sets_fathroom_furniture
+drawable furniture_sets_outside_furniture
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_bar_furniture
