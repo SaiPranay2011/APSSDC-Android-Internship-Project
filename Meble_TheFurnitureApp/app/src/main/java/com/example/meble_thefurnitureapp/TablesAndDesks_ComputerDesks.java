@@ -54,7 +54,7 @@ public class TablesAndDesks_ComputerDesks extends AppCompatActivity implements P
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Clary Computer Desk");
-            object.put("amount","2500000");
+            object.put("amount","4300000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();

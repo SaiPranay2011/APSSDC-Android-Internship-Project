@@ -200,7 +200,7 @@
                     android:textStyle="bold"
                     android:gravity="center"
                     android:layout_gravity="center"
-                    android:text="terence \n Box Storage Bed \n(Grey) "
+                    android:text="Terence \n Box Storage Bed \n(Grey) "
                     android:textSize="20dp"
                     />
 

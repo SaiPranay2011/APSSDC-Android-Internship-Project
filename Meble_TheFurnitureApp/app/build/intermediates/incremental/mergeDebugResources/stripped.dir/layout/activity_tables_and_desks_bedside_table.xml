@@ -42,7 +42,8 @@
                     android:layout_width="181dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Touma \nBed Side Table\n(Maple Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -83,7 +84,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
                     android:text="Sencillo \n Bed Side Table \n(Teak Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -153,7 +154,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Uno \nBed Side Table\n(Ply Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -193,9 +195,9 @@
                 <TextView
                     android:layout_width="164dp"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Brim \nBed Side Table with Drawers \n(White and Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -265,7 +267,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Kosmo \nBed Side Table\n(Rose Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />

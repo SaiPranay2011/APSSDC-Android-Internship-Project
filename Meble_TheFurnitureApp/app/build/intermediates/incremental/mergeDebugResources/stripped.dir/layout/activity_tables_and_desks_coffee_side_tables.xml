@@ -42,7 +42,8 @@
                     android:layout_width="181dp"
                     android:layout_height="84dp"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Max \nCoffee Side Table \n(Coffee Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -81,9 +82,9 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Takeba \nCoffee Side Table with Stools \n(Maple Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -153,7 +154,7 @@
                     android:layout_width="157dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
                     android:layout_gravity="center"
                     android:text="Kohana \nCoffee Side Table\n(Stainless Steel) "
                     android:textSize="20dp"
@@ -194,9 +195,9 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Marina \nCoffee Side Table \n(Ply Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -266,7 +267,8 @@
                     android:layout_width="142dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Konoha \nCobra Print Coffee Side \nTable"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -306,9 +308,9 @@
                 <TextView
                     android:layout_width="161dp"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Astero \nCoffee Side Table \n(Flamingo Pink) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -378,7 +380,8 @@
                     android:layout_width="120dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Luna \nCoffee Side Table\n(Ply Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -418,9 +421,9 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Hudson \nCoffee Side Table \n(Mustard Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -490,7 +493,8 @@
                     android:layout_width="130dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Eco \nCoffee Side Table\n(Black) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -530,9 +534,9 @@
                 <TextView
                     android:layout_width="164dp"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Marcus \nCoffee Side Table with Glass Top \n(Black) "
                     android:textSize="20dp"
                     android:textStyle="bold" />

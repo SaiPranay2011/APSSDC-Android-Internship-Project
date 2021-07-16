@@ -43,6 +43,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Rezzan\n Bar Glass Hanging Furniture "
                     android:textSize="20dp"
                     />
@@ -84,6 +85,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Woodway\n Bottle and Glass Holder \n(Wood) "
                     android:textSize="20dp"
                     />
@@ -152,9 +154,9 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="20dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Stafford\nBar Stool(Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -198,6 +200,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Ferme\n Bar Table Furniture \n(Wood) "
                     android:textSize="20dp"
                     />
@@ -269,6 +272,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Trestle\nBar Single Table(Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -311,6 +315,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Akemi\n Bar Table Furniture\n(Wood) "
                     android:textSize="20dp"
                     />
@@ -380,6 +385,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Norah\nBottles Holder (Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -423,6 +429,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Aura \nBar Bottles and Glasses Holder Table \n(Wood) "
                     android:textSize="20dp"
                     />

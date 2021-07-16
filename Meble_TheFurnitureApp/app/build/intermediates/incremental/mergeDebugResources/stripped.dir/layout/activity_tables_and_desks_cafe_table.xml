@@ -42,7 +42,8 @@
                     android:layout_width="181dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Nakamura \nCafe Table\n(Ply Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -81,9 +82,9 @@
                 <TextView
                     android:layout_width="164dp"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Hutch \nCafe Table with Couch\n(Maroon) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -153,7 +154,8 @@
                     android:layout_width="120dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Eskada \nCafe Table\n(Jute Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -194,7 +196,7 @@
                     android:layout_width="182dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
                     android:layout_gravity="center"
                     android:text="Stark \nCafe Table \n(Mustard) "
                     android:textSize="20dp"
@@ -265,7 +267,8 @@
                     android:layout_width="142dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Zenith \nCafe Table\n(Maple Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />

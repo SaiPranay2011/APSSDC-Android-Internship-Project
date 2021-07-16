@@ -287,7 +287,7 @@ public class TablesAndDesks_CoffeeSideTables extends AppCompatActivity implement
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Eco Coffee Side Table");
-            object.put("amount","540000");
+            object.put("amount","400000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
@@ -316,7 +316,7 @@ public class TablesAndDesks_CoffeeSideTables extends AppCompatActivity implement
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Marcus Coffee Side Table with Glass Top");
-            object.put("amount","540000");
+            object.put("amount","250000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();

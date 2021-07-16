@@ -112,7 +112,7 @@ public class Chairs_Stools extends AppCompatActivity implements PaymentResultLis
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Tpower Stool");
-            object.put("amount","250000");
+            object.put("amount","350000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();

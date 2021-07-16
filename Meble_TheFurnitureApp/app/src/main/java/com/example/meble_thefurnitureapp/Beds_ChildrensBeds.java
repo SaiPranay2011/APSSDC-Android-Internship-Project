@@ -110,7 +110,7 @@ public class Beds_ChildrensBeds extends AppCompatActivity implements PaymentResu
 
         try {
             JSONObject object = new JSONObject();
-            object.put("Name","josue Girls Bed");
+            object.put("Name","Josue Girls Bed");
             object.put("amount","2800000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
