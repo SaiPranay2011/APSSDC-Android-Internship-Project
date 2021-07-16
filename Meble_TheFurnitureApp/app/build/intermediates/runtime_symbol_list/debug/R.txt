@@ -1767,6 +1767,7 @@ int drawable ba4 0x7f080066
 int drawable ba5 0x7f080067
 int drawable ba6 0x7f080068
 int drawable ba7 0x7f080069
+int drawable bar_furniture 0x7f080175
 int drawable bb 0x7f08006a
 int drawable bb1 0x7f08006b
 int drawable bb2 0x7f08006c
