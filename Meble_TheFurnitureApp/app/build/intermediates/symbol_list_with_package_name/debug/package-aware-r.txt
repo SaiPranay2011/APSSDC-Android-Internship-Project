@@ -1908,7 +1908,6 @@ drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_lock
-drawable ic_main_logo_background
 drawable ic_menu_camera
 drawable ic_menu_gallery
 drawable ic_menu_slideshow
@@ -1924,6 +1923,8 @@ drawable ic_tv_and_mediafurniture
 drawable ic_wardrobe
 drawable imageviewborder
 drawable main_logo
+drawable main_logo1
+drawable main_logo_playstore
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2739,9 +2740,6 @@ menu activity_main_drawer
 menu home_page
 mipmap ic_launcher
 mipmap ic_launcher_round
-mipmap ic_main_logo
-mipmap ic_main_logo_foreground
-mipmap ic_main_logo_round
 navigation mobile_navigation
 plurals mtrl_badge_content_description
 raw rzp_config

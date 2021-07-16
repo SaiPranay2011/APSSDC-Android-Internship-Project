@@ -6,592 +6,592 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
+8-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
+9-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:5:5-80
-11-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:5:22-77
+11-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:5:5-80
+11-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:5:22-77
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:6:5-67
-12-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:6:22-64
+12-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:6:5-67
+12-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:6:22-64
 13    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
-13-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:7:5-82
-13-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:7:22-79
+13-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:7:5-82
+13-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:7:22-79
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
-14-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+14-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+14-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
 15    <uses-permission android:name="android.permission.WAKE_LOCK" />
-15-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
-15-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:22-65
+15-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+15-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:22-65
 16    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-16-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
-16-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+16-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+16-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
 17
 18    <application
-18-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:9:5-120:19
+18-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:9:5-120:19
 19        android:allowBackup="true"
-19-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:10:9-35
+19-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:10:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-20-->[androidx.core:core:1.5.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\1da791ceba9feec321027b07634bdb60\core-1.5.0\AndroidManifest.xml:24:18-86
+20-->[androidx.core:core:1.5.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\1da791ceba9feec321027b07634bdb60\core-1.5.0\AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
-22        android:icon="@mipmap/ic_main_logo"
-22-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:11:9-44
+22        android:icon="@drawable/main_logo_playstore"
+22-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:11:9-53
 23        android:label="@string/app_name"
-23-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:12:9-41
-24        android:roundIcon="@mipmap/ic_main_logo_round"
-24-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:13:9-55
+23-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:12:9-41
+24        android:roundIcon="@drawable/main_logo_playstore"
+24-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:13:9-58
 25        android:supportsRtl="true"
-25-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:14:9-35
+25-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:14:9-35
 26        android:testOnly="true"
 27        android:theme="@style/Theme.Meble_TheFurnitureApp" >
-27-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:15:9-59
+27-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:15:9-59
 28        <activity
-28-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:16:9-18:63
+28-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:16:9-18:63
 29            android:name="com.example.meble_thefurnitureapp.TVMedia_TvMediaFurniture"
-29-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:16:19-59
+29-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:16:19-59
 30            android:label="TV &amp; Media Furniture"
-30-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:17:13-53
+30-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:17:13-53
 31            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-31-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:18:13-51
+31-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:18:13-51
 32        <activity
-32-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:19:9-21:63
+32-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:19:9-21:63
 33            android:name="com.example.meble_thefurnitureapp.BarFurniture_barfurniture"
-33-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:19:19-60
+33-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:19:19-60
 34            android:label="Bar Furniture"
-34-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:20:13-42
+34-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:20:13-42
 35            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-35-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:21:13-51
+35-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:21:13-51
 36        <activity
-36-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:22:9-24:63
+36-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:22:9-24:63
 37            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_DressingTables"
-37-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:22:19-64
+37-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:22:19-64
 38            android:label="Dressing Tables"
-38-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:23:13-44
+38-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:23:13-44
 39            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-39-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:24:13-51
+39-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:24:13-51
 40        <activity
-40-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:25:9-27:63
+40-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:25:9-27:63
 41            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ComputerDesks"
-41-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:25:19-63
+41-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:25:19-63
 42            android:label="Computer Desks"
-42-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:26:13-43
+42-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:26:13-43
 43            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-43-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:27:13-51
+43-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:27:13-51
 44        <activity
-44-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:28:9-30:63
+44-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:28:9-30:63
 45            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CoffeeSideTables"
-45-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:28:19-66
+45-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:28:19-66
 46            android:label="Coffee Side Tables"
-46-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:29:13-47
+46-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:29:13-47
 47            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-47-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:30:13-51
+47-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:30:13-51
 48        <activity
-48-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:31:9-33:63
+48-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:31:9-33:63
 49            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ChildrenTable"
-49-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:31:19-63
+49-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:31:19-63
 50            android:label="Children&apos;s Table"
-50-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:32:13-37
+50-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:32:13-37
 51            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-51-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:33:13-51
+51-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:33:13-51
 52        <activity
-52-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:34:9-36:63
+52-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:34:9-36:63
 53            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CafeTable"
-53-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:34:19-59
+53-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:34:19-59
 54            android:label="Cafe Table"
-54-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:35:13-39
+54-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:35:13-39
 55            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-55-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:36:13-51
+55-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:36:13-51
 56        <activity
-56-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:37:9-39:63
+56-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:37:9-39:63
 57            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_BedsideTable"
-57-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:37:19-62
+57-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:37:19-62
 58            android:label="Bed Side Table"
-58-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:38:13-43
+58-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:38:13-43
 59            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-59-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:39:13-51
+59-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:39:13-51
 60        <activity
-60-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:40:9-43:63
+60-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:40:9-43:63
 61            android:name="com.example.meble_thefurnitureapp.FurnitureSets_Oscfurniture"
-61-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:41:13-55
+61-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:41:13-55
 62            android:label="Outside Furniture Sets"
-62-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:42:13-51
+62-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:42:13-51
 63            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-63-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:43:13-51
+63-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:43:13-51
 64        <activity
-64-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:44:9-46:63
+64-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:44:9-46:63
 65            android:name="com.example.meble_thefurnitureapp.FurnitureSets_Diningsets"
-65-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:44:19-59
+65-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:44:19-59
 66            android:label="Dining Sets"
-66-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:45:13-40
+66-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:45:13-40
 67            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-67-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:46:13-51
+67-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:46:13-51
 68        <activity
-68-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:47:9-49:63
+68-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:47:9-49:63
 69            android:name="com.example.meble_thefurnitureapp.FurnitureSets_Bathroomfurniture"
-69-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:47:19-66
+69-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:47:19-66
 70            android:label="Bathroom Furniture Sets"
-70-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:48:13-52
+70-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:48:13-52
 71            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-71-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:49:13-51
+71-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:49:13-51
 72        <activity
-72-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:50:9-52:63
+72-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:50:9-52:63
 73            android:name="com.example.meble_thefurnitureapp.FurnitureSets_Armchairs"
-73-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:50:19-58
+73-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:50:19-58
 74            android:label="Armchairs"
-74-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:51:13-38
+74-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:51:13-38
 75            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-75-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:52:13-51
+75-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:52:13-51
 76        <activity
-76-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:53:9-55:63
+76-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:53:9-55:63
 77            android:name="com.example.meble_thefurnitureapp.Chairs_Stools"
-77-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:53:19-48
+77-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:53:19-48
 78            android:label="Stools"
-78-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:54:13-35
+78-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:54:13-35
 79            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-79-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:55:13-51
+79-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:55:13-51
 80        <activity
-80-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:56:9-58:63
+80-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:56:9-58:63
 81            android:name="com.example.meble_thefurnitureapp.Chairs_DiningChairs"
-81-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:56:19-54
+81-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:56:19-54
 82            android:label="Dining Chairs"
-82-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:57:13-42
+82-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:57:13-42
 83            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-83-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:58:13-51
+83-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:58:13-51
 84        <activity
-84-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:59:9-61:63
+84-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:59:9-61:63
 85            android:name="com.example.meble_thefurnitureapp.Chairs_DeskChairs"
-85-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:59:19-52
+85-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:59:19-52
 86            android:label="Desk Chairs"
-86-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:60:13-40
+86-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:60:13-40
 87            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-87-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:61:13-51
+87-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:61:13-51
 88        <activity
-88-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:62:9-64:63
+88-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:62:9-64:63
 89            android:name="com.example.meble_thefurnitureapp.Chairs_Benches"
-89-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:62:19-49
+89-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:62:19-49
 90            android:label="Benches"
-90-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:63:13-36
+90-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:63:13-36
 91            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-91-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:64:13-51
+91-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:64:13-51
 92        <activity
-92-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:65:9-67:63
+92-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:65:9-67:63
 93            android:name="com.example.meble_thefurnitureapp.BookcasesShelves_StorageShelves"
-93-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:65:19-66
+93-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:65:19-66
 94            android:label="Storage Shelves"
-94-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:66:13-44
+94-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:66:13-44
 95            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-95-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:67:13-51
+95-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:67:13-51
 96        <activity
-96-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:68:9-70:63
+96-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:68:9-70:63
 97            android:name="com.example.meble_thefurnitureapp.BookcasesShelves_ShelvingUnits"
-97-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:68:19-65
+97-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:68:19-65
 98            android:label="Shelving Units"
-98-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:69:13-43
+98-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:69:13-43
 99            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-99-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:70:13-51
+99-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:70:13-51
 100        <activity
-100-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:71:9-73:63
+100-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:71:9-73:63
 101            android:name="com.example.meble_thefurnitureapp.BookcasesShelves_Pantry"
-101-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:71:19-58
+101-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:71:19-58
 102            android:label="Pantry"
-102-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:72:13-35
+102-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:72:13-35
 103            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-103-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:73:13-51
+103-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:73:13-51
 104        <activity
-104-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:74:9-76:63
+104-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:74:9-76:63
 105            android:name="com.example.meble_thefurnitureapp.BookcasesShelves_Bookcases"
-105-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:74:19-61
+105-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:74:19-61
 106            android:label="Bookcases"
-106-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:75:13-38
+106-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:75:13-38
 107            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-107-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:76:13-51
+107-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:76:13-51
 108        <activity
-108-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:77:9-79:63
+108-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:77:9-79:63
 109            android:name="com.example.meble_thefurnitureapp.Beds_SofaBeds"
-109-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:77:19-48
+109-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:77:19-48
 110            android:label="Sofa Beds"
-110-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:78:13-38
+110-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:78:13-38
 111            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-111-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:79:13-51
+111-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:79:13-51
 112        <activity
-112-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:80:9-82:63
+112-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:80:9-82:63
 113            android:name="com.example.meble_thefurnitureapp.Beds_SIngleBeds"
-113-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:80:19-50
+113-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:80:19-50
 114            android:label="Single Beds"
-114-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:81:13-40
+114-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:81:13-40
 115            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-115-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:82:13-51
+115-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:82:13-51
 116        <activity
-116-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:83:9-85:63
+116-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:83:9-85:63
 117            android:name="com.example.meble_thefurnitureapp.Beds_DoubleBeds"
-117-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:83:19-50
+117-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:83:19-50
 118            android:label="Double Beds"
-118-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:84:13-40
+118-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:84:13-40
 119            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-119-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:85:13-51
+119-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:85:13-51
 120        <activity
-120-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:86:9-88:63
+120-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:86:9-88:63
 121            android:name="com.example.meble_thefurnitureapp.Beds_ChildrensBeds"
-121-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:86:19-53
+121-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:86:19-53
 122            android:label="Children&apos;s Bed"
-122-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:87:13-37
+122-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:87:13-37
 123            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-123-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:88:13-51
+123-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:88:13-51
 124        <activity
-124-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:89:9-91:63
+124-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:89:9-91:63
 125            android:name="com.example.meble_thefurnitureapp.Beds_BunkBeds"
-125-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:89:19-48
+125-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:89:19-48
 126            android:label="Bunk Beds"
-126-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:90:13-38
+126-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:90:13-38
 127            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-127-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:91:13-51
+127-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:91:13-51
 128        <activity
-128-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:92:9-94:63
+128-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:92:9-94:63
 129            android:name="com.example.meble_thefurnitureapp.Beds_BedswithStorage"
-129-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:92:19-55
+129-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:92:19-55
 130            android:label="Beds With Storage"
-130-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:93:13-46
+130-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:93:13-46
 131            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
-131-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:94:13-51
+131-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:94:13-51
 132        <activity
-132-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:95:9-99:20
+132-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:95:9-99:20
 133            android:name="com.example.meble_thefurnitureapp.Beds_BabyCots"
-133-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:95:19-48
+133-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:95:19-48
 134            android:label="Baby Cots"
-134-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:96:13-38
+134-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:96:13-38
 135            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" >
-135-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:97:13-51
+135-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:97:13-51
 136        </activity>
 137        <activity
-137-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:100:9-103:78
+137-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:100:9-103:78
 138            android:name="com.example.meble_thefurnitureapp.HomePage"
-138-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:101:13-37
+138-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:101:13-37
 139            android:label="@string/title_activity_home_page"
-139-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:102:13-61
+139-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:102:13-61
 140            android:theme="@style/Theme.Meble_TheFurnitureApp.NoActionBar" />
-140-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:103:13-75
+140-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:103:13-75
 141        <activity android:name="com.example.meble_thefurnitureapp.RegisterPage" />
-141-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:104:9-50
-141-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:104:19-47
+141-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:104:9-50
+141-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:104:19-47
 142        <activity
-142-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:105:9-108:58
+142-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:105:9-108:58
 143            android:name="com.example.meble_thefurnitureapp.LoginPage"
-143-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:106:13-38
+143-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:106:13-38
 144            android:label="Login Page"
-144-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:107:13-39
+144-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:107:13-39
 145            android:parentActivityName="com.example.meble_thefurnitureapp.MainActivity" />
-145-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:108:13-55
+145-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:108:13-55
 146        <activity android:name="com.example.meble_thefurnitureapp.MainActivity" >
-146-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:109:9-115:20
-146-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:109:19-47
+146-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:109:9-115:20
+146-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:109:19-47
 147            <intent-filter>
-147-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:110:13-114:29
+147-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:110:13-114:29
 148                <action android:name="android.intent.action.MAIN" />
-148-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:111:17-69
-148-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:111:25-66
+148-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:111:17-69
+148-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:111:25-66
 149
 150                <category android:name="android.intent.category.LAUNCHER" />
-150-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:113:17-77
-150-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:113:27-74
+150-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:113:17-77
+150-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:113:27-74
 151            </intent-filter>
 152        </activity>
 153
 154        <meta-data
-154-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:117:9-119:57
+154-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:117:9-119:57
 155            android:name="preloaded_fonts"
-155-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:118:13-43
+155-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:118:13-43
 156            android:resource="@array/preloaded_fonts" />
-156-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:119:13-54
+156-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:119:13-54
 157
 158        <activity
-158-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+158-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
 159            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-159-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+159-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
 160            android:excludeFromRecents="true"
-160-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+160-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
 161            android:exported="true"
-161-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+161-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
 162            android:launchMode="singleTask"
-162-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+162-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
 163            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-163-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+163-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
 164            <intent-filter>
-164-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+164-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
 165                <action android:name="android.intent.action.VIEW" />
-165-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
-165-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+165-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+165-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
 166
 167                <category android:name="android.intent.category.DEFAULT" />
-167-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-167-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+167-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+167-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
 168                <category android:name="android.intent.category.BROWSABLE" />
-168-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
-168-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+168-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+168-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
 169
 170                <data
-170-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+170-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
 171                    android:host="firebase.auth"
-171-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+171-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
 172                    android:path="/"
-172-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+172-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
 173                    android:scheme="genericidp" />
-173-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+173-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
 174            </intent-filter>
 175        </activity>
 176        <activity
-176-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+176-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
 177            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-177-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+177-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
 178            android:excludeFromRecents="true"
-178-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+178-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
 179            android:exported="true"
-179-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+179-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
 180            android:launchMode="singleTask"
-180-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+180-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
 181            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-181-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+181-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
 182            <intent-filter>
-182-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+182-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
 183                <action android:name="android.intent.action.VIEW" />
-183-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
-183-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+183-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+183-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
 184
 185                <category android:name="android.intent.category.DEFAULT" />
-185-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-185-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+185-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+185-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
 186                <category android:name="android.intent.category.BROWSABLE" />
-186-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
-186-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+186-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+186-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
 187
 188                <data
-188-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+188-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
 189                    android:host="firebase.auth"
-189-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+189-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
 190                    android:path="/"
-190-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+190-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
 191                    android:scheme="recaptcha" />
-191-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+191-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
 192            </intent-filter>
 193        </activity>
 194
 195        <service
-195-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+195-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
 196            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
-196-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+196-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
 197            android:enabled="true"
-197-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+197-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
 198            android:exported="false" >
-198-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+198-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
 199            <intent-filter>
-199-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+199-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
 200                <action android:name="com.google.firebase.auth.api.gms.service.START" />
-200-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
-200-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+200-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+200-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
 201
 202                <category android:name="android.intent.category.DEFAULT" />
-202-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-202-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+202-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+202-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
 203            </intent-filter>
 204        </service>
 205        <service
-205-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+205-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
 206            android:name="com.google.firebase.components.ComponentDiscoveryService"
-206-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+206-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
 207            android:directBootAware="true"
-207-->[com.google.firebase:firebase-common:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+207-->[com.google.firebase:firebase-common:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
 208            android:exported="false" >
-208-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+208-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
 209            <meta-data
-209-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+209-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
 210                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-210-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+210-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
 211                android:value="com.google.firebase.components.ComponentRegistrar" />
-211-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+211-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
 212            <meta-data
-212-->[com.google.firebase:firebase-database:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\7e1b647bab6440ad7227e021558861b3\firebase-database-20.0.0\AndroidManifest.xml:32:13-34:85
+212-->[com.google.firebase:firebase-database:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\7e1b647bab6440ad7227e021558861b3\firebase-database-20.0.0\AndroidManifest.xml:32:13-34:85
 213                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-213-->[com.google.firebase:firebase-database:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\7e1b647bab6440ad7227e021558861b3\firebase-database-20.0.0\AndroidManifest.xml:33:17-109
+213-->[com.google.firebase:firebase-database:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\7e1b647bab6440ad7227e021558861b3\firebase-database-20.0.0\AndroidManifest.xml:33:17-109
 214                android:value="com.google.firebase.components.ComponentRegistrar" />
-214-->[com.google.firebase:firebase-database:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\7e1b647bab6440ad7227e021558861b3\firebase-database-20.0.0\AndroidManifest.xml:34:17-82
+214-->[com.google.firebase:firebase-database:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\7e1b647bab6440ad7227e021558861b3\firebase-database-20.0.0\AndroidManifest.xml:34:17-82
 215            <meta-data
-215-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\9dc31726a1e286282aa69f10aa902ace\firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
+215-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\9dc31726a1e286282aa69f10aa902ace\firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
 216                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-216-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\9dc31726a1e286282aa69f10aa902ace\firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
+216-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\9dc31726a1e286282aa69f10aa902ace\firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
 217                android:value="com.google.firebase.components.ComponentRegistrar" />
-217-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\9dc31726a1e286282aa69f10aa902ace\firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
+217-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\9dc31726a1e286282aa69f10aa902ace\firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
 218            <meta-data
-218-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\7f813ae48f6ab4f74ab7358cfcdbae48\firebase-firestore-23.0.1\AndroidManifest.xml:20:13-22:85
+218-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\7f813ae48f6ab4f74ab7358cfcdbae48\firebase-firestore-23.0.1\AndroidManifest.xml:20:13-22:85
 219                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-219-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\7f813ae48f6ab4f74ab7358cfcdbae48\firebase-firestore-23.0.1\AndroidManifest.xml:21:17-111
+219-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\7f813ae48f6ab4f74ab7358cfcdbae48\firebase-firestore-23.0.1\AndroidManifest.xml:21:17-111
 220                android:value="com.google.firebase.components.ComponentRegistrar" />
-220-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\7f813ae48f6ab4f74ab7358cfcdbae48\firebase-firestore-23.0.1\AndroidManifest.xml:22:17-82
+220-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\7f813ae48f6ab4f74ab7358cfcdbae48\firebase-firestore-23.0.1\AndroidManifest.xml:22:17-82
 221            <meta-data
-221-->[com.google.firebase:firebase-crashlytics:18.1.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\84b93e618b26ee49701d0d265d989e57\firebase-crashlytics-18.1.0\AndroidManifest.xml:18:13-20:85
+221-->[com.google.firebase:firebase-crashlytics:18.1.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\84b93e618b26ee49701d0d265d989e57\firebase-crashlytics-18.1.0\AndroidManifest.xml:18:13-20:85
 222                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
-222-->[com.google.firebase:firebase-crashlytics:18.1.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\84b93e618b26ee49701d0d265d989e57\firebase-crashlytics-18.1.0\AndroidManifest.xml:19:17-115
+222-->[com.google.firebase:firebase-crashlytics:18.1.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\84b93e618b26ee49701d0d265d989e57\firebase-crashlytics-18.1.0\AndroidManifest.xml:19:17-115
 223                android:value="com.google.firebase.components.ComponentRegistrar" />
-223-->[com.google.firebase:firebase-crashlytics:18.1.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\84b93e618b26ee49701d0d265d989e57\firebase-crashlytics-18.1.0\AndroidManifest.xml:20:17-82
+223-->[com.google.firebase:firebase-crashlytics:18.1.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\84b93e618b26ee49701d0d265d989e57\firebase-crashlytics-18.1.0\AndroidManifest.xml:20:17-82
 224            <meta-data
-224-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+224-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
 225                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-225-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+225-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
 226                android:value="com.google.firebase.components.ComponentRegistrar" />
-226-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+226-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\f0577e4d20a562e78d8f1d642d6b1c0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
 227            <meta-data
-227-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\31451db1fa5a2da1af8dd310aed3be91\firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+227-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\31451db1fa5a2da1af8dd310aed3be91\firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
 228                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-228-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\31451db1fa5a2da1af8dd310aed3be91\firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+228-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\31451db1fa5a2da1af8dd310aed3be91\firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
 229                android:value="com.google.firebase.components.ComponentRegistrar" />
-229-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\31451db1fa5a2da1af8dd310aed3be91\firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+229-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\31451db1fa5a2da1af8dd310aed3be91\firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
 230        </service>
 231
 232        <receiver android:name="com.razorpay.RzpTokenReceiver" >
-232-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:12:9-16:20
-232-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:12:19-63
+232-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:12:9-16:20
+232-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:12:19-63
 233            <intent-filter>
-233-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:13:13-15:29
+233-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:13:13-15:29
 234                <action android:name="rzp.device_token.share" />
-234-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:14:17-65
-234-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:14:25-62
+234-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:14:17-65
+234-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:14:25-62
 235            </intent-filter>
 236        </receiver>
 237
 238        <activity
-238-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:18:9-29:20
+238-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:18:9-29:20
 239            android:name="com.razorpay.CheckoutActivity"
-239-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:19:13-57
+239-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:19:13-57
 240            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-240-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:20:13-83
+240-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:20:13-83
 241            android:theme="@style/CheckoutTheme" >
-241-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:21:13-49
+241-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:21:13-49
 242            <intent-filter>
-242-->[com.razorpay:checkout:1.6.6] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:22:13-28:29
+242-->[com.razorpay:checkout:1.6.6] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\98dbcbf4b2c16ecc8a0c18c67d449113\checkout-1.6.6\AndroidManifest.xml:22:13-28:29
 243                <action android:name="android.intent.action.MAIN" />
-243-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:111:17-69
-243-->D:\android studio projects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:111:25-66
+243-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:111:17-69
+243-->D:\AndroidStudioProjects\APSSDC-Android-Internship-Project\Meble_TheFurnitureApp\app\src\main\AndroidManifest.xml:111:25-66
 244
 245                <data
-245-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+245-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
 246                    android:host="rzp.io"
-246-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+246-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
 247                    android:scheme="io.rzp" />
-247-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+247-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\56648e56696081a0e3f0e87af78adb36\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
 248            </intent-filter>
 249        </activity>
 250        <activity
-250-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+250-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
 251            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-251-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+251-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
 252            android:excludeFromRecents="true"
-252-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+252-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
 253            android:exported="false"
-253-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+253-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
 254            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-254-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+254-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
 255        <!--
 256            Service handling Google Sign-In user revocation. For apps that do not integrate with
 257            Google Sign-In, this service will never be started.
 258        -->
 259        <service
-259-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+259-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
 260            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-260-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+260-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
 261            android:exported="true"
-261-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+261-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
 262            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-262-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+262-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
 263            android:visibleToInstantApps="true" />
-263-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+263-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\cc8035ee8037e9ca412edc30c69772f5\play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
 264        <service
-264-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+264-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
 265            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-265-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+265-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
 266            android:exported="false" >
-266-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+266-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
 267            <meta-data
-267-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+267-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
 268                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-268-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+268-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
 269                android:value="cct" />
-269-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+269-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\aa6d485dd7d138f4c1668e93ac69deef\transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
 270        </service>
 271
 272        <provider
-272-->[com.google.firebase:firebase-common:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+272-->[com.google.firebase:firebase-common:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
 273            android:name="com.google.firebase.provider.FirebaseInitProvider"
-273-->[com.google.firebase:firebase-common:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+273-->[com.google.firebase:firebase-common:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
 274            android:authorities="com.example.meble_thefurnitureapp.firebaseinitprovider"
-274-->[com.google.firebase:firebase-common:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+274-->[com.google.firebase:firebase-common:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
 275            android:directBootAware="true"
-275-->[com.google.firebase:firebase-common:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+275-->[com.google.firebase:firebase-common:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
 276            android:exported="false"
-276-->[com.google.firebase:firebase-common:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+276-->[com.google.firebase:firebase-common:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
 277            android:initOrder="100" />
-277-->[com.google.firebase:firebase-common:20.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+277-->[com.google.firebase:firebase-common:20.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\4207f61feefd462f86eb95786e84ae54\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
 278
 279        <activity
-279-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\49b9b8524c78ec6486e46f3a17f6ad3a\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+279-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\49b9b8524c78ec6486e46f3a17f6ad3a\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
 280            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-280-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\49b9b8524c78ec6486e46f3a17f6ad3a\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+280-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\49b9b8524c78ec6486e46f3a17f6ad3a\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
 281            android:exported="false"
-281-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\49b9b8524c78ec6486e46f3a17f6ad3a\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+281-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\49b9b8524c78ec6486e46f3a17f6ad3a\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
 282            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-282-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\49b9b8524c78ec6486e46f3a17f6ad3a\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+282-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\49b9b8524c78ec6486e46f3a17f6ad3a\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
 283
 284        <receiver
-284-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+284-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
 285            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-285-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+285-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
 286            android:enabled="true"
-286-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+286-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
 287            android:exported="false" >
-287-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+287-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
 288        </receiver>
 289
 290        <service
-290-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+290-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
 291            android:name="com.google.android.gms.measurement.AppMeasurementService"
-291-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+291-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
 292            android:enabled="true"
-292-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+292-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
 293            android:exported="false" />
-293-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+293-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
 294        <service
-294-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+294-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
 295            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-295-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+295-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
 296            android:enabled="true"
-296-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+296-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
 297            android:exported="false"
-297-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+297-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
 298            android:permission="android.permission.BIND_JOB_SERVICE" />
-298-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+298-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\12eac633de5b5f29057e13a4632cd118\play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
 299
 300        <meta-data
-300-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\71bf667b776a9b98b2b8d14491090bc5\play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+300-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\71bf667b776a9b98b2b8d14491090bc5\play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
 301            android:name="com.google.android.gms.version"
-301-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\71bf667b776a9b98b2b8d14491090bc5\play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+301-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\71bf667b776a9b98b2b8d14491090bc5\play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
 302            android:value="@integer/google_play_services_version" />
-302-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\71bf667b776a9b98b2b8d14491090bc5\play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+302-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\71bf667b776a9b98b2b8d14491090bc5\play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
 303
 304        <service
-304-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:26:9-30:19
+304-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:26:9-30:19
 305            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-305-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:27:13-117
+305-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:27:13-117
 306            android:exported="false"
-306-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:28:13-37
+306-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:28:13-37
 307            android:permission="android.permission.BIND_JOB_SERVICE" >
-307-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:29:13-69
+307-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:29:13-69
 308        </service>
 309
 310        <receiver
-310-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:32:9-34:40
+310-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:32:9-34:40
 311            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-311-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:33:13-132
+311-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:33:13-132
 312            android:exported="false" />
-312-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\chebi\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:34:13-37
+312-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\laasya\.gradle\caches\transforms-2\files-2.1\d8baa677980a55fda92e02b08f0edf4a\transport-runtime-3.0.1\AndroidManifest.xml:34:13-37
 313    </application>
 314
 315</manifest>
