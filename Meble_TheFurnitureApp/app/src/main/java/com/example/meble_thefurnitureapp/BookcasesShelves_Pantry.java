@@ -140,7 +140,7 @@ public class BookcasesShelves_Pantry extends AppCompatActivity implements Paymen
 
         try {
             JSONObject object = new JSONObject();
-            object.put("Name","Vooneen Pantry with Wheels");
+            object.put("Name","Bejoy Wall Mount Pantry");
             object.put("amount","800000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
@@ -169,7 +169,7 @@ public class BookcasesShelves_Pantry extends AppCompatActivity implements Paymen
 
         try {
             JSONObject object = new JSONObject();
-            object.put("Name","Kosmo Wooden Bookcase");
+            object.put("Name","Vooneen Pantry with Wheels");
             object.put("amount","300000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");

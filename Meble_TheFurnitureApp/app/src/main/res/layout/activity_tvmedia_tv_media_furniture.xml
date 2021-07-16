@@ -41,7 +41,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Norwica \nTV Furniture Set\n(Coffee Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -81,7 +82,7 @@
                     android:layout_width="182dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
                     android:layout_gravity="center"
                     android:text="Thomas \n TV Furniture Set \n(Ply Wood) "
                     android:textSize="20dp"
@@ -152,7 +153,8 @@
                     android:layout_width="132dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Andrew \nTV Furniture Set \n(Frost White) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -193,7 +195,7 @@
                     android:layout_width="182dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
                     android:layout_gravity="center"
                     android:text="Berlin \nTV Furniture Set \n(Chocolate Brown) "
                     android:textSize="20dp"
@@ -264,7 +266,8 @@
                     android:layout_width="132dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Megllan \nTV Furniture Set\n(Pearl White) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -304,9 +307,9 @@
                 <TextView
                     android:layout_width="166dp"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Robust \nZebra Print TV Furniture \nSet "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -375,7 +378,8 @@
                     android:layout_width="181dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Jonas \nWooden TV Furniture \nSet "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -416,7 +420,7 @@
                     android:layout_width="182dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
                     android:layout_gravity="center"
                     android:text="Yugo \nTV Furniture Set \n(Dark Brown) "
                     android:textSize="20dp"
@@ -486,7 +490,8 @@
                     android:layout_width="181dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Arata \nTV Furniture Set\n(Deep Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -504,7 +509,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
-                    android:onClick="Buy_tv9"
+                    android:onClick="Buy_tv8"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 
@@ -527,7 +532,7 @@
                     android:layout_width="182dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
                     android:layout_gravity="center"
                     android:text="Oscar \nTV Furniture Set \n(Teak Wood) "
                     android:textSize="20dp"

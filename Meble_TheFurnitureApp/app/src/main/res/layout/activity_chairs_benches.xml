@@ -43,6 +43,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Rhodes \nBench\n(Blue) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -83,6 +84,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Masai \n mahogany finish Bench \n(Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -153,6 +155,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Carson \nteak finish \nBench "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -194,6 +197,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Capra \n Bench \n(Wooden) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -212,7 +216,7 @@
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
                     android:text="Buy Now"
-                    android:onClick="Buy_b4"/>
+                    android:onClick="Buy_b3"/>
 
             </LinearLayout>
 
@@ -282,7 +286,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Buy Now"
-                    android:onClick="Buy_b"
+                    android:onClick="Buy_b4"
                     android:backgroundTint="#A18D67"/>
             </LinearLayout>
 

@@ -43,6 +43,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Woltul \n Arm Chair \n(Blue) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -155,6 +156,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Eaton\nArm chair\n(Baby Pink) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -196,6 +198,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Wahson \n Arm Chair \n(Grey) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -266,6 +269,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="More4Homes \nArm Chair\n(Floral) "
                     android:textSize="20dp"
                     android:textStyle="bold" />

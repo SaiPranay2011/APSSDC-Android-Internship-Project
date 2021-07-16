@@ -43,6 +43,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Kalki \nWooden \nBookcase "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -83,6 +84,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Homesake \n Bookcase Floor Mount\n(Floss) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -153,6 +155,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Lara \nLetter Engraved Wooden \nBookcase "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -194,6 +197,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Optima \n Bookcase \n(Bright Red) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -264,6 +268,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Kosmo \nWooden Bookcase\n(Polished) "
                     android:textSize="20dp"
                     android:textStyle="bold" />

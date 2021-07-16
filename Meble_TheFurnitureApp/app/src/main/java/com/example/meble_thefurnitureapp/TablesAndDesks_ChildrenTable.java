@@ -53,7 +53,7 @@ public class TablesAndDesks_ChildrenTable extends AppCompatActivity implements P
 
         try {
             JSONObject object = new JSONObject();
-            object.put("Name","Nakamura Cafe Table");
+            object.put("Name","Zen Children's Table");
             object.put("amount","450000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
@@ -83,7 +83,7 @@ public class TablesAndDesks_ChildrenTable extends AppCompatActivity implements P
 
         try {
             JSONObject object = new JSONObject();
-            object.put("Name","Hutch Cafe Table with Couch");
+            object.put("Name","Zenith Children's Dining Table");
             object.put("amount","520000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");

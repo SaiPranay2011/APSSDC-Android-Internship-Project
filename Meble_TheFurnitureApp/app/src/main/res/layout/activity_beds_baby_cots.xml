@@ -45,6 +45,7 @@
                 android:layout_margin="5dp"
                 android:textStyle="bold"
                 android:gravity="center"
+                    android:layout_gravity="center"
                 android:text="Baby Teddy \nMultifunctional Cot(Blue) "
                 android:textSize="20dp"
                 />
@@ -87,6 +88,7 @@
                    android:layout_margin="5dp"
                    android:textStyle="bold"
                    android:gravity="center"
+                    android:layout_gravity="center"
                    android:text="McSilvie \n Convertable Cot \n(Satin White Finish) "
                    android:textSize="20dp"
                    />
@@ -157,6 +159,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Florence Modular \n Multi functional Cot(Frosty Purple) "
                     android:textSize="20dp"
                     />
@@ -200,6 +203,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="PeaPod \n Traditional Wooden Cot "
                     android:textSize="20dp"
                     />
@@ -270,6 +274,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Royal Rocking \n Grayish White Cot "
                     android:textSize="20dp"
                     />

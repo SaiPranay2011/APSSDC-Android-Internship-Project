@@ -54,7 +54,7 @@ public class TablesAndDesks_CafeTable extends AppCompatActivity implements Payme
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Nakamura Cafe Table");
-            object.put("amount","380000");
+            object.put("amount","3800000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
@@ -84,7 +84,7 @@ public class TablesAndDesks_CafeTable extends AppCompatActivity implements Payme
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Hutch Cafe Table with Couch");
-            object.put("amount","290000");
+            object.put("amount","2900000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
@@ -113,7 +113,7 @@ public class TablesAndDesks_CafeTable extends AppCompatActivity implements Payme
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Eskada Cafe Table");
-            object.put("amount","420000");
+            object.put("amount","4200000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
@@ -142,7 +142,7 @@ public class TablesAndDesks_CafeTable extends AppCompatActivity implements Payme
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Stark Cafe Table");
-            object.put("amount","540000");
+            object.put("amount","5400000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
@@ -171,7 +171,7 @@ public class TablesAndDesks_CafeTable extends AppCompatActivity implements Payme
         try {
             JSONObject object = new JSONObject();
             object.put("Name","Zenith Cafe Table");
-            object.put("amount","320000");
+            object.put("amount","3200000");
             object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();

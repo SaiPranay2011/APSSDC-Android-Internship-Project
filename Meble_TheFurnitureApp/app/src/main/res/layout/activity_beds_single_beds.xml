@@ -45,6 +45,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Ivor \nSingle Bed(Frost White) "
                     android:textSize="20dp"
                     />
@@ -85,6 +86,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Eden \n Single Wooden \nBed "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -154,6 +156,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="AraAra \nSingle Bed( White) "
                     android:textSize="20dp"
                     />
@@ -195,6 +198,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Gomenasai \n Single Bed \n(Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -265,6 +269,7 @@
                     android:layout_margin="5dp"
                     android:textStyle="bold"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Itachi \nSingle Bed(Pearl White) "
                     android:textSize="20dp"
                     />

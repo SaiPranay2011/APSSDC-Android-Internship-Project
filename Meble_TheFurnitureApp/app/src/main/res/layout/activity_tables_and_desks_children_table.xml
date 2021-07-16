@@ -42,7 +42,8 @@
                     android:layout_width="168dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Zen \nChildren's Table\n(Rainbow Painted Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -81,9 +82,9 @@
                 <TextView
                     android:layout_width="159dp"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Zenith \nChildren's Dining Table \n(Maple Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -153,7 +154,8 @@
                     android:layout_width="120dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Niko \nChildren's Study Table\n(Rose Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -193,9 +195,9 @@
                 <TextView
                     android:layout_width="161dp"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Wakefit \nChildren's Table with Storage\n(Blue) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -265,7 +267,8 @@
                     android:layout_width="142dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
-                    android:gravity="center"
+                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Mamiko \nChildren's Table\n(Space Grey) "
                     android:textSize="20dp"
                     android:textStyle="bold" />

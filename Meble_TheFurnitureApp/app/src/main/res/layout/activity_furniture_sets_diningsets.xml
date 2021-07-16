@@ -43,6 +43,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Rose \nDining Set\n(Ply Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -196,6 +197,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Cooper \n Dining Set \n(Wood) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -266,6 +268,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Woltus \nDining Set\n(Floral) "
                     android:textSize="20dp"
                     android:textStyle="bold" />

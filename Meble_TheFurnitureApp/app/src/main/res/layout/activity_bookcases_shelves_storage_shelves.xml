@@ -43,6 +43,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Valent \nWall Mount Wooden Shelf \nwith Partition"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -83,6 +84,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Mango \nWall Mount \nMulti-storage Shelf\n(Chocolate Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -153,6 +155,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Credenza \nWall Mount Hexagonal \nShelf\n(Golden Brown)"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -194,6 +197,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Niche \nWall Mount Waffle-shaped\nShelf\n(Chocolate Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -264,6 +268,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Explore \nMulti-purpose BeeHive shaped Shelf\n(Golden)"
                     android:textSize="20dp"
                     android:textStyle="bold" />

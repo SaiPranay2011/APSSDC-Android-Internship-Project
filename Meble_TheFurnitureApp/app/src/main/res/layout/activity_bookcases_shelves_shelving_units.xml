@@ -43,6 +43,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Oscar \nWall Mount Shelf\n(Golden)"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -83,6 +84,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Omar \nWall Mount \nShelf\n(Chocolate Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -153,6 +155,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Kosmo \nFloor Mount Wooden \nShelf"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -194,6 +197,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Thomas \nFloor Mount Shelf\n(Coffee Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -212,7 +216,7 @@
                     android:layout_gravity="center"
                     android:backgroundTint="#A18D67"
                     android:text="Buy Now"
-                    android:onClick="Buy_pa3"/>
+                    android:onClick="Buy_su3"/>
 
             </LinearLayout>
 
@@ -264,6 +268,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Oplux \nFloor Mount Wooden \nShelf"
                     android:textSize="20dp"
                     android:textStyle="bold" />

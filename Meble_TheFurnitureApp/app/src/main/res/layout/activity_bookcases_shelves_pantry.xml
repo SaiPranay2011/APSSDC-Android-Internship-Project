@@ -43,6 +43,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Hyllis \nWall Mount Wooden \nPantry"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -83,6 +84,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Omar \nFloor Mount Pantry\n(Mustard) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -154,6 +156,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Bror \nWooden Pantry\n(Polished) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -195,6 +198,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Bejoy \nWall Mount \nPantry\n(Coffee Brown) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -265,6 +269,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:gravity="center"
+                    android:layout_gravity="center"
                     android:text="Vooneen \nPantry with Wheels \n(Neon Green) "
                     android:textSize="20dp"
                     android:textStyle="bold" />
