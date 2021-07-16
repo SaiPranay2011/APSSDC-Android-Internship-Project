@@ -49,16 +49,7 @@
         </item>
 
 
-<item
-    android:title="Settings">
-    <menu>
-        <item
-            android:id="@+id/nav_signout"
-            android:icon="@drawable/ic_signout"
-            android:title="signout"
-            android:onClick="signout"/>
-    </menu>
-</item>
+
     </group>
 
 </menu>

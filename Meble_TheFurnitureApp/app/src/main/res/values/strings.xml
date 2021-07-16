@@ -11,7 +11,13 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="about_us_info">Meble Furniture is an application which can be used to browse through a variety of furniture.
+        One can choose the furniture of their choice from various brands and can be added to the cart based on the interest and can be bought.</string>
 
-
+    <string name="about_us_names">Mohammad Umar -- AP19110010247
+    Nandamuri Laasya Choudary-- AP19110010248
+    Nareddy Surya Nagi Reddy -- AP19110010241
+    C. Sai Pranay -- AP19110010255
+    G. Likhita -- AP19110010489</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>

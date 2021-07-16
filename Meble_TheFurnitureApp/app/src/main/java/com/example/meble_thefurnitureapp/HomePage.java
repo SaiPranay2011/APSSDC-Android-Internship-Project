@@ -71,4 +71,9 @@ public class HomePage extends AppCompatActivity {
         Intent i = new Intent(getApplicationContext(),LoginPage.class);
         startActivity(i);
     }
+
+    public void AboutUs(MenuItem item) {
+        Intent i = new Intent(getApplicationContext(),AboutUs.class);
+        startActivity(i);
+    }
 }

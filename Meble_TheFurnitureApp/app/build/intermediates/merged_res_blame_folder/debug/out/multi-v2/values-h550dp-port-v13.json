@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+            "outputFile": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\laasya\\.gradle\\caches\\transforms-2\\files-2.1\\0675e88808741d93b025a32e3489a01e\\material-1.4.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "source": "C:\\Users\\chebi\\.gradle\\caches\\transforms-2\\files-2.1\\0675e88808741d93b025a32e3489a01e\\material-1.4.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

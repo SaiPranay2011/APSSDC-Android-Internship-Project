@@ -26,6 +26,10 @@
         android:testOnly="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp" >
         <activity
+            android:name="com.example.meble_thefurnitureapp.AboutUs"
+            android:label="About Us"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
             android:name="com.example.meble_thefurnitureapp.TVMedia_TvMediaFurniture"
             android:label="TV &amp; Media Furniture"
             android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
@@ -132,8 +136,7 @@
         <activity
             android:name="com.example.meble_thefurnitureapp.Beds_BabyCots"
             android:label="Baby Cots"
-            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" >
-        </activity>
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
         <activity
             android:name="com.example.meble_thefurnitureapp.HomePage"
             android:label="@string/title_activity_home_page"

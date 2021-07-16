@@ -2023,6 +2023,7 @@ int drawable tv_media_furniture 0x7f080166
 int font amita 0x7f090000
 int font audiowide 0x7f090001
 int id ALT 0x7f0a0000
+int id About_us 0x7f0a01f8
 int id ArmChairs 0x7f0a0001
 int id BOTTOM_END 0x7f0a0002
 int id BOTTOM_START 0x7f0a0003
@@ -2114,7 +2115,6 @@ int id action_menu_presenter 0x7f0a0058
 int id action_mode_bar 0x7f0a0059
 int id action_mode_bar_stub 0x7f0a005a
 int id action_mode_close_button 0x7f0a005b
-int id action_settings 0x7f0a005c
 int id action_text 0x7f0a005d
 int id actions 0x7f0a005e
 int id activity_chooser_view_content 0x7f0a005f
@@ -2595,6 +2595,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0d0018
 int layout abc_search_view 0x7f0d0019
 int layout abc_select_dialog_material 0x7f0d001a
 int layout abc_tooltip 0x7f0d001b
+int layout activity_about_us 0x7f0d00a8
 int layout activity_bar_furniture_barfurniture 0x7f0d001c
 int layout activity_beds_baby_cots 0x7f0d001d
 int layout activity_beds_bedswith_storage 0x7f0d001e
@@ -2769,6 +2770,8 @@ int string abc_searchview_description_voice 0x7f130017
 int string abc_shareactionprovider_share_with 0x7f130018
 int string abc_shareactionprovider_share_with_application 0x7f130019
 int string abc_toolbar_collapse_description 0x7f13001a
+int string about_us_info 0x7f13008f
+int string about_us_names 0x7f130090
 int string action_settings 0x7f13001b
 int string app_name 0x7f13001c
 int string appbar_scrolling_view_behavior 0x7f13001d
