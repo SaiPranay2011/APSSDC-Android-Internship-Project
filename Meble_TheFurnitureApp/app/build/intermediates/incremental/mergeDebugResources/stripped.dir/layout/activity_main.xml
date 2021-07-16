@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/shapetheme"
+    android:orientation="vertical">
+
+    
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/main_logo"
+        android:layout_gravity="center"
+        android:background="@drawable/imageviewborder"
+        android:padding="7.5dp"
+        android:layout_marginTop="40dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MEBLE"
+        android:textStyle="bold|italic"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="40sp"
+        android:fontFamily="@font/audiowide"
+        android:textColor="#71541C"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:backgroundTint="#A18D67"
+        android:text="Lets Go!    ------------>"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:onClick="letsgo"/>
+
+</LinearLayout>

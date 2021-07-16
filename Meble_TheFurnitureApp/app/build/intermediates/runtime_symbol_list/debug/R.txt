@@ -1820,6 +1820,10 @@ int drawable cd1 0x7f08009b
 int drawable cd2 0x7f08009c
 int drawable cd3 0x7f08009d
 int drawable cd4 0x7f08009e
+int drawable chairs_benches 0x7f08015b
+int drawable chairs_desk_chairs 0x7f08015c
+int drawable chairs_dining_chairs 0x7f08015d
+int drawable chairs_stools 0x7f08015e
 int drawable common_full_open_on_phone 0x7f08009f
 int drawable common_google_signin_btn_icon_dark 0x7f0800a0
 int drawable common_google_signin_btn_icon_dark_focused 0x7f0800a1
@@ -1903,6 +1907,7 @@ int drawable ic_keyboard_black_24dp 0x7f0800ea
 int drawable ic_launcher_background 0x7f0800eb
 int drawable ic_launcher_foreground 0x7f0800ec
 int drawable ic_lock 0x7f0800ed
+int drawable ic_main_logo_background 0x7f08015f
 int drawable ic_menu_camera 0x7f0800ee
 int drawable ic_menu_gallery 0x7f0800ef
 int drawable ic_menu_slideshow 0x7f0800f0
@@ -1916,6 +1921,8 @@ int drawable ic_sofas_and_armchairs 0x7f0800f7
 int drawable ic_tables_and_desks 0x7f0800f8
 int drawable ic_tv_and_mediafurniture 0x7f0800f9
 int drawable ic_wardrobe 0x7f0800fa
+int drawable imageviewborder 0x7f080160
+int drawable main_logo 0x7f080161
 int drawable material_cursor_drawable 0x7f0800fb
 int drawable material_ic_calendar_black_24dp 0x7f0800fc
 int drawable material_ic_clear_black_24dp 0x7f0800fd
@@ -1995,6 +2002,9 @@ int drawable su1 0x7f080146
 int drawable su2 0x7f080147
 int drawable su3 0x7f080148
 int drawable su4 0x7f080149
+int drawable tables_desks_cafe_table 0x7f080162
+int drawable tables_desks_children_table 0x7f080163
+int drawable tables_desks_dressing_table 0x7f080164
 int drawable test_custom_background 0x7f08014a
 int drawable tooltip_frame_dark 0x7f08014b
 int drawable tooltip_frame_light 0x7f08014c
@@ -2008,6 +2018,7 @@ int drawable tv_6 0x7f080153
 int drawable tv_7 0x7f080154
 int drawable tv_8 0x7f080155
 int drawable tv_9 0x7f080156
+int drawable tv_media_furniture 0x7f080165
 int font amita 0x7f090000
 int font audiowide 0x7f090001
 int id ALT 0x7f0a0000
@@ -2246,6 +2257,7 @@ int id ignore 0x7f0a00e8
 int id ignoreRequest 0x7f0a00e9
 int id image 0x7f0a00ea
 int id imageView 0x7f0a00eb
+int id imageView2 0x7f0a01f7
 int id info 0x7f0a00ec
 int id invisible 0x7f0a00ed
 int id inward 0x7f0a00ee
@@ -2726,6 +2738,9 @@ int menu activity_main_drawer 0x7f0e0000
 int menu home_page 0x7f0e0001
 int mipmap ic_launcher 0x7f0f0000
 int mipmap ic_launcher_round 0x7f0f0001
+int mipmap ic_main_logo 0x7f0f0002
+int mipmap ic_main_logo_foreground 0x7f0f0003
+int mipmap ic_main_logo_round 0x7f0f0004
 int navigation mobile_navigation 0x7f100000
 int plurals mtrl_badge_content_description 0x7f110000
 int raw rzp_config 0x7f120000

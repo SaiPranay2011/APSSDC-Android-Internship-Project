@@ -1821,6 +1821,10 @@ drawable cd1
 drawable cd2
 drawable cd3
 drawable cd4
+drawable chairs_benches
+drawable chairs_desk_chairs
+drawable chairs_dining_chairs
+drawable chairs_stools
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1904,6 +1908,7 @@ drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_lock
+drawable ic_main_logo_background
 drawable ic_menu_camera
 drawable ic_menu_gallery
 drawable ic_menu_slideshow
@@ -1917,6 +1922,8 @@ drawable ic_sofas_and_armchairs
 drawable ic_tables_and_desks
 drawable ic_tv_and_mediafurniture
 drawable ic_wardrobe
+drawable imageviewborder
+drawable main_logo
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1996,6 +2003,9 @@ drawable su1
 drawable su2
 drawable su3
 drawable su4
+drawable tables_desks_cafe_table
+drawable tables_desks_children_table
+drawable tables_desks_dressing_table
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -2009,6 +2019,7 @@ drawable tv_6
 drawable tv_7
 drawable tv_8
 drawable tv_9
+drawable tv_media_furniture
 font amita
 font audiowide
 id ALT
@@ -2247,6 +2258,7 @@ id ignore
 id ignoreRequest
 id image
 id imageView
+id imageView2
 id info
 id invisible
 id inward
@@ -2727,6 +2739,9 @@ menu activity_main_drawer
 menu home_page
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap ic_main_logo
+mipmap ic_main_logo_foreground
+mipmap ic_main_logo_round
 navigation mobile_navigation
 plurals mtrl_badge_content_description
 raw rzp_config

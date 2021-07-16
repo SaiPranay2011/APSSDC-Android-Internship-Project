@@ -4,25 +4,36 @@ package com.example.meble_thefurnitureapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.LinearLayout;
+import android.widget.ImageView;
+import android.widget.ScrollView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import com.example.meble_thefurnitureapp.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final ScrollView rootView;
 
-  private FragmentHomeBinding(@NonNull LinearLayout rootView) {
+  @NonNull
+  public final ImageView imageView;
+
+  @NonNull
+  public final ImageView imageView2;
+
+  private FragmentHomeBinding(@NonNull ScrollView rootView, @NonNull ImageView imageView,
+      @NonNull ImageView imageView2) {
     this.rootView = rootView;
+    this.imageView = imageView;
+    this.imageView2 = imageView2;
   }
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -43,10 +54,25 @@ public final class FragmentHomeBinding implements ViewBinding {
 
   @NonNull
   public static FragmentHomeBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.imageView;
+      ImageView imageView = rootView.findViewById(id);
+      if (imageView == null) {
+        break missingId;
+      }
 
-    return new FragmentHomeBinding((LinearLayout) rootView);
+      id = R.id.imageView2;
+      ImageView imageView2 = rootView.findViewById(id);
+      if (imageView2 == null) {
+        break missingId;
+      }
+
+      return new FragmentHomeBinding((ScrollView) rootView, imageView, imageView2);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

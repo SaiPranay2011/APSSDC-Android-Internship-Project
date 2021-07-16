@@ -24,7 +24,8 @@
             android:id="@+id/ArmChairs"
             android:layout_width="200dp"
             android:layout_height="200dp"
-            android:layout_gravity="start"
+            android:background="@drawable/imageviewborder"
+            android:padding="7.5dp"
             android:src="@drawable/furniture_sets_arm_chairs" />
 
     </LinearLayout>
@@ -40,6 +41,8 @@
             android:layout_height="200dp"
             android:layout_gravity="end"
             android:id="@+id/BathroomFurnitureSets"
+            android:background="@drawable/imageviewborder"
+            android:padding="7.5dp"
             android:src="@drawable/furniture_sets_fathroom_furniture" />
 
     </LinearLayout>
@@ -54,6 +57,8 @@
             android:layout_width="200dp"
             android:layout_height="200dp"
             android:id="@+id/DiningSets"
+            android:background="@drawable/imageviewborder"
+            android:padding="7.5dp"
             android:src="@drawable/furniture_sets_dining_sets" />
 
     </LinearLayout>
@@ -69,6 +74,8 @@
             android:layout_height="200dp"
             android:layout_gravity="end"
             android:id="@+id/OscFurniture"
+            android:background="@drawable/imageviewborder"
+            android:padding="7.5dp"
             android:src="@drawable/furniture_sets_outside_furniture" />
 
     </LinearLayout>
