@@ -53,7 +53,7 @@ public class BookcasesShelves_ShelvingUnits extends AppCompatActivity implements
             JSONObject object = new JSONObject();
             object.put("Name","Oscar Wall Mount Shelf");
             object.put("amount","800000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -83,7 +83,7 @@ public class BookcasesShelves_ShelvingUnits extends AppCompatActivity implements
             JSONObject object = new JSONObject();
             object.put("Name","Omar Wall Mount Shelf");
             object.put("amount","600000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -112,7 +112,7 @@ public class BookcasesShelves_ShelvingUnits extends AppCompatActivity implements
             JSONObject object = new JSONObject();
             object.put("Name","Kosmo Floor Mount Wooden Shelf");
             object.put("amount","780000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -141,7 +141,7 @@ public class BookcasesShelves_ShelvingUnits extends AppCompatActivity implements
             JSONObject object = new JSONObject();
             object.put("Name","Thomas Floor Mount Shelf");
             object.put("amount","650000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -170,7 +170,7 @@ public class BookcasesShelves_ShelvingUnits extends AppCompatActivity implements
             JSONObject object = new JSONObject();
             object.put("Name","Oplux Floor Mount Wooden Shelf");
             object.put("amount","990000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);

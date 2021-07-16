@@ -55,7 +55,7 @@ public class FurnitureSets_Bathroomfurniture extends AppCompatActivity implement
             JSONObject object = new JSONObject();
             object.put("Name","Branco Bathroom Set");
             object.put("amount","4500000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -84,7 +84,7 @@ public class FurnitureSets_Bathroomfurniture extends AppCompatActivity implement
             JSONObject object = new JSONObject();
             object.put("Name","Nilkamal Bathroom Set");
             object.put("amount","3800000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -113,7 +113,7 @@ public class FurnitureSets_Bathroomfurniture extends AppCompatActivity implement
             JSONObject object = new JSONObject();
             object.put("Name","Branco Bathroom Set");
             object.put("amount","3500000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -142,7 +142,7 @@ public class FurnitureSets_Bathroomfurniture extends AppCompatActivity implement
             JSONObject object = new JSONObject();
             object.put("Name","Retroza \\n Bathroom Set");
             object.put("amount","3200000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -171,7 +171,7 @@ public class FurnitureSets_Bathroomfurniture extends AppCompatActivity implement
             JSONObject object = new JSONObject();
             object.put("Name","Nayasa Furniture Set");
             object.put("amount","4200000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);

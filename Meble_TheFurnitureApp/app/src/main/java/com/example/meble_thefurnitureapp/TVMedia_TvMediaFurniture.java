@@ -56,7 +56,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Norwica TV Furniture Set");
             object.put("amount","2600000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -86,7 +86,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Thomas TV Furniture Set");
             object.put("amount","1600000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -115,7 +115,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Andrew TV Furniture Set ");
             object.put("amount","1800000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -144,7 +144,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Berlin TV Furniture Set ");
             object.put("amount","2200000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -173,7 +173,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Megllan TV Furniture Set");
             object.put("amount","2500000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -203,7 +203,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Robust Zebra Print TV Furniture");
             object.put("amount","2200000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -233,7 +233,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Jonas Wooden TV Furniture Set");
             object.put("amount","2700000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -262,7 +262,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Yugo TV Furniture Set");
             object.put("amount","1700000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -291,7 +291,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Arata TV Furniture Set");
             object.put("amount","1900000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -320,7 +320,7 @@ public class TVMedia_TvMediaFurniture extends AppCompatActivity implements Payme
             JSONObject object = new JSONObject();
             object.put("Name","Oscar TV Furniture Set");
             object.put("amount","2050000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);

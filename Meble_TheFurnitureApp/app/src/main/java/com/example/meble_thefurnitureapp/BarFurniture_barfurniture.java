@@ -56,7 +56,6 @@ public class BarFurniture_barfurniture extends AppCompatActivity implements Paym
             JSONObject object = new JSONObject();
             object.put("Name","Rezzan Bar Glass Hanging Furniture");
             object.put("amount","1200000");
-            object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -85,7 +84,6 @@ public class BarFurniture_barfurniture extends AppCompatActivity implements Paym
             JSONObject object = new JSONObject();
             object.put("Name","Woodway Bottle and Glass Holder");
             object.put("amount","700000");
-            object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -114,7 +112,6 @@ public class BarFurniture_barfurniture extends AppCompatActivity implements Paym
             JSONObject object = new JSONObject();
             object.put("Name","Stafford Bar Stool");
             object.put("amount","500000");
-            object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -143,7 +140,6 @@ public class BarFurniture_barfurniture extends AppCompatActivity implements Paym
             JSONObject object = new JSONObject();
             object.put("Name","Ferme Bar Table Furniture  ");
             object.put("amount","2500000");
-            object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -172,7 +168,6 @@ public class BarFurniture_barfurniture extends AppCompatActivity implements Paym
             JSONObject object = new JSONObject();
             object.put("Name","Trestle Bar Single Table");
             object.put("amount","1500000");
-            object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -201,7 +196,6 @@ public class BarFurniture_barfurniture extends AppCompatActivity implements Paym
             JSONObject object = new JSONObject();
             object.put("Name","Akemi Bar Table Furniture");
             object.put("amount","4800000");
-            object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -230,7 +224,6 @@ public class BarFurniture_barfurniture extends AppCompatActivity implements Paym
             JSONObject object = new JSONObject();
             object.put("Name","Norah Bottles Holder");
             object.put("amount","1800000");
-            object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -259,7 +252,6 @@ public class BarFurniture_barfurniture extends AppCompatActivity implements Paym
             JSONObject object = new JSONObject();
             object.put("Name","Aura Bar Bottles and Glasses");
             object.put("amount","3000000");
-            object.put("theme.color","#44BB04");
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);

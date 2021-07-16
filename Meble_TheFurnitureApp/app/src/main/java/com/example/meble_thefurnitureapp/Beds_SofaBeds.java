@@ -54,7 +54,7 @@ public class Beds_SofaBeds extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Tivoli Sofa Bed");
             object.put("amount","2500000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -83,7 +83,7 @@ public class Beds_SofaBeds extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Vonanda Sofa black Bed");
             object.put("amount","3000000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -112,7 +112,7 @@ public class Beds_SofaBeds extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Lomao Sofa Bed ");
             object.put("amount","2200000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -141,7 +141,7 @@ public class Beds_SofaBeds extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Yaheetech Sofa Cushion Bed");
             object.put("amount","2400000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -170,7 +170,7 @@ public class Beds_SofaBeds extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Hori Sofa Bed");
             object.put("amount","1800000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);

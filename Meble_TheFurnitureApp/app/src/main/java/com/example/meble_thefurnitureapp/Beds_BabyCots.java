@@ -66,7 +66,7 @@ Checkout checkout;
             JSONObject object = new JSONObject();
             object.put("Name","Baby Teddy Multifunctional Cot");
             object.put("amount","1100000");
-            object.put("theme.color","#44BB04");
+            
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -96,7 +96,7 @@ Checkout checkout;
             JSONObject object = new JSONObject();
             object.put("Name","McSilvie  Convertible Cot ");
             object.put("amount","1400000");
-            object.put("theme.color","#44BB04");
+            
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -125,7 +125,7 @@ Checkout checkout;
             JSONObject object = new JSONObject();
             object.put("Name","Florence Modular Multi functional Cot");
             object.put("amount","800000");
-            object.put("theme.color","#44BB04");
+            
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -154,7 +154,7 @@ Checkout checkout;
             JSONObject object = new JSONObject();
             object.put("Name","PeaPod Traditional Wooden Cot");
             object.put("amount","700000");
-            object.put("theme.color","#44BB04");
+            
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -183,7 +183,7 @@ Checkout checkout;
             JSONObject object = new JSONObject();
             object.put("Name","Royal Rocking  Grayish White Cot ");
             object.put("amount","900000");
-            object.put("theme.color","#44BB04");
+            
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);

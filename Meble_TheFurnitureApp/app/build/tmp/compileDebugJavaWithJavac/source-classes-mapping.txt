@@ -117,9 +117,8 @@ com/example/meble_thefurnitureapp/databinding/ActivityMainBinding.java
  com.example.meble_thefurnitureapp.databinding.ActivityMainBinding
 com/example/meble_thefurnitureapp/databinding/ActivityHomePageBinding.java
  com.example.meble_thefurnitureapp.databinding.ActivityHomePageBinding
-com/example/meble_thefurnitureapp/BarFurniture.java
- com.example.meble_thefurnitureapp.BarFurniture
- com.example.meble_thefurnitureapp.BarFurniture$1
+com/example/meble_thefurnitureapp/databinding/ActivityBedsSingleBedsBinding.java
+ com.example.meble_thefurnitureapp.databinding.ActivityBedsSingleBedsBinding
 com/example/meble_thefurnitureapp/BookcasesShelves_StorageShelves.java
  com.example.meble_thefurnitureapp.BookcasesShelves_StorageShelves
 com/example/meble_thefurnitureapp/Tables_desks.java
@@ -162,8 +161,8 @@ com/example/meble_thefurnitureapp/Beds_BabyCots.java
  com.example.meble_thefurnitureapp.Beds_BabyCots
 com/example/meble_thefurnitureapp/FurnitureSets_Armchairs.java
  com.example.meble_thefurnitureapp.FurnitureSets_Armchairs
-com/example/meble_thefurnitureapp/BarFurniture_barfurniture.java
- com.example.meble_thefurnitureapp.BarFurniture_barfurniture
+com/example/meble_thefurnitureapp/BookcasesShelves_Bookcases.java
+ com.example.meble_thefurnitureapp.BookcasesShelves_Bookcases
 com/example/meble_thefurnitureapp/databinding/FragmentBookcasesShelvesBinding.java
  com.example.meble_thefurnitureapp.databinding.FragmentBookcasesShelvesBinding
 com/example/meble_thefurnitureapp/databinding/ActivityTablesAndDesksChildrenTableBinding.java
@@ -201,7 +200,8 @@ com/example/meble_thefurnitureapp/Beds_ChildrensBeds.java
  com.example.meble_thefurnitureapp.Beds_ChildrensBeds
 com/example/meble_thefurnitureapp/BuildConfig.java
  com.example.meble_thefurnitureapp.BuildConfig
-com/example/meble_thefurnitureapp/databinding/ActivityBedsSingleBedsBinding.java
- com.example.meble_thefurnitureapp.databinding.ActivityBedsSingleBedsBinding
-com/example/meble_thefurnitureapp/BookcasesShelves_Bookcases.java
- com.example.meble_thefurnitureapp.BookcasesShelves_Bookcases
+com/example/meble_thefurnitureapp/BarFurniture_barfurniture.java
+ com.example.meble_thefurnitureapp.BarFurniture_barfurniture
+com/example/meble_thefurnitureapp/BarFurniture.java
+ com.example.meble_thefurnitureapp.BarFurniture
+ com.example.meble_thefurnitureapp.BarFurniture$1

@@ -55,7 +55,7 @@ public class Chairs_Stools extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Woltu Stool");
             object.put("amount","360000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -84,7 +84,7 @@ public class Chairs_Stools extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Ktoner  Stool");
             object.put("amount","320000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -113,7 +113,7 @@ public class Chairs_Stools extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Tpower Stool");
             object.put("amount","350000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
@@ -142,7 +142,7 @@ public class Chairs_Stools extends AppCompatActivity implements PaymentResultLis
             JSONObject object = new JSONObject();
             object.put("Name","Lassan Stool");
             object.put("amount","270000");
-            object.put("theme.color","#44BB04");
+
             object.put("currency","INR");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
