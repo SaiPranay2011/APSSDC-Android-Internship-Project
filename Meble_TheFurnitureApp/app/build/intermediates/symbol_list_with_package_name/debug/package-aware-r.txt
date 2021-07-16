@@ -1768,7 +1768,7 @@ drawable ba4
 drawable ba5
 drawable ba6
 drawable ba7
-drawable bar_furniture
+drawable bar_furnitures
 drawable bb
 drawable bb1
 drawable bb2
