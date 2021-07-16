@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context=".Tv_media_furniture">
+    tools:context=".Tv_media_furniture"
+    android:background="@drawable/shapetheme">
 
     <ImageView
         android:id="@+id/TVMedia"
