@@ -8,7 +8,6 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.Toolbar;
 import androidx.viewbinding.ViewBinding;
 import com.example.meble_thefurnitureapp.R;
 import java.lang.NullPointerException;
@@ -22,14 +21,9 @@ public final class ActivityBedsBabyCotsBinding implements ViewBinding {
   @NonNull
   public final TextView rate;
 
-  @NonNull
-  public final Toolbar toolbar;
-
-  private ActivityBedsBabyCotsBinding(@NonNull ScrollView rootView, @NonNull TextView rate,
-      @NonNull Toolbar toolbar) {
+  private ActivityBedsBabyCotsBinding(@NonNull ScrollView rootView, @NonNull TextView rate) {
     this.rootView = rootView;
     this.rate = rate;
-    this.toolbar = toolbar;
   }
 
   @Override
@@ -65,13 +59,7 @@ public final class ActivityBedsBabyCotsBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.toolbar;
-      Toolbar toolbar = rootView.findViewById(id);
-      if (toolbar == null) {
-        break missingId;
-      }
-
-      return new ActivityBedsBabyCotsBinding((ScrollView) rootView, rate, toolbar);
+      return new ActivityBedsBabyCotsBinding((ScrollView) rootView, rate);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
