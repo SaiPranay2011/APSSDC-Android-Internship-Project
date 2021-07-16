@@ -25,34 +25,110 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Meble_TheFurnitureApp" >
-        <activity android:name="com.example.meble_thefurnitureapp.TVMedia_TvMediaFurniture" />
-        <activity android:name="com.example.meble_thefurnitureapp.BarFurniture_barfurniture" />
-        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_DressingTables" />
-        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ComputerDesks" />
-        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CoffeeSideTables" />
-        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ChildrenTable" />
-        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CafeTable" />
-        <activity android:name="com.example.meble_thefurnitureapp.TablesAndDesks_BedsideTable" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.TVMedia_TvMediaFurniture"
+            android:label="TV &amp; Media Furniture"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.BarFurniture_barfurniture"
+            android:label="Bar Furniture"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_DressingTables"
+            android:label="Dressing Tables"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ComputerDesks"
+            android:label="Computer Desks"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CoffeeSideTables"
+            android:label="Coffee Side Tables"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_ChildrenTable"
+            android:label="Children&apos;s Table"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_CafeTable"
+            android:label="Cafe Table"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.TablesAndDesks_BedsideTable"
+            android:label="Bed Side Table"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
         <activity
             android:name="com.example.meble_thefurnitureapp.FurnitureSets_Oscfurniture"
-            android:label="Osc Furniture" />
-        <activity android:name="com.example.meble_thefurnitureapp.FurnitureSets_Diningsets" />
-        <activity android:name="com.example.meble_thefurnitureapp.FurnitureSets_Bathroomfurniture" />
-        <activity android:name="com.example.meble_thefurnitureapp.FurnitureSets_Armchairs" />
-        <activity android:name="com.example.meble_thefurnitureapp.Chairs_Stools" />
-        <activity android:name="com.example.meble_thefurnitureapp.Chairs_DiningChairs" />
-        <activity android:name="com.example.meble_thefurnitureapp.Chairs_DeskChairs" />
-        <activity android:name="com.example.meble_thefurnitureapp.Chairs_Benches" />
-        <activity android:name="com.example.meble_thefurnitureapp.BookcasesShelves_StorageShelves" />
-        <activity android:name="com.example.meble_thefurnitureapp.BookcasesShelves_ShelvingUnits" />
-        <activity android:name="com.example.meble_thefurnitureapp.BookcasesShelves_Pantry" />
-        <activity android:name="com.example.meble_thefurnitureapp.BookcasesShelves_Bookcases" />
-        <activity android:name="com.example.meble_thefurnitureapp.Beds_SofaBeds" />
-        <activity android:name="com.example.meble_thefurnitureapp.Beds_SIngleBeds" />
-        <activity android:name="com.example.meble_thefurnitureapp.Beds_DoubleBeds" />
-        <activity android:name="com.example.meble_thefurnitureapp.Beds_ChildrensBeds" />
-        <activity android:name="com.example.meble_thefurnitureapp.Beds_BunkBeds" />
-        <activity android:name="com.example.meble_thefurnitureapp.Beds_BedswithStorage" />
+            android:label="Outside Furniture Sets"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.FurnitureSets_Diningsets"
+            android:label="Dining Sets"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.FurnitureSets_Bathroomfurniture"
+            android:label="Bathroom Furniture Sets"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.FurnitureSets_Armchairs"
+            android:label="Armchairs"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Chairs_Stools"
+            android:label="Stools"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Chairs_DiningChairs"
+            android:label="Dining Chairs"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Chairs_DeskChairs"
+            android:label="Desk Chairs"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Chairs_Benches"
+            android:label="Benches"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.BookcasesShelves_StorageShelves"
+            android:label="Storage Shelves"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.BookcasesShelves_ShelvingUnits"
+            android:label="Shelving Units"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.BookcasesShelves_Pantry"
+            android:label="Pantry"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.BookcasesShelves_Bookcases"
+            android:label="Bookcases"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Beds_SofaBeds"
+            android:label="Sofa Beds"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Beds_SIngleBeds"
+            android:label="Single Beds"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Beds_DoubleBeds"
+            android:label="Double Beds"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Beds_ChildrensBeds"
+            android:label="Children&apos;s Bed"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Beds_BunkBeds"
+            android:label="Bunk Beds"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Beds_BedswithStorage"
+            android:label="Beds With Storage"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
         <activity
             android:name="com.example.meble_thefurnitureapp.Beds_BabyCots"
             android:label="Baby Cots"

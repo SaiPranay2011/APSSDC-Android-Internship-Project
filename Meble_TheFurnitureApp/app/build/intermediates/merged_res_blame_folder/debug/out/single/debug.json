@@ -24,12 +24,12 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\fragment_tv_media_furniture.xml"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cd3.jpeg.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\cd3.jpeg"
-    },
-    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_di2.jpeg.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\di2.jpeg"
+    },
+    {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cd3.jpeg.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\cd3.jpeg"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -52,12 +52,12 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\fragment_tables_desks.xml"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_su.jpg.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\su.jpg"
-    },
-    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_page.xml.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_su.jpg.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\su.jpg"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_book_cases.xml.flat",
@@ -112,12 +112,12 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ba2.jpg"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_signout.xml.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ic_signout.xml"
-    },
-    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cst6.jpg.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\cst6.jpg"
+    },
+    {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_signout.xml.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ic_signout.xml"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bs1.jpg.flat",
@@ -140,16 +140,16 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\bs.jpg"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_st1.jpg.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\st1.jpg"
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ct1.jpg.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ct1.jpg"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt1.jpg.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\bt1.jpg"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ct1.jpg.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ct1.jpg"
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_st1.jpg.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\st1.jpg"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cst9.jpg.flat",
@@ -184,12 +184,12 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ic_tables_and_desks.xml"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sbs1.jpeg.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\sbs1.jpeg"
-    },
-    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ds3.jpg.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ds3.jpg"
+    },
+    {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sbs1.jpeg.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\sbs1.jpeg"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ss4.jpg.flat",
@@ -232,12 +232,12 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\db2.jpg"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_page.xml.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\activity_login_page.xml"
-    },
-    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_page.xml.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\activity_login_page.xml"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cst4.jpg.flat",
@@ -264,12 +264,12 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\db.jpg"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_st3.jpg.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\st3.jpg"
-    },
-    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ct3.jpg.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ct3.jpg"
+    },
+    {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_st3.jpg.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\st3.jpg"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_beds_baby_cots.xml.flat",
@@ -288,12 +288,12 @@
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\dt4.jpg"
     },
     {
-        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_su1.jpg.flat",
-        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\su1.jpg"
-    },
-    {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_deck.xml.flat",
         "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ic_deck.xml"
+    },
+    {
+        "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_su1.jpg.flat",
+        "source": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\su1.jpg"
     },
     {
         "merged": "D:\\android studio projects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",

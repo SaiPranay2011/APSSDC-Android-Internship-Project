@@ -47,7 +47,7 @@
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="10dp"
                 android:elevation="10dp"
-                android:backgroundTint="#E6CD2D"
+                android:backgroundTint="#978308"
                 >
                 <ImageView
                     android:layout_width="200dp"
@@ -136,7 +136,7 @@
                 app:cardCornerRadius="10dp"
                 android:elevation="10dp"
                 android:layout_weight="0.01"
-                android:backgroundTint="#E6CD2D"
+                android:backgroundTint="#978308"
                 >
                 <ImageView
                     android:layout_width="200dp"
@@ -158,7 +158,7 @@
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="10dp"
                 android:elevation="10dp"
-                android:backgroundTint="#E6CD2D"
+                android:backgroundTint="#978308"
                 >
                 <ImageView
                     android:layout_width="200dp"
@@ -250,7 +250,7 @@
                 app:cardCornerRadius="10dp"
                 android:elevation="10dp"
                 android:layout_weight="0.01"
-                android:backgroundTint="#E6CD2D"
+                android:backgroundTint="#978308"
                 >
 
                 <ImageView
@@ -273,7 +273,7 @@
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="10dp"
                 android:elevation="10dp"
-                android:backgroundTint="#E6CD2D"
+                android:backgroundTint="#978308"
                 >
                 <ImageView
                     android:layout_width="200dp"
@@ -363,7 +363,7 @@
                 app:cardCornerRadius="10dp"
                 android:elevation="10dp"
                 android:layout_weight="0.01"
-                android:backgroundTint="#E6CD2D"
+                android:backgroundTint="#978308"
                 >
                 <ImageView
                     android:layout_width="200dp"
@@ -384,7 +384,7 @@
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="10dp"
                 android:elevation="10dp"
-                android:backgroundTint="#E6CD2D"
+                android:backgroundTint="#978308"
                 >
                 <ImageView
                     android:layout_width="200dp"
@@ -475,7 +475,7 @@
                 app:cardCornerRadius="10dp"
                 android:elevation="10dp"
                 android:layout_weight="0.01"
-                android:backgroundTint="#E6CD2D"
+                android:backgroundTint="#978308"
                 >
                 <ImageView
                     android:layout_width="200dp"
