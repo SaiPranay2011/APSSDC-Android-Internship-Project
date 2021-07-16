@@ -1976,6 +1976,7 @@ drawable sbs2
 drawable sbs3
 drawable sbs4
 drawable shape
+drawable shapetheme
 drawable side_nav_bar
 drawable ss
 drawable ss1

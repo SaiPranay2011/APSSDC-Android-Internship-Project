@@ -41,7 +41,9 @@
         <activity android:name=".Beds_ChildrensBeds" />
         <activity android:name=".Beds_BunkBeds" />
         <activity android:name=".Beds_BedswithStorage" />
-        <activity android:name=".Beds_BabyCots" />
+        <activity android:name=".Beds_BabyCots"
+            android:label="Baby Cots"
+            android:parentActivityName=".HomePage"></activity>
         <activity
             android:name=".HomePage"
             android:label="@string/title_activity_home_page"

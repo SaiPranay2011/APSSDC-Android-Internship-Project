@@ -53,7 +53,10 @@
         <activity android:name="com.example.meble_thefurnitureapp.Beds_ChildrensBeds" />
         <activity android:name="com.example.meble_thefurnitureapp.Beds_BunkBeds" />
         <activity android:name="com.example.meble_thefurnitureapp.Beds_BedswithStorage" />
-        <activity android:name="com.example.meble_thefurnitureapp.Beds_BabyCots" />
+        <activity
+            android:name="com.example.meble_thefurnitureapp.Beds_BabyCots"
+            android:label="Baby Cots"
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
         <activity
             android:name="com.example.meble_thefurnitureapp.HomePage"
             android:label="@string/title_activity_home_page"
