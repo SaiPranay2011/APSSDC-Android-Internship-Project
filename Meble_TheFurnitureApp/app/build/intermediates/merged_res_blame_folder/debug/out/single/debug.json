@@ -60,12 +60,12 @@
         "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ba6.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bb3.jpg.flat",
-        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\bb3.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cb3.jpg.flat",
         "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\cb3.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bb3.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\bb3.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ba.jpg.flat",
@@ -180,16 +180,16 @@
         "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bb2.jpg.flat",
-        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\bb2.jpg"
+        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_su.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\su.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bc.jpg.flat",
         "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\bc.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_su.jpg.flat",
-        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\su.jpg"
+        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bb2.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\bb2.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cb2.jpg.flat",
@@ -204,12 +204,12 @@
         "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\menu\\home_page.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_su1.jpg.flat",
-        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\su1.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home_page.xml.flat",
         "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\layout\\content_home_page.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_su1.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\su1.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pa3.jpg.flat",
@@ -220,12 +220,12 @@
         "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ct3.jpg.flat",
-        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ct3.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ac.jpg.flat",
         "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ac.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ct3.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\src\\main\\res\\drawable\\ct3.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\APSSDC-Android-Internship-Project\\Meble_TheFurnitureApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
