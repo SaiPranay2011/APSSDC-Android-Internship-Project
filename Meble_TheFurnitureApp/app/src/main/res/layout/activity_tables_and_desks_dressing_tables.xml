@@ -8,31 +8,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical">
-
-        <com.google.android.material.appbar.AppBarLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:theme="@style/Theme.Meble_TheFurnitureApp.AppBarOverlay">
-
-            <androidx.appcompat.widget.Toolbar
-                android:id="@+id/toolbar"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="#A18D67"
-                app:popupTheme="@style/Theme.Meble_TheFurnitureApp.PopupOverlay">
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/audiowide"
-                    android:text="Dressing Table"
-                    android:gravity="center"
-                    android:textAllCaps="true"
-                    android:textSize="30sp"
-                    android:textStyle="bold|italic" />
-            </androidx.appcompat.widget.Toolbar>
-        </com.google.android.material.appbar.AppBarLayout>
+        android:orientation="vertical"
+        android:background="@drawable/shapetheme">
 
 
         <!-- TODO: Update blank fragment layout -->
