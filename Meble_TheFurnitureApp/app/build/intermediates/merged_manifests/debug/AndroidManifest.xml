@@ -56,7 +56,8 @@
         <activity
             android:name="com.example.meble_thefurnitureapp.Beds_BabyCots"
             android:label="Baby Cots"
-            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" />
+            android:parentActivityName="com.example.meble_thefurnitureapp.HomePage" >
+        </activity>
         <activity
             android:name="com.example.meble_thefurnitureapp.HomePage"
             android:label="@string/title_activity_home_page"

@@ -34,6 +34,7 @@ Checkout checkout;
         /*For Back Arrow*/
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#A18D67")));
 
         /*For Payment*/
         Checkout.preload(getApplicationContext());
