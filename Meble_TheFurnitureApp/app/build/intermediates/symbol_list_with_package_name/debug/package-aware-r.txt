@@ -1786,6 +1786,7 @@ drawable bcs4
 drawable beds_baby_cot
 drawable beds_beds_with_storage
 drawable beds_bunk_beds
+drawable beds_childrens_beds
 drawable beds_double_beds
 drawable beds_single_beds
 drawable beds_sofa_beds

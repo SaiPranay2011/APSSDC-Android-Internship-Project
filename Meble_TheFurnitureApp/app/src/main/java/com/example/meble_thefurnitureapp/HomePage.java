@@ -76,4 +76,34 @@ public class HomePage extends AppCompatActivity {
         Intent i = new Intent(getApplicationContext(),AboutUs.class);
         startActivity(i);
     }
+
+    public void sofa_beds(View view) {
+        Intent i = new Intent(getApplicationContext(),Beds_SofaBeds.class);
+        startActivity(i);
+    }
+
+    public void stools(View view) {
+        Intent i = new Intent(getApplicationContext(),Chairs_Stools.class);
+        startActivity(i);
+    }
+
+    public void bookcases(View view) {
+        Intent i = new Intent(getApplicationContext(),BookcasesShelves_Bookcases.class);
+        startActivity(i);
+    }
+
+    public void computer_table(View view) {
+        Intent i = new Intent(getApplicationContext(),TablesAndDesks_ComputerDesks.class);
+        startActivity(i);
+    }
+
+    public void outside_furniture(View view) {
+        Intent i = new Intent(getApplicationContext(),FurnitureSets_Oscfurniture.class);
+        startActivity(i);
+    }
+
+    public void childrens_beds(View view) {
+        Intent i = new Intent(getApplicationContext(),Beds_ChildrensBeds.class);
+        startActivity(i);
+    }
 }
