@@ -23,4 +23,6 @@
     <style name="Theme.Meble_TheFurnitureApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.Meble_TheFurnitureApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
 </resources>
