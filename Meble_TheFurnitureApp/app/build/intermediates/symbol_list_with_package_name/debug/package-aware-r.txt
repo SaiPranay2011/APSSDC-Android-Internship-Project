@@ -1783,6 +1783,12 @@ drawable bcs1
 drawable bcs2
 drawable bcs3
 drawable bcs4
+drawable beds_baby_cot
+drawable beds_beds_with_storage
+drawable beds_bunk_beds
+drawable beds_double_beds
+drawable beds_single_beds
+drawable beds_sofa_beds
 drawable bfs
 drawable bfs1
 drawable bfs2
@@ -2004,8 +2010,11 @@ drawable su1
 drawable su2
 drawable su3
 drawable su4
+drawable tables_desks_bed_side_table
 drawable tables_desks_cafe_table
 drawable tables_desks_children_table
+drawable tables_desks_coffee_side_table
+drawable tables_desks_computer_desks
 drawable tables_desks_dressing_table
 drawable test_custom_background
 drawable tooltip_frame_dark

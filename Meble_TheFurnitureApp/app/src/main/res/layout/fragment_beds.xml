@@ -75,7 +75,7 @@
                 android:padding="7.5dp"
                 android:layout_gravity="end"
                 android:id="@+id/ChildrenBeds"
-                android:src="" />
+                android:src="@drawable/beds_bunk_beds" />
 
         </LinearLayout>
 
