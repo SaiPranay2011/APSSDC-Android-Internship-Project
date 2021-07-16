@@ -4,6 +4,8 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Activity;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
@@ -22,6 +24,7 @@ public class Chairs_Benches extends AppCompatActivity implements PaymentResultLi
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chairs_benches);
         ActionBar actionBar = getSupportActionBar();
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#A18D67")));
         actionBar.setDisplayHomeAsUpEnabled(true);
 
         /*For Payment*/

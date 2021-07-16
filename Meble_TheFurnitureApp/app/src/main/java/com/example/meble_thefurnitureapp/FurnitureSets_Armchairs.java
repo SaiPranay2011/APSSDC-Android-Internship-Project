@@ -4,6 +4,8 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Activity;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
@@ -23,6 +25,7 @@ public class FurnitureSets_Armchairs extends AppCompatActivity implements Paymen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_furniture_sets_armchairs);
         ActionBar actionBar = getSupportActionBar();
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#A18D67")));
         actionBar.setDisplayHomeAsUpEnabled(true);
 
         /*For Payment*/
