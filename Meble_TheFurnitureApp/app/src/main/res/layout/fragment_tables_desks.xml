@@ -31,7 +31,7 @@
             android:background="@drawable/imageviewborder"
             android:padding="7.5dp"
             android:id="@+id/BedsideTable"
-            android:src="@drawable/ic_launcher_background" />
+            android:src="@drawable/tables_desks_bed_side_table" />
 
     </LinearLayout>
 
@@ -48,7 +48,7 @@
             android:padding="7.5dp"
             android:layout_gravity="end"
             android:id="@+id/CafeTable"
-            android:src="@drawable/ic_launcher_background" />
+            android:src="@drawable/tables_desks_cafe_table" />
 
     </LinearLayout>
 
@@ -81,7 +81,7 @@
             android:padding="7.5dp"
             android:layout_gravity="end"
             android:id="@+id/CoffeeandSideTables"
-            android:src="@drawable/ic_launcher_background" />
+            android:src="@drawable/tables_desks_coffee_side_table" />
 
     </LinearLayout>
 
@@ -97,7 +97,7 @@
             android:background="@drawable/imageviewborder"
             android:padding="7.5dp"
             android:id="@+id/ComputerDesks"
-            android:src="@drawable/ic_launcher_background" />
+            android:src="@drawable/tables_desks_computer_desks" />
 
     </LinearLayout>
 

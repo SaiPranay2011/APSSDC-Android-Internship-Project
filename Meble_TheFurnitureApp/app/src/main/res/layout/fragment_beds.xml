@@ -25,7 +25,7 @@
                 android:background="@drawable/imageviewborder"
                 android:padding="7.5dp"
                 android:id="@+id/BabyCots"
-                android:src="@drawable/ic_launcher_background" />
+                android:src="@drawable/beds_baby_cot" />
 
         </LinearLayout>
 
@@ -42,7 +42,7 @@
                 android:padding="7.5dp"
                 android:layout_gravity="end"
                 android:id="@+id/BedsWithStorage"
-                android:src="@drawable/ic_launcher_background" />
+                android:src="@drawable/beds_beds_with_storage" />
 
         </LinearLayout>
 
@@ -58,7 +58,7 @@
                 android:background="@drawable/imageviewborder"
                 android:padding="7.5dp"
                 android:id="@+id/BunkBeds"
-                android:src="@drawable/ic_launcher_background" />
+                android:src="@drawable/beds_bunk_beds" />
 
         </LinearLayout>
 
@@ -75,7 +75,7 @@
                 android:padding="7.5dp"
                 android:layout_gravity="end"
                 android:id="@+id/ChildrenBeds"
-                android:src="@drawable/ic_launcher_background" />
+                android:src="" />
 
         </LinearLayout>
 
@@ -91,7 +91,7 @@
                 android:background="@drawable/imageviewborder"
                 android:padding="7.5dp"
                 android:id="@+id/DoubleBeds"
-                android:src="@drawable/ic_launcher_background" />
+                android:src="@drawable/beds_double_beds" />
 
         </LinearLayout>
 
@@ -108,7 +108,7 @@
                 android:padding="7.5dp"
                 android:layout_gravity="end"
                 android:id="@+id/SingleBeds"
-                android:src="@drawable/ic_launcher_background" />
+                android:src="@drawable/beds_single_beds" />
 
         </LinearLayout>
 
@@ -124,7 +124,7 @@
                 android:background="@drawable/imageviewborder"
                 android:padding="7.5dp"
                 android:id="@+id/SofaBeds"
-                android:src="@drawable/ic_launcher_background" />
+                android:src="@drawable/beds_sofa_beds" />
 
         </LinearLayout>
     </LinearLayout>
