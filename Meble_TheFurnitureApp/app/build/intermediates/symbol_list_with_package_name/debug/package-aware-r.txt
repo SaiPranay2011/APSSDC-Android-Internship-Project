@@ -1995,6 +1995,10 @@ drawable sbs3
 drawable sbs4
 drawable shape
 drawable shapetheme
+drawable shelves_bookcases
+drawable shelves_pantry
+drawable shelves_shelving_units
+drawable shelves_storage_shelves
 drawable side_nav_bar
 drawable ss
 drawable ss1

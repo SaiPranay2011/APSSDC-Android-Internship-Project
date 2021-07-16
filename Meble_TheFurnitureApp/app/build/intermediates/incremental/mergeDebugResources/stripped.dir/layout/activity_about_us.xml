@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/shapetheme"
+    tools:context=".AboutUs">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MEBLE"
+        android:textStyle="bold|italic"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="40sp"
+        android:fontFamily="@font/audiowide"
+        android:textColor="#71541C"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_us_info"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="20dp"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="120dp"
+        android:gravity="end"
+        android:text="Mohammad Umar -- AP19110010247\n
+    Nandamuri Laasya Choudary-- AP19110010248\n
+    Nareddy Surya Nagi Reddy -- AP19110010241\n
+    C. Sai Pranay -- AP19110010255\n
+    G. Likhita -- AP19110010489"
+        android:textSize="15dp"
+        android:textStyle="bold"/>
+
+
+
+</LinearLayout>

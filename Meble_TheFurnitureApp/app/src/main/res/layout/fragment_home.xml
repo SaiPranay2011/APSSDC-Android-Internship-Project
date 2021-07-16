@@ -124,7 +124,7 @@
             android:layout_margin="20dp"
             android:background="@drawable/imageviewborder"
             android:padding="7.5dp"
-            android:src="@drawable/furniture_sets_outside_furniture"
+            android:src="@drawable/beds_childrens_beds"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
