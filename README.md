@@ -14,6 +14,6 @@ C. Sai Pranay - AP19110010255
 
 G. Likhita - AP19110010489
 
-Mohammad Umar - AP19110010248
+Mohammad Umar - AP19110010247
 
 Surya Nagi Reddy - AP19110010241
