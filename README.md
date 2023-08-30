@@ -1,5 +1,3 @@
-# APSSDC-Android-Internship-Project
-
 ***Meble - The Furniture App***
 
 **Introduction**
